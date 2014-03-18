@@ -22,8 +22,8 @@ if ( !defined('EQDKP_INC') ){
 
 if(!class_exists('tsw')) {
 	class tsw extends game_generic {
+		public $version			= '1.1';
 		protected $this_game	= 'tsw';
-		protected $types		= array('classes', 'races', 'factions', 'filters');
 		public $icons			= array('classes', 'classes_big', 'races', 'events');
 		protected $classes		= array();
 		protected $races		= array();
@@ -31,11 +31,51 @@ if(!class_exists('tsw')) {
 		protected $filters		= array();
 		public $langs			= array('english', 'german');
 
+		protected $class_dependencies = array(
+			array(
+				'name'		=> 'faction',
+				'type'		=> 'factions',
+				'admin' 	=> true,
+				'decorate'	=> false,
+				'parent'	=> false,
+			),
+			array(
+				'name'		=> 'race',
+				'type'		=> 'races',
+				'admin'		=> false,
+				'decorate'	=> true,
+				'parent'	=> false
+			),
+			array(
+				'name'		=> 'class',
+				'type'		=> 'classes',
+				'admin'		=> false,
+				'decorate'	=> true,
+				'primary'	=> true,
+				'colorize'	=> true,
+				'roster'	=> true,
+				'recruitment' => true,
+				'parent'	=> array(
+					'race' => array(
+						0 	=> 'all',			// Unknown
+						1 	=> 'all',			// Human
+					),
+				),
+			),
+		);
+
+		protected $class_colors = array(
+			1	=> '#C8C8C8',
+			2	=> '#49A03E',
+			3	=> '#3287C1',
+			4	=> '#C66F0A',
+			5	=> '#CA4E4E',
+		);
+
 		protected $glang		= array();
 		protected $lang_file	= array();
-		protected $path			= false;
+		protected $path			= '';
 		public $lang			= false;
-		public $version			= '1.1';
 
 		/**
 		* Initialises filters
@@ -55,14 +95,6 @@ if(!class_exists('tsw')) {
 			}
 		}
 		public function get_OnChangeInfos($install=false){
-			//classcolors
-			$info['class_color'] = array(
-				1	=> '#C8C8C8',
-				2	=> '#49A03E',
-				3	=> '#3287C1',
-				4	=> '#C66F0A',
-				5	=> '#CA4E4E',
-			);
 			$info['aq'] = array();
 
 			//Do this SQL Query NOT if the Eqdkp is installed -> only @ the first install

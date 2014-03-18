@@ -30,16 +30,16 @@ $english_array =  array(
 	),
 
 	'races' => array(
-		'Unknown',
-		'Human',
+		0	=> 'Unknown',
+		1	=> 'Human',
 	),
 	'factions' => array(
-		'Illuminati',
-		'Dragons',
-		'Templars'
+		'illuminants'	=> 'Illuminati',
+		'dragons'		=> 'Dragons',
+		'templars'		=> 'Templars'
 	),
 	'lang' => array(
-		'tsw' => 'The Secret World',
+		'tsw'			=> 'The Secret World',
 	),
 );
 

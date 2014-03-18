@@ -29,16 +29,16 @@ $german_array = array(
 		5   => 'Fernkämpfer',
 	),
 	'races' => array(
-		'Unknown',
-		'Mensch',
+		0	=> 'Unknown',
+		1	=> 'Mensch',
 	),
 	'factions' => array(
-		'Illuminaten',
-		'Drachen',
-		'Templer'
+		'illuminants'	=> 'Illuminaten',
+		'dragons'		=> 'Drachen',
+		'templars'		=> 'Templer'
 	),
 	'lang' => array(
-		'tsw' => 'The Secret World',
+		'tsw'			=> 'The Secret World',
 	),
 );
 
