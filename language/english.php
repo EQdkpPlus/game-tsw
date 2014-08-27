@@ -28,11 +28,6 @@ $english_array =  array(
 		4	=> 'Melee',
 		5	=> 'Ranged',
 	),
-
-	'races' => array(
-		0	=> 'Unknown',
-		1	=> 'Human',
-	),
 	'factions' => array(
 		'illuminants'	=> 'Illuminati',
 		'dragons'		=> 'Dragons',

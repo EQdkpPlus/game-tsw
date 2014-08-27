@@ -28,10 +28,6 @@ $german_array = array(
 		4	=> 'Nahkämpfer',
 		5   => 'Fernkämpfer',
 	),
-	'races' => array(
-		0	=> 'Unknown',
-		1	=> 'Mensch',
-	),
 	'factions' => array(
 		'illuminants'	=> 'Illuminaten',
 		'dragons'		=> 'Drachen',
