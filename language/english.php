@@ -34,7 +34,14 @@ $english_array =  array(
 		'templars'		=> 'Templars'
 	),
 	'lang' => array(
-		'tsw'			=> 'The Secret World',
+		'tsw'						=> 'The Secret World',
+		'uc_race'					=> 'Race',
+		'uc_class'					=> 'Class',
+
+		// Admin Settings
+		'core_sett_fs_gamesettings'	=> 'The Secret World Settings',
+		'uc_faction'				=> 'Faction',
+		'uc_faction_help'			=> 'Select the default faction',
 	),
 );
 

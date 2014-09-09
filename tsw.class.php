@@ -24,9 +24,8 @@ if(!class_exists('tsw')) {
 		protected static $apiLevel	= 20;
 		public $version				= '1.1';
 		protected $this_game		= 'tsw';
-		public $icons				= array('classes', 'classes_big', 'events');
+		public $types				= array('factions', 'classes', 'classes_big', 'events');
 		protected $classes			= array();
-		protected $races			= array();
 		protected $factions			= array();
 		protected $filters			= array();
 		public $langs				= array('english', 'german');
@@ -48,10 +47,11 @@ if(!class_exists('tsw')) {
 				'colorize'	=> true,
 				'roster'	=> true,
 				'recruitment' => true,
-				'parent'	=> array(
-					'race' => array(
-						0 	=> 'all',			// Unknown
-						1 	=> 'all',			// Human
+				'parent' => array(
+					'faction' => array(
+						'illuminants'	=> 'all',			// illuminants
+						'dragons'		=> 'all',			// dragons
+						'templars'		=> 'all',			// templars
 					),
 				),
 			),
