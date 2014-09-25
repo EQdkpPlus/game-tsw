@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tswitem>
+<itemid>100022</itemid>
+<name>Überirdische Diode
+</name>
+<iconpath>100022</iconpath>
+<quality>6</quality>
+
+
+<tooltip><![CDATA[
+
+<table width="100%"> 
+	<tr> 
+		<td align="left" class="tsw_tooltiptitle tsw_q6" colspan="2">Überirdische Diode
+</td> </tr>
+	<tr> 
+		<td align="left" class="tsw_infolabel" colspan="2">Fertigungskomponente (QS 10 Heroisch)</td> </tr> 
+	<tr> 
+		<td align="left" class="tsw_itemlabel_slot" colspan="2">Charaktergebunden</td> </tr>  
+	<tr> 
+		<td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+		</tr> 
+		<tr>
+		<td align="left" class="tsw_infolabel" colspan="2">Summt mit geheimnisvoller Energie, anders als alles andere aus diesem Zeitalter.
+
+
+	</td></tr>
+
+	
+
+</table>
+]]>
+</tooltip></tswitem>

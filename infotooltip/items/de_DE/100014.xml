@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tswitem>
+<itemid>100014</itemid>
+<name>Jenseits der Gewalt
+</name>
+<iconpath>100014</iconpath>
+<quality>5</quality>
+
+
+<tooltip><![CDATA[
+
+<table width="100%"> 
+	<tr> 
+		<td align="left" class="tsw_tooltiptitle tsw_q5" colspan="2">Jenseits der Gewalt
+</td> </tr>
+	<tr> 
+		<td align="left" class="tsw_infolabel" colspan="2">Faustwaffe (QS 10.4 Episch)</td> </tr> 
+	<tr> 
+		<td align="left" class="tsw_itemlabel_slot" colspan="2"> Charaktergebunden</td> </tr>  
+	<tr> 
+		<td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+		</tr> 
+	<tr>
+		<td align="left" width="5%"class="tsw_infolabel">+446</td> 
+		<td align="left" class="tsw_infolabel">Waffenkraft</td> </tr> 
+	<tr> 
+		<td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+	</tr>
+	<tr>
+		<td width="5%" align="center" class="tsw_item_manastone"></td>
+		<td width="95%" align="left" class="tsw_infolabel_slot">leerer Glyphen Slot </td></tr>
+	<tr>  
+		<td width="5%" align="center" class="tsw_item_manastone"> </td> 
+		 <td width="95%" align="left" class="tsw_infolabel_slot">leerer Siegel Slot </td></tr>  
+	
+
+</table>
+]]>
+</tooltip></tswitem>

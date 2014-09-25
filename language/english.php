@@ -24,24 +24,51 @@ $english_array =  array(
 		0	=> 'Unknown',
 		1	=> 'Tank',
 		2	=> 'Healer',
-		3	=> 'Supporter',
+		3	=> 'DPS',
 		4	=> 'Melee',
-		5	=> 'Ranged',
+		5	=> 'Leech',
 	),
-	'factions' => array(
-		'illuminants'	=> 'Illuminati',
-		'dragons'		=> 'Dragons',
-		'templars'		=> 'Templars'
+	'races' => array(
+		0	=> 'Unknown',
+		1	=> 'Templars',
+		2	=> 'Dragons',
+		3	=> 'Illuminati',
+	),
+	'roles' => array(
+		1	=> 'Healer',
+		2	=> 'Tank',
+		3	=> 'Damage Dealer',
+		4	=> 'Range',
+		5	=> 'Podder',
 	),
 	'lang' => array(
 		'tsw'						=> 'The Secret World',
-		'uc_race'					=> 'Race',
-		'uc_class'					=> 'Class',
+		'uc_race'					=> 'Faction',
+		'uc_class'					=> 'prefered Class',
+		'uc_faction'				=> 'Faction',
+		
+		// Profile information
+		'uc_pvp'					=> 'Fusang Battlegroup',
+		'uc_pvp_help'				=> 'Battlegroup is Serverbound',
+		'uc_RP'						=> 'Roleplayer',
+		'uc_RP_help'				=> '',
+		'uc_yes'					=> 'Yes',
+		'uc_no'						=> 'No',
+		'uc_unknown'				=> 'unknown',
+		'uc_BG'						=> 'Battelgroup',
+		'uc_BG_A'					=> 'Battelgroup A',
+		'uc_BG_B'					=> 'Battelgroup B',
+		'uc_guild'					=> 'Cabal',
+		
+		//Eventa
+		'eidolon'					=> 'Eidolon',
+		'ny_raid'					=> 'New York',
+		'tokio'						=> 'Tokio',
 
 		// Admin Settings
 		'core_sett_fs_gamesettings'	=> 'The Secret World Settings',
 		'uc_faction'				=> 'Faction',
-		'uc_faction_help'			=> 'Select the default faction',
+		'uc_faction_help'			=> '',
 	),
 );
 

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tswitem>
+<itemid>100011</itemid>
+<name>Broadway Charm</name>
+<iconpath>100011</iconpath>
+<quality>5</quality>
+
+
+<tooltip><![CDATA[
+
+<table width="100%"> 
+	<tr> 
+		<td align="left" class="tsw_tooltiptitle tsw_q5" colspan="2">Broadway Charm</td> </tr>
+	<tr> 
+		<td align="left" class="tsw_infolabel" colspan="2">Occult Talisman (QS 10.4 Epic)</td></tr> 
+	<tr> 
+		 <td align="left" class="tsw_infolabel_slot" colspan="2">Character Bound </td></tr>  
+	<tr> 
+		<td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+		</tr> 
+	<tr>
+		<td align="left" width="5%"class="tsw_infolabel_hl">+427</td> 
+		<td align="left" class="tsw_infolabel"> Heal Rating</td> </tr> 
+	<tr> 
+		<td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+	</tr>
+	<tr>
+		<td align="left" class="tsw_infolabel" colspan="2">Whenever you heal a target that is below <span class="tsw_infolabel_hl">66%</span> of their health, there is a <span class="tsw_infolabel_hl">33%</span> chance that you will also give them a beneficial effect that increases their Physical and Magical Protection by <span class="tsw_infolabel_hl">400</span> for <span class="tsw_infolabel_hl">10</span>
+ seconds. 
+
+		</td></tr>
+	<tr> 
+		<td colspan="3"> <hr class="tsw_tooltip_hr"> </td>
+	</tr> 
+	
+	<tr>  
+		<td width="5%" align="center" class="tsw_item_manastone"> </td> 
+		 <td width="95%" align="left" class="tsw_infolabel_slot">Empty Signet Slot</td></tr>  
+	
+
+</table>
+]]>
+</tooltip></tswitem>

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tswitem>
+<itemid>100009</itemid>
+<name>U-Bahn-Münzen</name>
+<iconpath>100009</iconpath>
+<quality>5</quality>
+
+
+<tooltip><![CDATA[
+
+<table width="100%"> 
+	<tr> 
+		<td align="left" class="tsw_tooltiptitle tsw_q5" colspan="2">U-Bahn-Münzen
+</td> </tr>
+	<tr> 
+		<td align="left" class="tsw_infolabel" colspan="2">Glückstalisman (QS 10.4 Episch)</td></tr> 
+	<tr> 
+		 <td align="left" class="tsw_infolabel_slot" colspan="2">Charaktergebunden </td></tr>  
+	<tr> 
+		<td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+		</tr> 
+	<tr>
+		<td align="left" width="5%"class="tsw_infolabel_hl">+427</td> 
+		<td align="left" class="tsw_infolabel">Angriffswert</td> </tr> 
+	<tr> 
+		<td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+	</tr>
+	<tr>
+		<td align="left" class="tsw_infolabel" colspan="2">Alle <span class="tsw_infolabel_hl">6</span> Sekunden erhalten sie die Stapel eines positiven Effekts, der jeden verursachten Schaden <span class="tsw_infolabel_hl">1%</span> pro Stapel erhöht. Dieser Effekt wird entfernt, wenn sie einen Streiftreffer erzielen oder die Anzahl der Stapel <span class="tsw_infolabel_hl">10</span> übersteigt.
+
+</td></tr>
+	<tr> 
+		<td colspan="3"> <hr class="tsw_tooltip_hr"> </td>
+	</tr> 
+	
+	<tr>  
+		<td width="5%" align="center" class="tsw_item_manastone"> </td> 
+		 <td width="95%" align="left" class="tsw_infolabel_slot">leerer Siegel Slot </td></tr>  
+	
+
+</table>
+]]>
+</tooltip></tswitem>

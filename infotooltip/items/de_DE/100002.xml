@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tswitem>
+<itemid>100002</itemid>
+<name>Prüfsteinupgrade</name>
+<iconpath>100002</iconpath>
+<quality>5</quality>
+
+
+<tooltip><![CDATA[
+
+<table width="100%"> 
+	<tr> 
+		<td align="left" class="tsw_tooltiptitle tsw_q5" colspan="2">Prüfsteinupgrade</td> </tr>
+	<tr> 
+		<td align="left" class="tsw_infolabel" colspan="2"> Fertigungskomponente (QS 10 Episch)</td> </tr> 
+	<tr> 
+		<td align="left" class="tsw_itemlabel_slot" colspan="2">Charaktergebunden</td> </tr>  
+	<tr> 
+		<td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+		</tr> 
+		<tr>
+		<td align="left" class="tsw_infolabel" colspan="2">Ermöglicht ein Upgrade-Werkzeugsatz für individuelle Waffen oder Talismane, ein Objekt mit höhren Upgrade zu versehen, als dies derzeit möglich wäre.
+
+	</td></tr>
+
+	
+
+</table>
+]]>
+</tooltip></tswitem>

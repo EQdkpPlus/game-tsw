@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tswitem>
+<itemid>100001</itemid>
+<name>Astralfuse</name>
+<iconpath>100001</iconpath>
+<quality>5</quality>
+
+
+<tooltip><![CDATA[
+
+<table width="100%"> 
+	<tr> 
+		<td align="left" class="tsw_tooltiptitle tsw_q5" colspan="2">Astralfuse</td> </tr>
+	<tr> 
+		<td align="left" class="tsw_infolabel" colspan="2">Assembly Component (QS 10 Epic)</td> </tr> 
+	<tr> 
+		<td align="left" class="tsw_itemlabel_slot" colspan="2">Character Bound</td> </tr>  
+	<tr> 
+		<td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+		</tr> 
+		<tr>
+		<td align="left" class="tsw_infolabel" colspan="2">Allows a Custom glyph upgrade toolkit to upgrade an item beyound ist current capabilities.
+	</td></tr>
+
+	
+
+</table>
+]]>
+</tooltip></tswitem>

@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tswitem>
+<itemid>100003</itemid>
+<name>Blood of the Old Ones</name>
+<iconpath>100003</iconpath>
+<quality>5</quality>
+
+
+<tooltip><![CDATA[
+
+<table width="100%"> 
+	<tr> 
+		<td align="left" class="tsw_tooltiptitle tsw_q5" colspan="2">Blood of the Old Ones</td> </tr>
+	<tr> 
+		<td align="left" class="tsw_infolabel" colspan="2">Headtalisman (QS 10.4 Epic)</td></tr> 
+	<tr> 
+		 <td align="left" class="tsw_infolabel_slot" colspan="2">Character Bound </td></tr>  
+	<tr> 
+		<td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+		</tr> 
+	<tr>
+		<td align="left" width="5%" class="tsw_infolabel_hl">+735</td> 
+		<td align="left" class="tsw_infolabel">Heal Rating</td> </tr> 
+	<tr> 
+		<td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+	</tr>
+	<tr>
+		<td align="left" class="tsw_infolabel" colspan="2">Whenever you apply a heal effect to a friend, there is a <span class="tsw_infolabel_hl">10%</span> chance that you will heal the target for an additional <span class="tsw_infolabel_hl">3%</span> of their maximum health. This can only happen once every <span class="tsw_infolabel_hl">5</span> seconds.
+
+</td></tr>
+	<tr> 
+		<td colspan="3"> <hr class="tsw_tooltip_hr"> </td>
+	</tr> 
+	
+	<tr>  
+		<td align="right" class="tsw_item_manastone"></td> 
+		 <td align="left" class="tsw_infolabel_slot">Empty Signet Slot</td></tr>  
+	
+
+</table>
+]]>
+</tooltip></tswitem>

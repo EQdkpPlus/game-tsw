@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tswitem>
+<itemid>100005</itemid>
+<name>Asche der alten Wesen</name>
+<iconpath>100005</iconpath>
+<quality>5</quality>
+
+
+<tooltip><![CDATA[
+
+<table width="100%"> 
+	<tr> 
+		<td align="left" class="tsw_tooltiptitle tsw_q5" colspan="2">Asche der alten Wesen</td> </tr>
+	<tr> 
+		<td align="left" class="tsw_infolabel" colspan="2">Kopftalisman (QS 10.4 Episch)</td></tr> 
+	<tr> 
+		 <td align="left" class="tsw_infolabel_slot" colspan="2">Charaktergebunden </td></tr>  
+	<tr> 
+		<td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+		</tr> 
+	<tr>
+		<td align="left" width="5%"class="tsw_infolabel_hl">+735</td> 
+		<td align="left" class="tsw_infolabel"> Angriffswert</td> </tr> 
+	<tr> 
+		<td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+	</tr>
+	<tr>
+		<td align="left" class="tsw_infolabel" colspan="2">Immer wenn sie einen durchdringen Treffer erzielen, erhalten sie einen positiven Effekt, der ihren Durchdringswert um <span class="tsw_infolabel_hl">25%</span> erhöht, und zwar <span class="tsw_infolabel_hl">15</span> Sekudnen lang. Dauer dieses Effekts wird beim erneuten wirken nicht aufgefrischt.
+</td></tr>
+	<tr> 
+		<td colspan="3"> <hr class="tsw_tooltip_hr"> </td>
+	</tr> 
+	
+	<tr>  
+		<td width="5%" align="center" class="tsw_item_manastone"> </td> 
+		 <td width="95%" align="left" class="tsw_infolabel_slot">leerer Siegel Slot </td></tr>  
+	
+
+</table>
+]]>
+</tooltip></tswitem>

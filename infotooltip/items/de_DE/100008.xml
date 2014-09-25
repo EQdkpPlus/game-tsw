@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tswitem>
+<itemid>100008</itemid>
+<name>Brooklyn-Armschutz</name>
+<iconpath>100008</iconpath>
+<quality>5</quality>
+
+
+<tooltip><![CDATA[
+
+<table width="100%"> 
+	<tr> 
+		<td align="left" class="tsw_tooltiptitle tsw_q5" colspan="2">Brooklyn-Armschutz
+</td> </tr>
+	<tr> 
+		<td align="left" class="tsw_infolabel" colspan="2">Handgelenktalisman (QS 10.4 Episch)</td></tr> 
+	<tr> 
+		 <td align="left" class="tsw_infolabel_slot" colspan="2">Charaktergebunden </td></tr>  
+	<tr> 
+		<td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+		</tr> 
+	<tr>
+		<td align="left" width="5%"class="tsw_infolabel_hl">+2237</td> 
+		<td align="left" class="tsw_infolabel">Gesundheit</td> </tr> 
+	<tr> 
+		<td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+	</tr>
+	<tr>
+		<td align="left" class="tsw_infolabel" colspan="2">Immer wenn sie angegriffen werden, erhalten sie einen Stapel eines positiven Effekts, der ihre Ausweichchance um <span class="tsw_infolabel_hl">5%</span> pro Stabel erhöht, dieser Effekt wird nach einem erfolgreichen Ausweichen entfernt.
+</td></tr>
+	<tr> 
+		<td colspan="3"> <hr class="tsw_tooltip_hr"> </td>
+	</tr> 
+	
+	<tr>  
+		<td width="5%" align="center" class="tsw_item_manastone"> </td> 
+		 <td width="95%" align="left" class="tsw_infolabel_slot">leerer Siegel Slot </td></tr>  
+	
+
+</table>
+]]>
+</tooltip></tswitem>

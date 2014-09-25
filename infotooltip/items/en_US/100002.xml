@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tswitem>
+<itemid>100002</itemid>
+<name>Criterion</name>
+<iconpath>100002</iconpath>
+<quality>5</quality>
+
+
+<tooltip><![CDATA[
+
+<table width="100%"> 
+	<tr> 
+		<td align="left" class="tsw_tooltiptitle tsw_q5" colspan="2">Criterion</td> </tr>
+	<tr> 
+		<td align="left" class="tsw_infolabel" colspan="2">Assembly Component (QS 10 Epic)</td> </tr> 
+	<tr> 
+		<td align="left" class="tsw_itemlabel_slot" colspan="2">Character Bound</td> </tr>  
+	<tr> 
+		<td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+		</tr> 
+		<tr>
+		<td align="left" class="tsw_infolabel" colspan="2">Allows a Custom weapon or talisman upgrade toolkit to upgrade an item beyond ist current capabilities.
+
+	</td></tr>
+
+	
+
+</table>
+]]>
+</tooltip></tswitem>
