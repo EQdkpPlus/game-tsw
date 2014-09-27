@@ -22,61 +22,50 @@ if(!class_exists('parseyourself')) {
 	class parseyourself extends itt_parser {
 		public static $shortcuts = array('pdl', 'puf' => 'urlfetcher', 'pfh' => array('file_handler', array('infotooltips')));
 
-		public $supported_games = array('tsw');
-		public $av_langs = array('en' => 'en_US', 'de' => 'de_DE');
+		public $supported_games	= array('tsw');
+		public $av_langs		= array('en' => 'en_US', 'de' => 'de_DE');
 
-		public $settings = array(
-			'itt_icon_loc' => array(
-				'type' => 'text',
-				'default' => 'http://localhost/beta/games/tsw/infotooltip/items/images/'),
-			'itt_icon_ext' => array(
-				'type' => 'text',
-				'default' => '.png'),
-			'itt_default_icon' => array(
-				'type' => 'text',
-				'default' => '100000'),
-			'itt_useitemlist' => array(
-				'type' => 'checkbox',
-				'options' => true,
-				'size' => false,
-				'value' => '1'),
-			'itt_xml_url' => array(
-				'type' => 'text',
-				'default' => 'http://localhost/beta/'),
-		);
+		public $settings = array();
 
 		public $itemlist = array();
 		public $recipelist = array();
 
 		private $searched_langs = array();
-		
+
+		public function getDataFolder(){
+			// set the default image path and options
+			$foldername						= $this->root_path.'games/'.$this->config['game'].'/infotooltip/';
+			$this->config['icon_path']		= $foldername.'items/images/';
+			$this->config['icon_ext']		= '.png';
+			$this->config['default_icon']	= '100000';
+			return $foldername;
+		}
+
 		public function __destruct(){
 			unset($this->itemlist);
 			unset($this->recipelist);
 			unset($this->searched_langs);
 			parent::__construct($init, $config, $root_path, $cache, $puf, $pdl);
 			$this->av_langs = ((isset($g_lang[$this->config['game']])) ? $g_lang[$this->config['game']] : '');
-			
 		}
 
-		//initializes the item/recipelist. if it does not exists in the cache, get it from: http://www.aiondatabase.com/xml/en_US/items(recipes)/item(recipe)list.xml
-		private function getItemlist($lang, $forceupdate=false, $type='item')
-		{
+		private function getItemlist($lang, $forceupdate=false, $type='item'){
 			$this->{$type.'list'} = unserialize(file_get_contents($this->pfh->FilePath($this->config['game'].'_'.$lang.'_'.$type.'list.itt', 'itt_cache')));
-			if(!$this->itemlist OR $forceupdate)
-			{
-				$urlitemlist = $this->puf->fetch($this->config['xml_url'].'/games/'.$this->config['game'].'/infotooltip/'.$type.'s/'.$lang.'/'.$type.'list.xml');
-				$xml = simplexml_load_string($urlitemlist);
+			switch($lang){
+				case 'de': $lang='de_DE';break;
+				case 'en': $lang='en_EN';break;
+				default: $lang='en_EN';
+			}
+			if(!$this->itemlist OR $forceupdate){
+				$urlitemlist	= $this->getDataFolder().$type.'s/'.$lang.'/'.$type.'list.xml';
+				$xml			= simplexml_load_file($urlitemlist);
+
 				foreach($xml->children() as $item) {
 					$name = (string) $item['name'];
 					$this->{$type.'list'}[(int)$item['id']][$lang] = $name;
-			
-
 				}
 				$this->pfh->putContent($this->pfh->FilePath($this->config['game'].'_'.$lang.'_'.$type.'list.itt', 'itt_cache'), serialize($this->{$type.'list'}));
 			}
-			#print "<pre>";				//Check the filepath
-			#print_r($xml_url);			//Check the filepath
 			return true;
 		}
 
@@ -92,8 +81,8 @@ if(!class_exists('parseyourself')) {
 					foreach($iteml as $slang => $name) {
 						$loaded_item_langs[] = $slang;
 						if($itemname == $name){
-							$item_id[0] = $itemID;
-							$item_id[1] = 'items';
+							$item_id[0]	= $itemID;
+							$item_id[1]	= 'items';
 							break 2;
 						}
 					}
@@ -106,9 +95,6 @@ if(!class_exists('parseyourself')) {
 					if(!in_array($c_lang,$loaded_item_langs)) {
 						$toload[$c_lang][] = 'item';
 					}
-					#if(!in_array($c_lang,$loaded_recipe_langs)) {
-					#	$toload[$c_lang][] = 'recipe';
-					#}
 				}
 				foreach($toload as $lang => $load) {
 					foreach($load as $type) {
@@ -122,49 +108,46 @@ if(!class_exists('parseyourself')) {
 			return $item_id;
 		}
 
-
 		protected function searchItemID($itemname, $lang){
-			if($this->config['useitemlist']) {
-				return $this->getItemIDfromItemlist($itemname, $lang);
-			} else {
-				return $this->getItemIDfromItemlist($itemname, $lang); //Finde Itemlist, egal was ist
-			}
+			return $this->getItemIDfromItemlist($itemname, $lang);
 		}
 
 		protected function getItemData($item_id, $lang, $itemname='', $type='item'){
 			settype($item_id, 'int');
-			$item = array('id' => $item_id);
+			$item			= array('id' => $item_id);
 			if(!$item_id) return null;
-			
-			
-			$item['link'] = $this->config['xml_url'].'games/'.$this->config['game'].'/infotooltip/'.$type.'/'.$lang.'/'.$item['id'].'.xml';
-			$itemxml = $this->puf->fetch($item['link'], array('Cookie: cookieLangId="'.$lang.'";'));
-			//get the xml: http://www.aiondatabase.com/xml/$lang_code/items/xmls/$itemid.xml
 
-			#print "<pre>";				//Check the filepath
-			#print_r($item);			//Check the filepath
-
-			$itemxml = simplexml_load_file($item['link']);
-		
-			$item['name'] = (!is_numeric($itemname) AND strlen($itemname) > 0) ? $itemname : trim($itemxml->name);
-			
-			
-
-			//filter baditems
-			if(!isset($itemxml->tooltip) OR strlen($itemxml->tooltip) < 5) {
-				$item['baditem'] = true;
+			switch($lang){
+				case 'de': $lang='de_DE';break;
+				case 'en': $lang='en_EN';break;
+				default: $lang='en_EN';
 			}
 
-			//build itemhtml
-			
-			$html = str_replace('"', "'", $itemxml->tooltip);
+			$item['link']	= $this->getDataFolder().$type.'/'.$lang.'/'.$item['id'].'.xml';
+			if(file_exists($item['link'])){
+				$this->pdl->log('infotooltip', 'fetch item-data from: '.$item['link']);
+				$itemxml		= simplexml_load_file($item['link']);
 		
-			$template_html = trim(file_get_contents($this->root_path.'games/tsw/infotooltip/templates/tsw_popup.tpl'));
-			$item['html'] = str_replace('{ITEM_HTML}', stripslashes($html), $template_html);
-			$item['lang'] = $lang;
-			$item['icon'] = (string)$itemxml->iconpath;
-			$item['color'] = 'tsw_q'.$itemxml->quality;
+				$item['name']	= (!is_numeric($itemname) AND strlen($itemname) > 0) ? $itemname : trim($itemxml->name);
 
+				//filter baditems
+				if(!is_object($itemxml) OR !isset($itemxml->tooltip) OR strlen($itemxml->tooltip) < 5) {
+					$this->pdl->log('infotooltip', 'no xml-object returned');
+					$item['baditem'] = true;
+					return $item;
+				}
+				
+				//build itemhtml
+				$html			= str_replace('"', "'", (string)$itemxml->tooltip);
+				$template_html	= trim(file_get_contents($this->root_path.'games/tsw/infotooltip/templates/tsw_popup.tpl'));
+				$item['html']	= str_replace('{ITEM_HTML}', stripslashes($html), $template_html);
+				$item['lang']	= $lang;
+				$item['icon']	= (string)$itemxml->iconpath;
+				$item['color']	= 'tsw_q'.(string)$itemxml->quality;
+
+			}else{
+				$this->pdl->log('infotooltip', 'File '.$item['link'].' does not exist');
+			}
 			return $item;
 		}
 	}
