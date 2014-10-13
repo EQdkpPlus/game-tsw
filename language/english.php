@@ -26,7 +26,7 @@ $english_array =  array(
 		2	=> 'Healer',
 		3	=> 'DPS',
 		4	=> 'Melee',
-		5	=> 'Leech',
+		5   => 'Leech',
 	),
 	'races' => array(
 		0	=> 'Unknown',

@@ -1,19 +1,3 @@
-.tsw_tooltip {position:absolute;z-index:10;font-family:Verdana, Helvetica, Arial, sans-serif;color:#FFFFFF;font-size:11px;line-height:14px;width:500px;}
-.tsw_tooltip_container {padding:0px;border:0px;width:100%;border-spacing:0px;margin:0px;}
-.tsw_tooltip_border {padding:3px;background:url(../infotooltip/images/tooltip.gif);}
-
-.tsw_tooltip_icon
-{
-	background-repeat:no-repeat;
-	background-position:2px 2px;
-	height:44px;
-	width:44px;
-}
-.tsw_tooltip_icon_border {background:url(../infotooltip/images/icon_border_medium.gif);height:44px;width:44px;}
-
-.map_tooltip {position:absolute;z-index:9999;font-family:Verdana, Helvetica, Arial, sans-serif;color:#FFFFFF;font-size:11px;line-height:14px;max-width:300px;}
-.map_tooltip_container {padding:0px;border:0px;width:100%;border-spacing:0px;margin:0px;}
-.map_tooltip_border {padding:10px;background:url(../infotooltip/images/tooltip.gif);}
 
 .tsw_tooltip_hr {
 	border: 0px;
@@ -22,7 +6,7 @@
 	height: 2px;
 	display: block;
 }
-.tsw_itemlabel 			{ color: #EFDFA7;font-family:Verdana, Helvetica, Arial, sans-serif;font-size:11px;line-height:14px; }
+.tsw_itemlabel 			{ color: #EFDFA7;font-family:Verdana, Helvetica, Arial, sans-serif;font-size:11px;line-height:14px;}
 .tsw_itemlabel a			{ text-decoration:none;color: #EFDFA7;font-family:Verdana, Helvetica, Arial, sans-serif;font-size:11px;line-height:14px; }
 .tsw_itemlabel a:hover	{ text-decoration:underline;color: #EFDFA7;font-family:Verdana, Helvetica, Arial, sans-serif;font-size:11px;line-height:14px; }
 
@@ -31,64 +15,38 @@
 .tsw_infolabel a			{ text-decoration:none;text-decoration:none;color: #c5bfb6;font-family:Verdana, Helvetica, Arial, sans-serif;font-size:11px;line-height:14px; }
 .tsw_infolabel a:hover	{ text-decoration:underline;text-decoration:none;color: #c5bfb6;font-family:Verdana, Helvetica, Arial, sans-serif;font-size:11px;line-height:14px; }
 
-.tsw_infolabel_hl 		{ color: #ffc600;font-family:Verdana, Helvetica, Arial, sans-serif;font-size:11px;line-height:14px; }
+.tsw_infolabel_hl 		{ width: 40px !important; color: #ffc600;font-family:Verdana, Helvetica, Arial, sans-serif;font-size:11px;line-height:14px; text-align:center }
 
 .tsw_infolabel_slot 		{ color: #b2b2b2;font-family:Verdana, Helvetica, Arial, sans-serif;font-size:11px;line-height:14px; }
 
 .tsw_loading 			{ color: white;font-family:Verdana, Helvetica, Arial, sans-serif;font-size:11px;line-height:14px; }
-.tsw_infolabel_hl 		{ color: #ffc600;font-family:Verdana, Helvetica, Arial, sans-serif;font-size:11px;line-height:14px; }
-.tsw_skillname
-{
-	font-size: 14px;
-	font-weight: bold;
-    color: #DCD2CE;
-}
-.tsw_gathername
-{
-	font-size: 14px;
-	font-weight: bold;
-    color: #E1CC59;
-}
+
+
 
 .tsw_tooltiptitle {
-	font-size: 14px;
-	font-weight: bold;
+	font-size: 14px !important;
+	font-weight: bold
+	
 }
-.tsw_skill {
-    color: #E1CC59;
-}
-.tsw_quest {
-    color: #E1CC59;
-}
-.tsw_default {
-    color: #FFFFFF;
-}
-.tsw_q1 {
-	color: #ADADAD; 	/**/
-}
-.tsw_q2 {
-	color: #F1F1F1; 	/**/
-}
-.tsw_q3 {
-	color: #00ff16; 	/*normal/green*/
-}
-.tsw_q4 {
-	color: #02b6ff; 	/*rare/blue*/
-}
-.tsw_q5 {
-	color: #d565f8; 	/*epic/purple*/
-}
-.tsw_q6 {
-	color: #ffd001; 	/*heroic/yellow*/
-}
+.tsw_skill {    color: #E1CC59	!important}
+.tsw_quest {    color: #E1CC59 !important}
+.tsw_default {    color: #FFFFFF !important}
+
+.tsw_q1 {	color: #ADADAD !important } /**/
+.tsw_q2 {	color: #F1F1F1 !important }	/**/
+.tsw_q3 {	color: #00ff16 !important }	/*normal/green*/
+.tsw_q4 {	color: #02b6ff !important }	/*rare/blue*/
+.tsw_q5 {	color: #d565f8 !important }	/*epic/purple*/
+.tsw_q6 {	color: #ffd001 !important }	/*heroic/yellow*/
+
 
 
 /* Slots */
 .tsw_item_manastone {
-	background:url(../infotooltip/images/manastonesocket.png) no-repeat;
+	background:url(../infotooltip/images/manastonesocket.png) no-repeat !important;
 	width:15px;
 	height:15px;
-	background-position:center;
+	background-position:center !important;
 	
 
 }
@@ -96,3 +54,191 @@
 
 
 
+/* item icon */
+div.iconmedium  {
+	width: 70px;
+	height: 70px;
+	background: 4px 4px no-repeat;
+	position: absolute;
+	margin-left: 0px;
+	margin-top: 2px;
+	z-index: 1;
+}
+div.tile  {
+	width: 44px;
+	height: 44px;
+	position: absolute;
+	z-index: 2;
+	margin-left: -3px;
+	margin-top: -2px;
+	background-image: url(../infotooltip/images/icon_border_medium.gif);
+}
+
+/* icon */
+.iconsmall { width: 27px; height: 27px; background: 4px 4px no-repeat; position: relative }
+.iconsmall .tile  { width: 27px; height: 27px; }
+
+
+table.wh_outer tbody {
+	border: 0;
+}
+
+table.wh_outer {
+	border: 0;
+	border-spacing: 0;
+	border-collapse: collapse;
+	background: none;
+	margin: 0;
+	padding: 0;
+	text-align: left;
+	float: none;
+
+	height: 0;
+	min-width: 350px;
+    	width:expression(this.width < 350 ? "350px" : true);
+}
+
+table.tsw_tooltip {
+	border: 0;
+	border-spacing: 0;
+	border-collapse: collapse;
+	background: none;
+	margin: 0;
+	padding: 0;
+	text-align: left;
+	float: none;
+
+	height: 0;
+	width: 400px;
+
+}
+
+table.tsw_tooltip td, table.tsw_tooltip tr, table.tsw_tooltip th {
+	border: 0;
+	margin: 0;
+	margin-left: 40px;
+	padding: 0;
+	width: auto;
+	height: 0;
+	text-align: left;
+	background: none;
+}
+
+table.tsw_tooltip td.top-left {
+	background-image: url(../infotooltip/images/tooltip_tl.png);
+	background-position: top left;
+	height: 5px;
+	width: 5px;
+}
+
+table.tsw_tooltip td.wh_top {
+	background-image: url(../infotooltip/images/tooltip_t.png);
+	background-repeat: repeat-x;
+	background-position: top center;
+	height: 5px;
+}
+
+table.tsw_tooltip td.top-right{
+	background-image: url(../infotooltip/images/tooltip_tr.png);
+	background-position: top right;
+	height: 5px;
+	width: 5px;
+}
+
+table.tsw_tooltip td.wh_left{
+	background-image: url(../infotooltip/images/tooltip_l.png);
+	background-repeat: repeat-y;
+	background-position: center left;
+	width: 5px;
+}
+
+table.tsw_tooltip td.bottom-left {
+	background-image: url(../infotooltip/images/tooltip_bl.png);
+	background-position: bottom left;
+	height: 5px;
+	width: 5px;
+}
+
+table.tsw_tooltip td.bottom-right {
+	background-image: url(../infotooltip/images/tooltip_br.png);
+	background-position: bottom right;
+	height: 5px;
+	width: 5px;
+}
+
+table.tsw_tooltip td.wh_bottom{
+	background-image: url(../infotooltip/images/tooltip_b.png);
+	background-repeat: repeat-x;
+	background-position: bottom center;
+	height: 5px;
+}
+
+table.tsw_tooltip td.wh_right {
+	background-image: url(../infotooltip/images/tooltip_r.png);
+	background-repeat: repeat-y;
+	background-position: center right;
+	width: 5px;
+}
+
+table.tsw_tooltip td.wh_center{
+	background-image: url(../infotooltip/images/tooltip_c.png);
+	background-repeat: repeat-x repeat-y;
+}
+
+table.tsw_tooltip div.wh_inner{
+	padding: 2px;
+}
+
+.tsw_tooltip {
+	float: none;
+	text-align: left;
+	margin: 0;
+	padding: 4px;
+	width: auto;
+
+	max-width: 400px;
+	width:expression(this.width > 300 ? "300px" : true);
+
+	font-family: Verdana, sans-serif;
+	font-variant: normal;
+	font-size: 11px;
+	line-height: 17px;
+	color: white;
+}
+
+/* spacing/grouping */
+table.tooltipGrouping {
+	margin-top: 10px;
+}
+
+/* Forum link */
+a:link.forumitemlink, a:visited.forumitemlink, a:active.forumitemlink { text-decoration: none; font-weight: normal }
+a:hover.forumitemlink { text-decoration: none; font-weight: normal }
+
+/* Refresh link */
+a:link.itemrefresh, a:visited.itemrefresh, a:active.itemrefresh { text-decoration: none; font-weight: normal; font-size: x-small }
+a:hover.itemrefresh { text-decoration: none; font-weight: normal; font-size: x-small }
+
+.moneyitem, .moneygold, .moneysilver, .moneycopper, .moneyalliance, .moneyhorde, .moneyarena, .moneyachievement, .moneysocketmeta, .moneysocketred, .moneysocketyellow, .moneysocketblue {
+	color: white;
+	background-color: transparent;
+	background-image: none;
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-position: right center;
+}
+
+.moneygold {
+	padding-right: 15px;
+	background-image: url(../infotooltip/images/money_gold.gif);
+}
+
+.moneysilver {
+	padding-right: 15px;
+	background-image: url(../infotooltip/images/money_silver.gif);
+}
+
+.moneycopper {
+	padding-right: 15px;
+	background-image: url(../infotooltip/images/money_copper.gif);
+}

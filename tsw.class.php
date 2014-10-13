@@ -39,7 +39,8 @@ if(!class_exists('tsw')) {
 				'roster' 	=> true,
 				'parent'	=> false,
 				'primary'	=> false,
-				'colorize'	=> true,
+				'colorize'	=> false,
+
 			),
 			
 			array(
@@ -50,14 +51,18 @@ if(!class_exists('tsw')) {
 				'primary'	=> true,
 				'roster'	=> false,
 				'recruitment' => true,
+				'colorize'	=> true,
 				'parent'	=> false,
+							
 			),
 			
 		);
+						
+					
 	
 	public $default_roles = array(
 			1 	=> array(0,1,2,3,4,5),			# healer
-			2 	=> array(0,1,2,3,4,5,			# tank
+			2 	=> array(0,1,2,3,4,5),			# tank
 			3 	=> array(0,1,2,3,4,5),			# DD
 			4 	=> array(0,1,2,3,4,5),			# Range
 			5 	=> array(0,1,2,3,4,5),			# Podder
@@ -87,19 +92,17 @@ if(!class_exists('tsw')) {
 					'lang'			=> 'uc_guild',
 					'size'			=> 25,
 					'undeletable'	=> true,
-				),
+					),
+				
 			);
 			return $xml_fields;
 		}
 		protected $class_colors = array(
-			1	=> '#dd0007',	# Dragons offical color
-			2	=> '#5ca716',	# Templar offical color
-			3	=> '#00a9fa', 	# Illuminati offical color
-			4	=> '#32D6E5', 	# Tank
-			5	=> '#5B933D',	# Healer
-			6	=> '#800000',	# DD "maroon
-			7	=> '#FF7F00', 	# Melee "orange"
-			8	=> '#008080', 	# Leecher "teal"
+			1	=> '#32D6E5', 	# Tank
+			2	=> '#5B933D',	# Healer
+			3	=> '#800000',	# DD "maroon
+			4	=> '#FF7F00', 	# Melee "orange"
+			5	=> '#008080', 	# Leecher "teal"
 		);
 		protected $race_colors = array(
 			1	=> '#dd0007',	# Dragons offical color
@@ -134,7 +137,7 @@ if(!class_exists('tsw')) {
 		/**
 		 *	Content for the Chartooltip
 		 *
-		 */	
+		 */		
 		public function chartooltip($intCharID){
 			$template = $this->root_path.'games/'.$this->this_game.'/chartooltip/chartooltip.tpl';
 			$content = file_get_contents($template);
@@ -149,7 +152,8 @@ if(!class_exists('tsw')) {
 			$charhtml .= '<br />'.$this->pdh->get('member', 'html_racename', array($intCharID));
 			$charhtml .= ' '.$this->pdh->get('member', 'html_classname', array($intCharID));
 			$charhtml .= '<br />'.$this->user->lang('level').' '.$this->pdh->get('member', 'level', array($intCharID));
-
+			
+			
 			$content = str_replace('{CHAR_ICON}', $charicon, $content);
 			$content = str_replace('{CHAR_HTML}', $charhtml, $content);
 			
@@ -165,8 +169,9 @@ if(!class_exists('tsw')) {
 			$this->game->resetEvents();
 
 			$arrEventIDs = array();
-			$arrEventIDs[] = $this->game->addEvent($this->glang('ny_raid'), 0, "unknown.png");
-			$arrEventIDs[] = $this->game->addEvent($this->glang('eidolon'), 0, "unknown.png");
+			$arrEventIDs[] = $this->game->addEvent($this->glang('ny_raid'), 0, "86.png");
+			$arrEventIDs[] = $this->game->addEvent($this->glang('eidolon'), 0, "87.png");
+			$arrEventIDs[] = $this->game->addEvent($this->glang('tokio'), 0, "93.png");
 
 			$this->game->resetMultiDKPPools();
 			$this->game->resetItempools();
@@ -183,15 +188,20 @@ if(!class_exists('tsw')) {
 			$this->game->addRank(0, "Guildmaster");
 			$this->game->addRank(1, "Officer");
 			$this->game->addRank(2, "Veteran");
-			$this->game->addRank(3, "Member");
-			$this->game->addRank(4, "Initiate", true);
+			$this->game->addRank(3, "Member", true);
+			$this->game->addRank(4, "Buddy" );
 			$this->game->addRank(5, "Dummy Rank #1");
-		}
+			
+			
 
+			
+		}
 		public function uninstall(){
+
 			$this->game->removeLink("Offcial Forum");
 			$this->game->removeLink("TestServer Forum");
-		}
+			
+		}	
 	}
 }
 ?>

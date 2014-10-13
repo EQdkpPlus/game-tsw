@@ -14,7 +14,7 @@
 	<tr> 
 		<td align="left" class="tsw_infolabel" colspan="2">Fertigungskomponente (QS 10 Heroisch)</td> </tr> 
 	<tr> 
-		<td align="left" class="tsw_itemlabel_slot" colspan="2">Charaktergebunden</td> </tr>  
+		<td align="left" class="tsw_infolabel_slot" colspan="2">Charaktergebunden</td> </tr>  
 	<tr> 
 		<td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
 		</tr> 

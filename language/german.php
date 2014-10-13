@@ -26,7 +26,7 @@ $german_array = array(
 		2	=> 'Heiler',
 		3	=> 'DPS',
 		4	=> 'Melee',
-		5	=> 'Leecher',
+		5   => 'Leecher',
 	),
 	'races' => array(
 		0	=> 'Unbekannt',
@@ -34,6 +34,7 @@ $german_array = array(
 		2	=> 'Drachen',
 		3	=> 'Illuminaten'
 	),
+	
 	'roles' => array(
 		1	=> 'Heiler',
 		2	=> 'Tank',
@@ -60,7 +61,7 @@ $german_array = array(
 		'uc_BG_B'					=> 'Battelgroup B',
 		'uc_guild'					=> 'Gilde',
 		
-		//Eventa
+		//Event
 		'eidolon'					=> 'Eidolon',
 		'ny_raid'					=> 'New York',
 		'tokio'						=> 'Tokio',
