@@ -20,10 +20,11 @@ include_once('itt_parser.aclass.php');
 
 if(!class_exists('parseyourself')) {
 	class parseyourself extends itt_parser {
-		public static $shortcuts = array('pdl', 'puf' => 'urlfetcher', 'pfh' => array('file_handler', array('infotooltips')));
+		public static $shortcuts = array('pdl', 'puf' => 'urlfetcher', 'config' => 'configset', 'pfh' => array('file_handler', array('infotooltips')));
 
 		public $supported_games	= array('tsw');
 		public $av_langs		= array('en' => 'en_US', 'de' => 'de_DE');
+		public $mygame			= '';
 
 		public $settings = array();
 
@@ -32,13 +33,12 @@ if(!class_exists('parseyourself')) {
 
 		private $searched_langs = array();
 
-		public function getDataFolder(){
-			// set the default image path and options
-			$foldername						= $this->root_path.'games/'.$this->config['game'].'/infotooltip/';
-			$this->config['icon_path']		= $foldername.'items/images/';
-			$this->config['icon_ext']		= '.png';
-			$this->config['default_icon']	= '100000';
-			return $foldername;
+		public function __construct(){
+			$this->mygame					= registry::register('config')->get('default_game');
+		}
+
+		public function getDataFolder($url=false){
+			return (($url) ? $this->env->buildlink() : $this->root_path).'games/'.$this->mygame.'/infotooltip/';
 		}
 
 		public function __destruct(){
@@ -46,15 +46,15 @@ if(!class_exists('parseyourself')) {
 			unset($this->recipelist);
 			unset($this->searched_langs);
 			parent::__construct($init, $config, $root_path, $cache, $puf, $pdl);
-			$this->av_langs = ((isset($g_lang[$this->config['game']])) ? $g_lang[$this->config['game']] : '');
+			$this->av_langs = ((isset($g_lang[$this->mygame])) ? $g_lang[$this->mygame] : '');
 		}
 
 		private function getItemlist($lang, $forceupdate=false, $type='item'){
-			$this->{$type.'list'} = unserialize(file_get_contents($this->pfh->FilePath($this->config['game'].'_'.$lang.'_'.$type.'list.itt', 'itt_cache')));
+			$this->{$type.'list'} = unserialize(file_get_contents($this->pfh->FilePath($this->mygame.'_'.$lang.'_'.$type.'list.itt', 'itt_cache')));
 			switch($lang){
 				case 'de': $lang='de_DE';break;
-				case 'en': $lang='en_EN';break;
-				default: $lang='en_EN';
+				case 'en': $lang='en_US';break;
+				default: $lang='en_US';
 			}
 			if(!$this->itemlist OR $forceupdate){
 				$urlitemlist	= $this->getDataFolder().$type.'s/'.$lang.'/'.$type.'list.xml';
@@ -64,7 +64,7 @@ if(!class_exists('parseyourself')) {
 					$name = (string) $item['name'];
 					$this->{$type.'list'}[(int)$item['id']][$lang] = $name;
 				}
-				$this->pfh->putContent($this->pfh->FilePath($this->config['game'].'_'.$lang.'_'.$type.'list.itt', 'itt_cache'), serialize($this->{$type.'list'}));
+				$this->pfh->putContent($this->pfh->FilePath($this->mygame.'_'.$lang.'_'.$type.'list.itt', 'itt_cache'), serialize($this->{$type.'list'}));
 			}
 			return true;
 		}
@@ -119,11 +119,12 @@ if(!class_exists('parseyourself')) {
 
 			switch($lang){
 				case 'de': $lang='de_DE';break;
-				case 'en': $lang='en_EN';break;
-				default: $lang='en_EN';
+				case 'en': $lang='en_US';break;
+				default: $lang='en_US';
 			}
 
 			$item['link']	= $this->getDataFolder().$type.'/'.$lang.'/'.$item['id'].'.xml';
+			$this->config['default_icon']	= '100000';
 			if(file_exists($item['link'])){
 				$this->pdl->log('infotooltip', 'fetch item-data from: '.$item['link']);
 				$itemxml		= simplexml_load_file($item['link']);
@@ -138,12 +139,17 @@ if(!class_exists('parseyourself')) {
 				}
 				
 				//build itemhtml
-				$html			= str_replace('"', "'", (string)$itemxml->tooltip);
-				$template_html	= trim(file_get_contents($this->root_path.'games/tsw/infotooltip/templates/tsw_popup.tpl'));
-				$item['html']	= str_replace('{ITEM_HTML}', stripslashes($html), $template_html);
-				$item['lang']	= $lang;
-				$item['icon']	= (string)$itemxml->iconpath;
-				$item['color']	= 'tsw_q'.(string)$itemxml->quality;
+				$html				= str_replace('"', "'", (string)$itemxml->tooltip);
+				$template_html		= trim(file_get_contents($this->root_path.'games/tsw/infotooltip/templates/tsw_popup.tpl'));
+				$item['params']		= array(
+					'path'	=> $this->getDataFolder(true).'items/images/',
+					'ext'	=> '.png',
+					
+				);
+				$item['html']		= str_replace('{ITEM_HTML}', stripslashes($html), $template_html);
+				$item['lang']		= $lang;
+				$item['icon']		= (string)$itemxml->iconpath;
+				$item['color']		= 'tsw_q'.(string)$itemxml->quality;
 
 			}else{
 				$this->pdl->log('infotooltip', 'File '.$item['link'].' does not exist');
