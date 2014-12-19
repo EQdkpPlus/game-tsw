@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tswitem>
+<itemid>200032</itemid>
+<name>Siegel des Zorns</name>
+<iconpath>200009</iconpath>
+<quality>5</quality>
+
+
+<tooltip><![CDATA[
+
+<table width="100%"> 
+	<tr> 
+		<td align="left" class="tsw_tooltiptitle tsw_q5" colspan="2">Siegel des Zorns</td> </tr>
+	<tr> 
+		<td align="left" class="tsw_infolabel" colspan="2">Siegel (QS 10)</td> </tr> 
+	<tr> <td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+		 </tr>  
+	<tr> 
+		
+		</tr> 
+		<tr>
+		<td align="left" class="tsw_infolabel" colspan="2">Ihre Rauschangriffe verursachen <span class="tsw_q3">1%</span>/<span class="tsw_q4">2%</span>/<span class="tsw_q5">3%</span> zusätzlichen Schaden. Dieses Siegel kann an kleinen Talismanen angebracht werden.
+	</td></tr>
+
+	
+
+</table>
+]]>
+</tooltip></tswitem>

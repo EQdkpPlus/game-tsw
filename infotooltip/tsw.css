@@ -32,12 +32,12 @@
 .tsw_quest {    color: #E1CC59 !important}
 .tsw_default {    color: #FFFFFF !important}
 
-.tsw_q1 {	color: #ADADAD !important } /**/
-.tsw_q2 {	color: #F1F1F1 !important }	/**/
-.tsw_q3 {	color: #00ff16 !important }	/*normal/green*/
-.tsw_q4 {	color: #02b6ff !important }	/*rare/blue*/
-.tsw_q5 {	color: #d565f8 !important }	/*epic/purple*/
-.tsw_q6 {	color: #ffd001 !important }	/*heroic/yellow*/
+.tsw_q1 {	color: #ADADAD !important; text-shadow:0px 0.5px 0.5px #000 } /**/
+.tsw_q2 {	color: #F1F1F1 !important; text-shadow:0px 0.5px 0.5px #000 }	/**/
+.tsw_q3 {	color: #00ff16 !important; text-shadow:0px 0.5px 0.5px #000 }	/*normal/green*/
+.tsw_q4 {	color: #02b6ff !important; text-shadow:0px 0.5px 0.5px #000 }	/*rare/blue*/
+.tsw_q5 {	color: #d565f8 !important; text-shadow:0px 0.5px 0.5px #000 }	/*epic/purple*/
+.tsw_q6 {	color: #ffd001 !important; text-shadow:0px 0.5px 0.5px #000 }	/*heroic/yellow*/
 
 
 
@@ -59,7 +59,7 @@ div.iconmedium  {
 	width: 70px;
 	height: 70px;
 	background: 4px 4px no-repeat;
-	position: absolute;
+	position: relative;
 	margin-left: 0px;
 	margin-top: 2px;
 	z-index: 1;
@@ -67,7 +67,7 @@ div.iconmedium  {
 div.tile  {
 	width: 44px;
 	height: 44px;
-	position: absolute;
+	position: relative;
 	z-index: 2;
 	margin-left: -3px;
 	margin-top: -2px;
@@ -92,10 +92,10 @@ table.wh_outer {
 	padding: 0;
 	text-align: left;
 	float: none;
-
+	min-width: 400px;
+	position: relative;
 	height: 0;
-	min-width: 350px;
-    	width:expression(this.width < 350 ? "350px" : true);
+    	width:expression(this.width < 400 ? "400px" : true);
 }
 
 table.tsw_tooltip {
@@ -107,10 +107,11 @@ table.tsw_tooltip {
 	padding: 0;
 	text-align: left;
 	float: none;
-
+	width: auto;
 	height: 0;
-	width: 400px;
-
+	min-width: 400px;
+	position: relative;
+	
 }
 
 table.tsw_tooltip td, table.tsw_tooltip tr, table.tsw_tooltip th {
@@ -122,6 +123,7 @@ table.tsw_tooltip td, table.tsw_tooltip tr, table.tsw_tooltip th {
 	height: 0;
 	text-align: left;
 	background: none;
+	position: relative;
 }
 
 table.tsw_tooltip td.top-left {
@@ -195,9 +197,9 @@ table.tsw_tooltip div.wh_inner{
 	margin: 0;
 	padding: 4px;
 	width: auto;
-
+	z-index: 100000001;
 	max-width: 400px;
-	width:expression(this.width > 300 ? "300px" : true);
+	width:expression(this.width > 400 ? "400px" : true);
 
 	font-family: Verdana, sans-serif;
 	font-variant: normal;
@@ -205,6 +207,7 @@ table.tsw_tooltip div.wh_inner{
 	line-height: 17px;
 	color: white;
 }
+
 
 /* spacing/grouping */
 table.tooltipGrouping {

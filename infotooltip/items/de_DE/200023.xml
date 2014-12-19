@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tswitem>
+<itemid>200023</itemid>
+<name>Siegel des Verbotes</name>
+<iconpath>200007</iconpath>
+<quality>5</quality>
+
+
+<tooltip><![CDATA[
+
+<table width="100%"> 
+	<tr> 
+		<td align="left" class="tsw_tooltiptitle tsw_q5" colspan="2">Siegel des Verbotes</td> </tr>
+	<tr> 
+		<td align="left" class="tsw_infolabel" colspan="2">Siegel (QS 10)</td> </tr> 
+	<tr> <td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+		 </tr>  
+	<tr> 
+		
+		</tr> 
+		<tr>
+		<td align="left" class="tsw_infolabel" colspan="2">Wenn Sie in Ziel in den Status Behindert versetzten, werden Sie alle <span class="tsw_infolabel_hl">2</span> Sekunden um <span class="tsw_q3">55</span>/<span class="tsw_q4">111</span>/<span class="tsw_q5">166</span> geheilt, und zwar <span class="tsw_infolabel_hl">6</span> Sekunden lang. Dieses Siegel kann an Kopftalismanen oder Waffen angebracht werden.
+	</td></tr>
+
+	
+
+</table>
+]]>
+</tooltip></tswitem>

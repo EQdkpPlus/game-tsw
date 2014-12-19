@@ -25,7 +25,7 @@
 		<td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
 	</tr>
 	<tr>
-		<td align="left" class="tsw_infolabel" colspan="2">Immer wenn sie einen durchdringen Treffer erzielen, erhalten sie einen positiven Effekt, der ihren Durchdringswert um <span class="tsw_infolabel_hl">25%</span> erhöht, und zwar <span class="tsw_infolabel_hl">15</span> Sekudnen lang. Dauer dieses Effekts wird beim erneuten wirken nicht aufgefrischt.
+		<td align="left" class="tsw_infolabel" colspan="2">Immer wenn sie einen durchdringenden Treffer erzielen, erhalten sie einen positiven Effekt, der ihren Durchdringswert um <span class="tsw_infolabel_hl">25%</span> erhöht, und zwar <span class="tsw_infolabel_hl">15</span> Sekudnen lang. Dauer dieses Effekts wird beim erneuten wirken nicht aufgefrischt.
 </td></tr>
 	<tr> 
 		<td colspan="3"> <hr class="tsw_tooltip_hr"> </td>
@@ -33,7 +33,7 @@
 	
 	<tr>  
 		<td width="5%" align="center" class="tsw_item_manastone"> </td> 
-		 <td width="95%" align="left" class="tsw_infolabel_slot">leerer Siegel Slot </td></tr>  
+		 <td width="95%" align="left" class="tsw_infolabel_slot">leerer Glyphen Slot </td></tr>  
 	
 
 </table>

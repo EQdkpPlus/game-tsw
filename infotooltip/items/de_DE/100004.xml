@@ -25,7 +25,7 @@
 		<td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
 	</tr>
 	<tr>
-		<td align="left" class="tsw_infolabel" colspan="2">Immer wenn sie angegriffen werden, besteht eine Chance von <span class="tsw_infolabel_hl">5%</span>, einen positiven Effekt zu erhalten, der den von durchdringen Treffern erlitten Schaden verringert, und zwar <span class="tsw_infolabel_hl">15</span> Sekunden lang. Die Dauer dieses Effekts wird beim erneuten wirken nicht aufgefrischt.
+		<td align="left" class="tsw_infolabel" colspan="2">Immer wenn sie angegriffen werden, besteht eine Chance von <span class="tsw_infolabel_hl">5%</span>, einen positiven Effekt zu erhalten, der den von durchdringenden Treffern erlittenen Schaden verringert, und zwar <span class="tsw_infolabel_hl">15</span> Sekunden lang. Die Dauer dieses Effekts wird beim erneuten wirken nicht aufgefrischt.
 
 </td></tr>
 	<tr> 
@@ -34,7 +34,7 @@
 	
 	<tr>  
 		<td width="5%" align="center" class="tsw_item_manastone"> </td> 
-		 <td width="95%" align="left" class="tsw_infolabel_slot">leerer Siegel Slot </td></tr>  
+		 <td width="95%" align="left" class="tsw_infolabel_slot">leerer Glyphen Slot </td></tr>  
 	
 
 </table>

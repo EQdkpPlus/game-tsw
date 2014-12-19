@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tswitem>
+<itemid>200039</itemid>
+<name>Siegel der Unterwerfung</name>
+<iconpath>200009</iconpath>
+<quality>5</quality>
+
+
+<tooltip><![CDATA[
+
+<table width="100%"> 
+	<tr> 
+		<td align="left" class="tsw_tooltiptitle tsw_q5" colspan="2">Siegel der Unterwerfung</td> </tr>
+	<tr> 
+		<td align="left" class="tsw_infolabel" colspan="2">Siegel (QS 10)</td> </tr> 
+	<tr> <td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+		 </tr>  
+	<tr> 
+		
+		</tr> 
+		<tr>
+		<td align="left" class="tsw_infolabel" colspan="2">Wenn Sie einen kritischen oder durchdringenden Treffer landen, verringert sich der Hass ihrer Offensivziele auf Sie in <span class="tsw_q3">geringem</span>/<span class="tsw_q4">mittlerem</span>/<span class="tsw_q5">großem</span> Maße. <span class="tsw_infolabel_hl">15</span> Sekunden Abklingzeit. Dieses Siegel kann an kleinen Talismanen angebracht werden.
+	</td></tr>
+
+	
+
+</table>
+]]>
+</tooltip></tswitem>

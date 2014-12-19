@@ -1,8 +1,10 @@
 <table class='wh_outer'>
 	<tr>
 		<td valign='top' width='80px'>
-			<div class='iconmedium'><img src='{ITEM_ICON_LINK}' width='70px' height='70px' alt='icon' /></div><div class=''></div>
+			<div class='iconmedium'><img src='{ITEM_ICON_LINK}' width='70px' height='70px' alt='icon' </div>
+			</div><div class='title'></div>
 		</td>
+		
 		<td width='400'>
 			<table class='tsw_tooltip'>
 				<tr>

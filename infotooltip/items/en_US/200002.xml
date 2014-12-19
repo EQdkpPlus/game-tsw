@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tswitem>
+<itemid>200002</itemid>
+<name>Signet of Violence</name>
+<iconpath>200002</iconpath>
+<quality>5</quality>
+
+
+<tooltip><![CDATA[
+
+<table width="100%"> 
+	<tr> 
+		<td align="left" class="tsw_tooltiptitle tsw_q5" colspan="2">Signet of Violence</td> </tr>
+	<tr> 
+		<td align="left" class="tsw_infolabel" colspan="2">Signet (QS 10)</td> </tr> 
+	<tr> <td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+		 </tr>  
+	<tr> 
+		
+		</tr> 
+		<tr>
+		<td align="left" class="tsw_infolabel" colspan="2">Your attack raiting is increase by <span class="tsw_q3">47</span>/<span class="tsw_q4">94</span>/<span class="tsw_q5">141</span>. This Signet can be attached to Major Talismans.
+
+
+	</td></tr>
+
+	
+
+</table>
+]]>
+</tooltip></tswitem>

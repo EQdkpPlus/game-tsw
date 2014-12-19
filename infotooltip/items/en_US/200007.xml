@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tswitem>
+<itemid>200007</itemid>
+<name>Signet of Reinforcement</name>
+<iconpath>200005</iconpath>
+<quality>5</quality>
+
+
+<tooltip><![CDATA[
+
+<table width="100%"> 
+	<tr> 
+		<td align="left" class="tsw_tooltiptitle tsw_q5" colspan="2">Signet of Reinforcement</td> </tr>
+	<tr> 
+		<td align="left" class="tsw_infolabel" colspan="2">Signet (QS 10)</td> </tr> 
+	<tr> <td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+		 </tr>  
+	<tr> 
+		
+		</tr> 
+		<tr>
+		<td align="left" class="tsw_infolabel" colspan="2">When you are glanced or evade an attack, you gain magical an physical protection of <span class="tsw_q3">31</span>/<span class="tsw_q4">62</span>/<span class="tsw_q5">63</span> per stack for <span class="tsw_infolabel_hl">4</span> seconds, up to <span class="tsw_infolabel_hl">3</span> stacks.  This Signet can be attached to Head Talismans.
+	</td></tr>
+
+	
+
+</table>
+]]>
+</tooltip></tswitem>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tswitem>
+<itemid>200039</itemid>
+<name>Signet of Subjugation</name>
+<iconpath>200009</iconpath>
+<quality>5</quality>
+
+
+<tooltip><![CDATA[
+
+<table width="100%"> 
+	<tr> 
+		<td align="left" class="tsw_tooltiptitle tsw_q5" colspan="2">Signet of Subjugation</td> </tr>
+	<tr> 
+		<td align="left" class="tsw_infolabel" colspan="2">Signet (QS 10)</td> </tr> 
+	<tr> <td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+		 </tr>  
+	<tr> 
+		
+		</tr> 
+		<tr>
+		<td align="left" class="tsw_infolabel" colspan="2">When you land a critical or penetrationg hit you reduce your offensive targets hate towards your by a <span class="tsw_q3">small</span>/<span class="tsw_q4">medium</span>/<span class="tsw_q5">large</span> amount. <span class="tsw_infolabel_hl">15</span> second cooldown. This Signet can be attached to Minor Talismans.
+	</td></tr>
+
+	
+
+</table>
+]]>
+</tooltip></tswitem>

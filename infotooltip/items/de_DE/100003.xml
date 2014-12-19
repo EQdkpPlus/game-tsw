@@ -25,7 +25,7 @@
 		<td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
 	</tr>
 	<tr>
-		<td align="left" class="tsw_infolabel" colspan="2">Immer wenn sie einen Verbündeten mit einem Heilungs-Effekt belegen, besteht eine Chance von <span class="tsw_infolabel_hl">10%</span>, dass Ziel zusätzlich um <span class="tsw_infolabel_hl">3%</span> seiner maximal Gesundheit zu heilen. Das kann höchstens alle <span class="tsw_infolabel_hl">10</span> Sekunden vorkommen.
+		<td align="left" class="tsw_infolabel" colspan="2">Immer wenn sie einen Verbündeten mit einem Heilungs-Effekt belegen, besteht eine Chance von <span class="tsw_infolabel_hl">10%</span>, das Ziel zusätzlich um <span class="tsw_infolabel_hl">3%</span> seiner maximal Gesundheit zu heilen. Das kann höchstens alle <span class="tsw_infolabel_hl">10</span> Sekunden vorkommen.
 </td></tr>
 	<tr> 
 		<td colspan="3"> <hr class="tsw_tooltip_hr"> </td>
@@ -33,7 +33,7 @@
 	
 	<tr>  
 		<td align="right" class="tsw_item_manastone"></td> 
-		 <td align="left" class="tsw_infolabel_slot">leerer Siegel Slot </td></tr>  
+		 <td align="left" class="tsw_infolabel_slot">leerer Glyphen Slot </td></tr>  
 	
 
 </table>

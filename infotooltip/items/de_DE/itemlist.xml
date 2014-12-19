@@ -22,5 +22,67 @@
 <tswitem id="100020" name="Letzter Angriff"/>
 <tswitem id="100021" name="Kondensator des dritten Kerns"/>
 <tswitem id="100022" name="Überirdische Diode"/>
+<tswitem id="200001" name="Siegel der Besserung"/>
+<tswitem id="200002" name="Siegel der Gewalt"/>
+<tswitem id="200003" name="Siegel der Lebenskraft"/>
+<tswitem id="200004" name="Siegel der Verderbtheit"/>
+<tswitem id="200005" name="Siegel der Disziplin"/>
+<tswitem id="200006" name="Siegel der Ordnung"/>
+<tswitem id="200007" name="Siegel der Verstärkung"/>
+<tswitem id="200008" name="Siegel der Widerstandsfähigkeit"/>
+<tswitem id="200009" name="Siegel der Segnung"/>
+<tswitem id="200010" name="Siegel der Mäßigung"/>
+<tswitem id="200011" name="Siegel des grausamens Entzücken"/>
+<tswitem id="200012" name="Siegel des Heldenmuts"/>
+<tswitem id="200013" name="Siegel der Misshandlung"/>
+<tswitem id="200014" name="Siegel der Aggression"/>
+<tswitem id="200015" name="Siegel des Eindringens"/>
+<tswitem id="200016" name="Siegel der Züchtigung"/>
+<tswitem id="200017" name="Siegel der Raserei"/>
+<tswitem id="200018" name="Siegel des Zerfleischens"/>
+<tswitem id="200019" name="Siegel des Opportunismus"/>
+<tswitem id="200020" name="Siegel des Sadismus"/>
+<tswitem id="200021" name="Siegel der Haft"/>
+<tswitem id="200022" name="Siegel der Befreiung"/>
+<tswitem id="200023" name="Siegel des Verbots"/>
+<tswitem id="200024" name="Siegel des Gehorsams"/>
+<tswitem id="200025" name="Siegel des Meuchelmords"/>
+<tswitem id="200026" name="Siegel der Sperrung"/>
+<tswitem id="200027" name="Siegel des Spalten"/>
+<tswitem id="200028" name="Siegel der Verzerrung"/>
+<tswitem id="200029" name="Siegel der Ausführung"/>
+<tswitem id="200030" name="Siegel des Flusses"/>
+<tswitem id="200031" name="Siegel der Verflüssigung"/>
+<tswitem id="200032" name="Siegel des Zorn"/>
+<tswitem id="200033" name="Siegel des Einschließens"/>
+<tswitem id="200034" name="Siegel der Verzahnung"/>
+<tswitem id="200035" name="Siegel der Splitter"/>
+<tswitem id="200036" name="Siegel des Zerschmetterns"/>
+<tswitem id="200037" name="Siegel des Sturm"/>
+<tswitem id="200038" name="Siegel der Schwerter"/>
+<tswitem id="200039" name="Siegel der Unterwerfung"/>
+<tswitem id="200040" name="Siegel der Bücher"/>
+<tswitem id="200041" name="Siegel der Gelassenheit"/>
+<tswitem id="200042" name="Siegel des Echoes"/>
+<tswitem id="200043" name="Siegel der Ausgeglichenheit"/>
+<tswitem id="200044" name="Siegel des Durstes"/>
+<tswitem id="200045" name="Siegel der Harmonie"/>
+<tswitem id="200046" name="Siegel des Hungers"/>
+<tswitem id="200047" name="Siegel der Sicherheit"/>
+<tswitem id="200048" name="Siegel der Verjüngung"/>
+<tswitem id="200049" name="Siegel der Erlösung"/>
+<tswitem id="200050" name="Siegel der Abtragung"/>
+<tswitem id="200051" name="Siegel der Befestigung"/>
+<tswitem id="200052" name="Siegel des Hasses"/>
+
+<tswitem id="200053" name="Nebenwaffen-Prägung"/>
+<tswitem id="200054" name="Nebenwaffen-Augur"/>
+<tswitem id="200055" name="Nebenwaffen-Bindung"/>
+<tswitem id="200056" name="Nebenwaffen-Overdrive"/>
+<tswitem id="200057" name="Nebenwaffen-Bulle"/>
+<tswitem id="200058" name="Nebenwaffen-Einklang"/>
+<tswitem id="200059" name="Nebenwaffen-Mod"/>
+<tswitem id="200060" name="Nebenwaffen-Ladung"/>
+
 
 </list>

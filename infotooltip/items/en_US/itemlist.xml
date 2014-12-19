@@ -22,5 +22,66 @@
 <tswitem id="100020" name="Final Assault"/>
 <tswitem id="100021" name="Third Core Capacitor"/>
 <tswitem id="100022" name="Supernal Diode"/>
+<tswitem id="200001" name="Signet of Amelioration"/>
+<tswitem id="200002" name="Signet of Violence"/>
+<tswitem id="200003" name="Signet of Vigour"/>
+<tswitem id="200004" name="Signet of Corruption"/>
+<tswitem id="200005" name="Signet of Discipline"/>
+<tswitem id="200006" name="Signet of Order"/>
+<tswitem id="200007" name="Signet of Reinforcement"/>
+<tswitem id="200008" name="Signet of Resilience"/>
+<tswitem id="200009" name="Signet of Benediction"/>
+<tswitem id="200010" name="Signet of Temperance"/>
+<tswitem id="200011" name="Signet of Cruel Delight"/>
+<tswitem id="200012" name="Signet of Valour"/>
+<tswitem id="200013" name="Signet of Abuse"/>
+<tswitem id="200014" name="Signet of Aggression"/>
+<tswitem id="200015" name="Signet of Breaching"/>
+<tswitem id="200016" name="Signet of Castigation"/>
+<tswitem id="200017" name="Signet of Fury"/>
+<tswitem id="200018" name="Signet of Laceration"/>
+<tswitem id="200019" name="Signet of Opportunism"/>
+<tswitem id="200020" name="Signet of Sadism"/>
+<tswitem id="200021" name="Signet of Detainment"/>
+<tswitem id="200022" name="Signet of Extrication"/>
+<tswitem id="200023" name="Signet of Interdiction"/>
+<tswitem id="200024" name="Signet of Obedience"/>
+<tswitem id="200025" name="Signet of Assassination"/>
+<tswitem id="200026" name="Signet of Barrage"/>
+<tswitem id="200027" name="Signet of Cleaving"/>
+<tswitem id="200028" name="Signet of Distortion"/>
+<tswitem id="200029" name="Signet of Execution"/>
+<tswitem id="200030" name="Signet of Flux"/>
+<tswitem id="200031" name="Signet of Liqudation"/>
+<tswitem id="200032" name="Signet of Rage"/>
+<tswitem id="200033" name="Signet of Recursion"/>
+<tswitem id="200034" name="Signet of Serration"/>
+<tswitem id="200035" name="Signet of Shards"/>
+<tswitem id="200036" name="Signet of Shattering"/>
+<tswitem id="200037" name="Signet of Storms"/>
+<tswitem id="200038" name="Signet of Swords"/>
+<tswitem id="200039" name="Signet of Subjugation"/>
+<tswitem id="200040" name="Signet of Tomes"/>
+<tswitem id="200041" name="Signet of Serenity"/>
+<tswitem id="200042" name="Signet of Echoes"/>
+<tswitem id="200043" name="Signet of Equilibrium"/>
+<tswitem id="200044" name="Signet of Thirst"/>
+<tswitem id="200045" name="Signet of Harmony"/>
+<tswitem id="200046" name="Signet of Hunger"/>
+<tswitem id="200047" name="Signet of Security"/>
+<tswitem id="200048" name="Signet of Rejuvenation"/>
+<tswitem id="200049" name="Signet of Salvation"/>
+<tswitem id="200050" name="Signet of Ablation"/>
+<tswitem id="200051" name="Signet of Fortification"/>
+<tswitem id="200052" name="Signet of Hatred"/>
+
+<tswitem id="200053" name="Aux Weapon Imprint"/>
+<tswitem id="200054" name="Aux Weapon Augur"/>
+<tswitem id="200055" name="Aux Weapon Binding"/>
+<tswitem id="200056" name="Aux Weapon Overdrive"/>
+<tswitem id="200057" name="Aux Weapon Seal"/>
+<tswitem id="200058" name="Aux Weapon Tune"/>
+<tswitem id="200059" name="Aux Weapon Mod"/>
+<tswitem id="200060" name="Aux Weapon Charge"/>
 
 </list>

@@ -41,9 +41,9 @@ $english_array =  array(
 		1	=> 'Healer',
 		2	=> 'Tank',
 		3	=> 'Damage Dealer',
-		4	=> 'Range',
+		4	=> 'Add Control',
 		5	=> 'Podder',
-	),
+		),
 	'lang' => array(
 		'tsw'						=> 'The Secret World',
 		'uc_race'					=> 'Faction',

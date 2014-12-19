@@ -68,7 +68,7 @@ if(!class_exists('tsw')) {
 			1 	=> array(0,1,2,3,4,5),			# healer
 			2 	=> array(0,1,2,3,4,5),			# tank
 			3 	=> array(0,1,2,3,4,5),			# DD
-			4 	=> array(0,1,2,3,4,5),			# Range
+			4 	=> array(0,1,2,3,4,5),			# Add Controll
 			5 	=> array(0,1,2,3,4,5),			# Podder
 		);
 		
