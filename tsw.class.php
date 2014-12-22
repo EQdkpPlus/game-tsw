@@ -1,23 +1,23 @@
 <?php
-/*	Project:	EQdkp-Plus
- *	Package:	The Secret World game package
- *	Link:		http://eqdkp-plus.eu
- *
- *	Copyright (C) 2006-2015 EQdkp-Plus Developer Team
- *
- *	This program is free software: you can redistribute it and/or modify
- *	it under the terms of the GNU Affero General Public License as published
- *	by the Free Software Foundation, either version 3 of the License, or
- *	(at your option) any later version.
- *
- *	This program is distributed in the hope that it will be useful,
- *	but WITHOUT ANY WARRANTY; without even the implied warranty of
- *	MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
- *	GNU Affero General Public License for more details.
- *
- *	You should have received a copy of the GNU Affero General Public License
- *	along with this program.  If not, see <http://www.gnu.org/licenses/>.
- */
+ /* Project: EQdkp-Plus
+* Package: The Secret World game package
+* Link: http://eqdkp-plus.eu
+*
+* Copyright (C) 2006-2015 EQdkp-Plus Developer Team
+*
+* This program is free software: you can redistribute it and/or modify
+* it under the terms of the GNU Affero General Public License as published
+* by the Free Software Foundation, either version 3 of the License, or
+* (at your option) any later version.
+*
+* This program is distributed in the hope that it will be useful,
+* but WITHOUT ANY WARRANTY; without even the implied warranty of
+* MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+* GNU Affero General Public License for more details.
+*
+* You should have received a copy of the GNU Affero General Public License
+* along with this program. If not, see <http://www.gnu.org/licenses/>.
+*/
 
 if ( !defined('EQDKP_INC') ){
 	header('HTTP/1.0 404 Not Found');exit;
@@ -26,8 +26,9 @@ if ( !defined('EQDKP_INC') ){
 if(!class_exists('tsw')) {
 	class tsw extends game_generic {
 		protected static $apiLevel	= 20;
-		public $version				= '1.1';
+		public $version				= '1.10.1';
 		protected $this_game		= 'tsw';
+		public $author				= "Inkraja";
 		public $types				= array('races', 'classes', 'classes_big', 'events', 'roles');
 		protected $classes			= array();
 		protected $factions			= array();
@@ -76,7 +77,7 @@ if(!class_exists('tsw')) {
 			$xml_fields = array(
 				'pvp'	=> array(
 					'type'			=> 'dropdown',
-					'category'		=> 'profession',
+					'category'		=> 'misc',
 					'lang'			=> 'uc_pvp',
 					'options'		=> array('unknown' => 'uc_unknown', 'Battlegroup A' => 'uc_BG_A', 'Battlegroup B' => 'uc_BG_B'),
 					'undeletable'	=> true,
@@ -84,7 +85,7 @@ if(!class_exists('tsw')) {
 				),
 				'RP'	=> array(
 					'type'			=> 'dropdown',
-					'category'		=> 'profession',
+					'category'		=> 'misc',
 					'lang'			=> 'uc_RP',
 					'options'		=> array('unknown' => 'uc_unknown', 'No' => 'uc_no', 'Yes' => 'uc_yes'),
 					'undeletable'	=> true,
