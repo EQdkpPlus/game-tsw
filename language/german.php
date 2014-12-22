@@ -1,22 +1,19 @@
 <?php
-/*	Project:	EQdkp-Plus
- *	Package:	The Secret World game package
- *	Link:		http://eqdkp-plus.eu
- *
- *	Copyright (C) 2006-2015 EQdkp-Plus Developer Team
- *
- *	This program is free software: you can redistribute it and/or modify
- *	it under the terms of the GNU Affero General Public License as published
- *	by the Free Software Foundation, either version 3 of the License, or
- *	(at your option) any later version.
- *
- *	This program is distributed in the hope that it will be useful,
- *	but WITHOUT ANY WARRANTY; without even the implied warranty of
- *	MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
- *	GNU Affero General Public License for more details.
- *
- *	You should have received a copy of the GNU Affero General Public License
- *	along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ /*
+ * Project:		EQdkp-Plus
+ * License:		Creative Commons - Attribution-Noncommercial-Share Alike 3.0 Unported
+ * Link:		http://creativecommons.org/licenses/by-nc-sa/3.0/
+ * -----------------------------------------------------------------------
+ * Began:		2012
+ * Date:		$Date: 2014-09-09 20:10:01 +0200 (Tue, 09 Sep 2014) $
+ * -----------------------------------------------------------------------
+ * @author		$Author: wallenium $
+ * @copyright	2006-2012 EQdkp-Plus Developer Team
+ * @link		http://eqdkp-plus.com
+ * @package		eqdkp-plus
+ * @version		$Rev: 14574 $
+ * 
+ * $Id: german.php 14574 2014-09-09 18:10:01Z wallenium $
  */
 
 if ( !defined('EQDKP_INC') ){
@@ -52,6 +49,7 @@ $german_array = array(
 		'uc_faction'					=> 'Fraktion',
 
 		// Profile information
+		'uc_cat_misc'				=> 'Sonstiges',
 		'uc_pvp'					=> 'Fusang Battlegroup',
 		'uc_pvp_help'				=> 'Battlegroup ist Servergebunden',
 		'uc_RP'						=> 'Rollenspieler',
