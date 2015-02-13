@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tswitem>
+<itemid>100004</itemid>
+<name>Marque du rejeton stellaire</name>
+<iconpath>100004</iconpath>
+<quality>5</quality>
+
+
+<tooltip><![CDATA[
+
+<table width="100%"> 
+	<tr> 
+		<td align="left" class="tsw_tooltiptitle tsw_q5" colspan="2">Marque du rejeton stellaire</td> </tr>
+	<tr> 
+		<td align="left" class="tsw_infolabel" colspan="2">Talisman de tête (NQ 10.4 Épique)</td></tr> 
+	<tr> 
+		 <td align="left" class="tsw_infolabel_slot" colspan="2">Lié au personnage </td></tr>  
+	<tr> 
+		<td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+		</tr> 
+	<tr>
+		<td align="left" width="5%"class="tsw_infolabel_hl">+2476</td> 
+		<td align="left" class="tsw_infolabel">Santé</td> </tr> 
+	<tr> 
+		<td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+	</tr>
+	<tr>
+		<td align="left" class="tsw_infolabel" colspan="2"'Quand on vous attaque, vous avez <span class="tsw_infolabel_hl">5%</span> de chances de recevoir un effet bénéfique qui réduit les dégâts reçus des attaques pénétrantes pendant <span class="tsw_infolabel_hl">15</span> secondes. La durée de cet effet n'est pas réinitialisée en cas d'applications multiples.
+
+</td></tr>
+	<tr> 
+		<td colspan="3"> <hr class="tsw_tooltip_hr"> </td>
+	</tr> 
+	
+	<tr>  
+		<td width="5%" align="center" class="tsw_item_manastone"> </td> 
+		 <td width="95%" align="left" class="tsw_infolabel_slot">Emplacement de glyphe libre</td></tr>  
+	
+
+</table>
+]]>
+</tooltip></tswitem>

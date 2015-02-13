@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tswitem>
+<itemid>100014</itemid>
+<name>Au-delà de la violence</name>
+<iconpath>100014</iconpath>
+<quality>5</quality>
+
+
+<tooltip><![CDATA[
+
+<table width="100%"> 
+	<tr> 
+		<td align="left" class="tsw_tooltiptitle tsw_q5" colspan="2">Au-delà de la violence</td> </tr>
+	<tr> 
+		<td align="left" class="tsw_infolabel" colspan="2">Arme de main (NQ 10.4 Épique)</td> </tr> 
+	<tr> 
+		<td align="left" class="tsw_infolabel_slot" colspan="2">Lié au personnage</td> </tr>  
+	<tr> 
+		<td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+		</tr> 
+	<tr>
+		<td align="left" width="5%"class="tsw_infolabel_hl">+446</td> 
+		<td align="left" class="tsw_infolabel">Puissance de l'arme</td> </tr> 
+	<tr> 
+		<td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+	</tr>
+	<tr>
+		<td width="5%" align="center" class="tsw_item_manastone"></td>
+		<td width="95%" align="left" class="tsw_infolabel_slot">Emplacement de glyphe libre</td></tr>
+	<tr>  
+		<td width="5%" align="center" class="tsw_item_manastone"> </td> 
+		 <td width="95%" align="left" class="tsw_infolabel_slot">Emplacement d'insigne libre</td></tr>  
+	
+
+</table>
+]]>
+</tooltip></tswitem>

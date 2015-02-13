@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tswitem>
+<itemid>200059</itemid>
+<name>Module d'arne auxiliaire</name>
+<iconpath>200019</iconpath>
+<quality>5</quality>
+
+
+<tooltip><![CDATA[
+
+<table width="100%"> 
+	<tr> 
+		<td align="left" class="tsw_tooltiptitle tsw_q5" colspan="2">Module d'arne auxiliaire</td> </tr>
+	<tr> 
+		<td align="left" class="tsw_infolabel" colspan="2">Signet (QS 10)</td> </tr> 
+	<tr> <td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+		 </tr>  
+	<tr> 
+		
+		</tr> 
+		<tr>
+		<td align="left" class="tsw_infolabel" colspan="2">Peut être lié à une arme auxiliaire pour améliorer des pouvoirs spécifiques. Pour avoir un aperçu de l'effet, l'utiliser conjointement à une recette valide dans la fenêtre d'assemblage.
+	</td></tr>
+
+	
+
+</table>
+]]>
+</tooltip></tswitem>

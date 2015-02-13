@@ -23,7 +23,7 @@ if(!class_exists('parseyourself')) {
 		public static $shortcuts = array('pdl', 'puf' => 'urlfetcher', 'config' => 'configset', 'pfh' => array('file_handler', array('infotooltips')));
 
 		public $supported_games	= array('tsw');
-		public $av_langs		= array('en' => 'en_US', 'de' => 'de_DE');
+		public $av_langs		= array('en' => 'en_US', 'de' => 'de_DE','fr' => 'fr_FR');
 		public $mygame			= '';
 
 		public $settings = array();
@@ -54,6 +54,7 @@ if(!class_exists('parseyourself')) {
 			switch($lang){
 				case 'de': $lang='de_DE';break;
 				case 'en': $lang='en_US';break;
+				case 'fr': $lang='fr_FR';break;
 				default: $lang='en_US';
 			}
 			if(!$this->itemlist OR $forceupdate){
@@ -120,6 +121,7 @@ if(!class_exists('parseyourself')) {
 			switch($lang){
 				case 'de': $lang='de_DE';break;
 				case 'en': $lang='en_US';break;
+				case 'fr': $lang='fr_FR';break;
 				default: $lang='en_US';
 			}
 

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tswitem>
+<itemid>200014</itemid>
+<name>Insigne de trouée</name>
+<iconpath>200008</iconpath>
+<quality>5</quality>
+
+
+<tooltip><![CDATA[
+
+<table width="100%"> 
+	<tr> 
+		<td align="left" class="tsw_tooltiptitle tsw_q5" colspan="2">Insigne de trouée</td> </tr>
+	<tr> 
+		<td align="left" class="tsw_infolabel" colspan="2">Insigne (NQ 10)</td> </tr> 
+	<tr> <td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+		 </tr>  
+	<tr> 
+		
+		</tr> 
+		<tr>
+		<td align="left" class="tsw_infolabel" colspan="2">Quand vous pénétrez les défenses d’une cible, les autres coups pénétrants qu’elle reçoit dans les <span class="tsw_infolabel_hl">7</span>  secondes qui suivent lui infligent <span class="tsw_q3">8%</span>/<span class="tsw_q4">16%</span>/<span class="tsw_q5">24%</span> de dégâts  supplémentaires.Cycle de <span class="tsw_infolabel_hl">7</span> secondes. Cet insigne peut être lié aux talismans de tête ou aux armes.
+	</td></tr>
+
+	
+
+</table>
+]]>
+</tooltip></tswitem>

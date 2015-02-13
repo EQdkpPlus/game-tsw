@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tswitem>
+<itemid>100003</itemid>
+<name>Sang des Anciens</name>
+<iconpath>100003</iconpath>
+<quality>5</quality>
+
+
+<tooltip><![CDATA[
+
+<table width="100%"> 
+	<tr> 
+		<td align="left" class="tsw_tooltiptitle tsw_q5" colspan="2">Sang des Anciens</td> </tr>
+	<tr> 
+		<td align="left" class="tsw_infolabel" colspan="2">Talisman de tête (NQ 10.4 Épique)</td></tr> 
+	<tr> 
+		 <td align="left" class="tsw_infolabel_slot" colspan="2">Lié au personnage </td></tr>  
+	<tr> 
+		<td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+		</tr> 
+	<tr>
+		<td align="left" width="5%" class="tsw_infolabel_hl">+735</td> 
+		<td align="left" class="tsw_infolabel">Valeur de guérison</td> </tr> 
+	<tr> 
+		<td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+	</tr>
+	<tr>
+		<td align="left" class="tsw_infolabel" colspan="2">Quand vous prodiguez un effet de soins à un allié, il y a <span class="tsw_infolabel_hl">10%</span> de chances que vous rendiez en outre à la cible <span class="tsw_infolabel_hl">3%</span> de son maximum de santé. Ceci ne peut se produire qu'une fois les 5 secondes.
+
+</td></tr>
+	<tr> 
+		<td colspan="3"> <hr class="tsw_tooltip_hr"> </td>
+	</tr> 
+	
+	<tr>  
+		<td align="right" class="tsw_item_manastone"></td> 
+		 <td align="left" class="tsw_infolabel_slot">Emplacement de glyphe libre</td></tr>  
+	
+
+</table>
+]]>
+</tooltip></tswitem>

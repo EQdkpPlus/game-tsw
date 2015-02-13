@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tswitem>
+<itemid>100011</itemid>
+<name>Charme de Broadway</name>
+<iconpath>100011</iconpath>
+<quality>5</quality>
+
+
+<tooltip><![CDATA[
+
+<table width="100%"> 
+	<tr> 
+		<td align="left" class="tsw_tooltiptitle tsw_q5" colspan="2">Charme de Broadway</td> </tr>
+	<tr> 
+		<td align="left" class="tsw_infolabel" colspan="2">Talisman de l'occulte (NQ 10.4 Épique)</td></tr> 
+	<tr> 
+		 <td align="left" class="tsw_infolabel_slot" colspan="2">Lié au personnage </td></tr>  
+	<tr> 
+		<td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+		</tr> 
+	<tr>
+		<td align="left" width="5%"class="tsw_infolabel_hl">+427</td> 
+		<td align="left" class="tsw_infolabel"> Valeur de guérison</td> </tr> 
+	<tr> 
+		<td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+	</tr>
+	<tr>
+		<td align="left" class="tsw_infolabel" colspan="2">Quand vous soignez une cible à laquelle il reste moins de <span class="tsw_infolabel_hl">66%</span> de ses points de santé, vous avez <span class="tsw_infolabel_hl">33%</span> de chance de lui prodigues en outre un effet bénéfique qui augmente ses protections phyisque et magique de <span class="tsw_infolabel_hl">400</span> pendant <span class="tsw_infolabel_hl">10</span> secondes.
+
+		</td></tr>
+	<tr> 
+		<td colspan="3"> <hr class="tsw_tooltip_hr"> </td>
+	</tr> 
+	
+	<tr>  
+		<td width="5%" align="center" class="tsw_item_manastone"> </td> 
+		 <td width="95%" align="left" class="tsw_infolabel_slot">Emplacement de glyphe libre</td></tr>  
+	
+
+</table>
+]]>
+</tooltip></tswitem>
