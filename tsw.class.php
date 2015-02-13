@@ -185,8 +185,8 @@ if(!class_exists('tsw')) {
 			$this->game->addMultiDKPPool("TSW", "TSW MultiDKPPool", $arrEventIDs, array($intItempoolID));
 			
 			//Links
-			$this->game->addLink('Offcial Forum', 'http://forums.thesecretworld.com/');
-			$this->game->addLink('TestServer Forum', 'https://forums-tl.thesecretworld.com/index.php');
+			$this->game->addLink('TSW Forum', 'http://forums.thesecretworld.com/');
+			$this->game->addLink('TSW TestServer Forum', 'https://forums-tl.thesecretworld.com/index.php');
 			
 			$this->game->resetRanks();
 			//Ranks
@@ -203,8 +203,8 @@ if(!class_exists('tsw')) {
 		}
 		public function uninstall(){
 
-			$this->game->removeLink("Offcial Forum");
-			$this->game->removeLink("TestServer Forum");
+			$this->game->removeLink("TSW Forum");
+			$this->game->removeLink("TSW TestServer Forum");
 			
 		}	
 	}
