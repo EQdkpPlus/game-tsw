@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tswitem>
+<itemid>100007</itemid>
+<name>Pendentif d'Egon</name>
+<iconpath>100007</iconpath>
+<quality>5</quality>
+
+
+<tooltip><![CDATA[
+
+<table width="100%"> 
+	<tr> 
+		<td align="left" class="tsw_tooltiptitle tsw_q5" colspan="2">Pendentif d'Egon</td> </tr>
+	<tr> 
+		<td align="left" class="tsw_infolabel" colspan="2">Talisman de cou (NQ 10.4 Épique)</td></tr> 
+	<tr> 
+		 <td align="left" class="tsw_infolabel_slot" colspan="2">Lié au personnage </td></tr>  
+	<tr> 
+		<td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+		</tr> 
+	<tr>
+		<td align="left" width="5%"class="tsw_infolabel_hl">+664</td> 
+		<td align="left" class="tsw_infolabel">Valeur d'attaque</td> </tr> 
+	<tr> 
+		<td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+	</tr>
+	<tr>
+		<td align="left" class="tsw_infolabel" colspan="2">Quand vous infligez un coup critique, vous obtenez un effet bénéfique qui augmente l'efficacité de votre valeur de critique pendant <span class="tsw_infolabel_hl">12</span> secondes. La durée de cet effet n'est pas réinitialisée en cas d'applications multiples.
+
+</td></tr>
+	<tr> 
+		<td colspan="3"> <hr class="tsw_tooltip_hr"> </td>
+	</tr> 
+	
+	<tr>  
+		<td width="5%" align="center" class="tsw_item_manastone"> </td> 
+		 <td width="95%" align="left" class="tsw_infolabel_slot">Emplacement de glyphe libre</td></tr>  
+	
+
+</table>
+]]>
+</tooltip></tswitem>

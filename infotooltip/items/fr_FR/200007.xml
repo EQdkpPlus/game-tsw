@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tswitem>
+<itemid>200007</itemid>
+<name>Insigne de renfort</name>
+<iconpath>200005</iconpath>
+<quality>5</quality>
+
+
+<tooltip><![CDATA[
+
+<table width="100%"> 
+	<tr> 
+		<td align="left" class="tsw_tooltiptitle tsw_q5" colspan="2">Insigne de renfort</td> </tr>
+	<tr> 
+		<td align="left" class="tsw_infolabel" colspan="2">Insigne (NQ 10)</td> </tr> 
+	<tr> <td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+		 </tr>  
+	<tr> 
+		
+		</tr> 
+		<tr>
+		<td align="left" class="tsw_infolabel" colspan="2">Quand vous êtes touchée par un coup dévié ou que vous esquivez une attaque, vous obtenez un bonus de protection magique et physique de <span class="tsw_q3">31</span>/<span class="tsw_q4">62</span>/<span class="tsw_q5">93</span> par incrément cumulé pendant <span class="tsw_infolabel_hl">4</span> secondes, jusqu'à und maximum de <span class="tsw_infolabel_hl">3</span> incréments. Cet insigne peut être lié aux talismans de tête.
+	</td></tr>
+
+	
+
+</table>
+]]>
+</tooltip></tswitem>

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tswitem>
+<itemid>100009</itemid>
+<name>Jetons de métro</name>
+<iconpath>100009</iconpath>
+<quality>5</quality>
+
+
+<tooltip><![CDATA[
+
+<table width="100%"> 
+	<tr> 
+		<td align="left" class="tsw_tooltiptitle tsw_q5" colspan="2">Jetons de métro</td> </tr>
+	<tr> 
+		<td align="left" class="tsw_infolabel" colspan="2">Talisman de la chance (NQ 10.4 Épique)</td></tr> 
+	<tr> 
+		 <td align="left" class="tsw_infolabel_slot" colspan="2">Lié au personnage </td></tr>  
+	<tr> 
+		<td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+		</tr> 
+	<tr>
+		<td align="left" width="5%"class="tsw_infolabel_hl">+427</td> 
+		<td align="left" class="tsw_infolabel">Valeur d'attaque</td> </tr> 
+	<tr> 
+		<td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+	</tr>
+	<tr>
+		<td align="left" class="tsw_infolabel" colspan="2">Tourtes les <span class="tsw_infolabel_hl">6</span> secondes, vous obtenez un incrément d'un effet bénéfique qui augmente tous les dégâts infligés de <span class="tsw_infolabel_hl">1%</span> par incrément. Cet effet se dissipe au premier coup dévié ou dès que le nombre total d'incréments dépasse <span class="tsw_infolabel_hl">10</span>.
+</td></tr>
+	<tr> 
+		<td colspan="3"> <hr class="tsw_tooltip_hr"> </td>
+	</tr> 
+	
+	<tr>  
+		<td width="5%" align="center" class="tsw_item_manastone"> </td> 
+		 <td width="95%" align="left" class="tsw_infolabel_slot">Emplacement de glyphe libre</td></tr>  
+	
+
+</table>
+]]>
+</tooltip></tswitem>

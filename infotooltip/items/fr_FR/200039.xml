@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tswitem>
+<itemid>200039</itemid>
+<name>Insigne de subjugation</name>
+<iconpath>200009</iconpath>
+<quality>5</quality>
+
+
+<tooltip><![CDATA[
+
+<table width="100%"> 
+	<tr> 
+		<td align="left" class="tsw_tooltiptitle tsw_q5" colspan="2">Insigne de subjugation</td> </tr>
+	<tr> 
+		<td align="left" class="tsw_infolabel" colspan="2">Insigne (NQ 10)</td> </tr> 
+	<tr> <td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+		 </tr>  
+	<tr> 
+		
+		</tr> 
+		<tr>
+		<td align="left" class="tsw_infolabel" colspan="2">Quand vous infligez un coup critique ou pénétrant, vous inspirez un <span class="tsw_q3">peu moins</span>/<span class="tsw_q4">meins</span>/<span class="tsw_q5">beaucoup moins</span> de haine à vos cibles enemies. Cycle de <span class="tsw_infolabel_hl">15</span> secondes. Cet insigne peut être lié aux talismans mineurs.
+	</td></tr>
+
+	
+
+</table>
+]]>
+</tooltip></tswitem>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tswitem>
+<itemid>200006</itemid>
+<name>Insigne d'ordre</name>
+<iconpath>200005</iconpath>
+<quality>5</quality>
+
+
+<tooltip><![CDATA[
+
+<table width="100%"> 
+	<tr> 
+		<td align="left" class="tsw_tooltiptitle tsw_q5" colspan="2">Insigne d'ordre</td> </tr>
+	<tr> 
+		<td align="left" class="tsw_infolabel" colspan="2">Insigne (NQ 10)</td> </tr> 
+	<tr> <td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+		 </tr>  
+	<tr> 
+		
+		</tr> 
+		<tr>
+		<td align="left" class="tsw_infolabel" colspan="2">Quand vous parez une attaque, vous obtenez un bonus de <span class="tsw_q3">15%</span>/<span class="tsw_q4">30%</span>/<span class="tsw_q5">45%</span> à vos chances de parade pendant <span class="tsw_infolabel_hl">4</span> secondes. Cycle de <span class="tsw_infolabel_hl">10</span> secondes. Cet insigne peut être lié aux talismans de tête.
+	</td></tr>
+
+	
+
+</table>
+]]>
+</tooltip></tswitem>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tswitem>
+<itemid>200012</itemid>
+<name>Insigne de bravoure</name>
+<iconpath>200006</iconpath>
+<quality>5</quality>
+
+
+<tooltip><![CDATA[
+
+<table width="100%"> 
+	<tr> 
+		<td align="left" class="tsw_tooltiptitle tsw_q5" colspan="2">Insigne de bravoure</td> </tr>
+	<tr> 
+		<td align="left" class="tsw_infolabel" colspan="2">Insigne (NQ 10)</td> </tr> 
+	<tr> <td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+		 </tr>  
+	<tr> 
+		
+		</tr> 
+		<tr>
+		<td align="left" class="tsw_infolabel" colspan="2">Quand vous infligez un coup critique à une cible, vous bénéficiez d'une barrière qui absorbe <span class="tsw_q3">40</span>/<span class="tsw_q4">80</span>/<span class="tsw_q5">120</span>points de dégâts et dure <span class="tsw_infolabel_hl">10</span> secondes. Cet insigne peut être lié aux talismans de tête ou aux armes.
+	</td></tr>
+
+	
+
+</table>
+]]>
+</tooltip></tswitem>

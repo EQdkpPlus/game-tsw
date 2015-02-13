@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tswitem>
+<itemid>200049</itemid>
+<name>Insigne de salut</name>
+<iconpath>200011</iconpath>
+<quality>5</quality>
+
+
+<tooltip><![CDATA[
+
+<table width="100%"> 
+	<tr> 
+		<td align="left" class="tsw_tooltiptitle tsw_q5" colspan="2">Insigne de salut</td> </tr>
+	<tr> 
+		<td align="left" class="tsw_infolabel" colspan="2">Signet (QS 10)</td> </tr> 
+	<tr> <td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+		 </tr>  
+	<tr> 
+		
+		</tr> 
+		<tr>
+		<td align="left" class="tsw_infolabel" colspan="2">Quand vous parez un coup, l'évitez au  que vous êtes touchée par un coup dévié, vous obtenez un bonus de <span class="tsw_q3">2%</span>/<span class="tsw_q4">4%</span>/<span class="tsw_q5">6%</span> à la réduction des dégâts pendant <span class="tsw_infolabel_hl">5</span> secondes. <span class="tsw_infolabel_hl">6</span> seconds cooldown. Cet insigne peut être lié aux talismans mineurs.
+	</td></tr>
+
+	
+
+</table>
+]]>
+</tooltip></tswitem>
