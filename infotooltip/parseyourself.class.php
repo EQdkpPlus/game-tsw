@@ -24,6 +24,7 @@ if(!class_exists('parseyourself')) {
 
 		public $supported_games	= array('tsw');
 		public $av_langs		= array('en' => 'en_US', 'de' => 'de_DE','fr' => 'fr_FR');
+		public $default_icon	= '100000';
 		public $mygame			= '';
 
 		public $settings = array();
@@ -113,10 +114,15 @@ if(!class_exists('parseyourself')) {
 			return $this->getItemIDfromItemlist($itemname, $lang);
 		}
 
+		
+
 		protected function getItemData($item_id, $lang, $itemname='', $type='item'){
 			settype($item_id, 'int');
 			$item			= array('id' => $item_id);
-			if(!$item_id) return null;
+			if(!$item_id){
+				$item['baditem'] = true;
+				return $item;
+			}
 
 			switch($lang){
 				case 'de': $lang='de_DE';break;
@@ -126,7 +132,6 @@ if(!class_exists('parseyourself')) {
 			}
 
 			$item['link']	= $this->getDataFolder().$type.'/'.$lang.'/'.$item['id'].'.xml';
-			$this->config['default_icon']	= '100000';
 			if(file_exists($item['link'])){
 				$this->pdl->log('infotooltip', 'fetch item-data from: '.$item['link']);
 				$itemxml		= simplexml_load_file($item['link']);
@@ -154,6 +159,7 @@ if(!class_exists('parseyourself')) {
 				$item['color']		= 'tsw_q'.(string)$itemxml->quality;
 
 			}else{
+				$item['baditem'] = true;
 				$this->pdl->log('infotooltip', 'File '.$item['link'].' does not exist');
 			}
 			return $item;
