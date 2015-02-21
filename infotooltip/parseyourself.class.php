@@ -117,6 +117,7 @@ if(!class_exists('parseyourself')) {
 		
 
 		protected function getItemData($item_id, $lang, $itemname='', $type='item'){
+			$origlang = $lang;
 			settype($item_id, 'int');
 			$item			= array('id' => $item_id);
 			if(!$item_id){
@@ -154,7 +155,7 @@ if(!class_exists('parseyourself')) {
 					
 				);
 				$item['html']		= str_replace('{ITEM_HTML}', stripslashes($html), $template_html);
-				$item['lang']		= $lang;
+				$item['lang']		= $origlang;
 				$item['icon']		= (string)$itemxml->iconpath;
 				$item['color']		= 'tsw_q'.(string)$itemxml->quality;
 
