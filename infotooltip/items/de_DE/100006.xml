@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <tswitem>
 <itemid>100006</itemid>
-<name>Coney Island Ring</name>
+<name>Coney-Island-Ring</name>
 <iconpath>100006</iconpath>
 <quality>5</quality>
 
@@ -10,7 +10,7 @@
 
 <table width="100%"> 
 	<tr> 
-		<td align="left" class="tsw_tooltiptitle tsw_q5" colspan="2">Coney Island Ring</td> </tr>
+		<td align="left" class="tsw_tooltiptitle tsw_q5" colspan="2">Coney-Island-Ring</td> </tr>
 	<tr> 
 		<td align="left" class="tsw_infolabel" colspan="2">Fingertalisman (QS 10.4 Episch)</td></tr> 
 	<tr> 
