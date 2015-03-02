@@ -10,7 +10,7 @@
 
 <table width="100%"> 
 	<tr> 
-		<td align="left" class="tsw_tooltiptitle tsw_q5" colspan="2">Letzter Angriff</td> </tr>
+		<td align="left" class="tsw_tooltiptitle tsw_q;QL_VALUE;" colspan="2">Letzter Angriff</td> </tr>
 	<tr> 
 		<td align="left" class="tsw_infolabel" colspan="2">Sturmgewehr (QS 10.4 Episch)</td> </tr> 
 	<tr> 

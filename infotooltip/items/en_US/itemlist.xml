@@ -1,87 +1,290 @@
 <?xml version="1.0" encoding="utf-8"?>
 <list>
-<tswitem id="100001" name="Astralfuse"/>
-<tswitem id="100002" name="Criterion"/>
-<tswitem id="100003" name="Blood of the Old Ones"/>
-<tswitem id="100004" name="Mark of the Starspawn"/>
-<tswitem id="100005" name="Ashes of Elder Things"/>
-<tswitem id="100006" name="Coney Island Band"/>
-<tswitem id="100007" name="Egon Pendant"/>
-<tswitem id="100008" name="Brooklyn Bracer"/>
-<tswitem id="100009" name="Subway Tokens"/>
-<tswitem id="100010" name="NY Buckle"/>
-<tswitem id="100011" name="Broadway Charm"/>
-<tswitem id="100012" name="Objective Truth"/>
-<tswitem id="100013" name="The Bronx"/>
-<tswitem id="100014" name="Beyound Violence"/>
-<tswitem id="100015" name="End of Days"/>
-<tswitem id="100016" name="The Trajector"/>
-<tswitem id="100017" name="The fith Element"/>
-<tswitem id="100018" name="Star Gauge"/>
-<tswitem id="100019" name="Good and Evil"/>
-<tswitem id="100020" name="Final Assault"/>
-<tswitem id="100021" name="Third Core Capacitor"/>
-<tswitem id="100022" name="Supernal Diode"/>
-<tswitem id="200001" name="Signet of Amelioration"/>
-<tswitem id="200002" name="Signet of Violence"/>
-<tswitem id="200003" name="Signet of Vigour"/>
-<tswitem id="200004" name="Signet of Corruption"/>
-<tswitem id="200005" name="Signet of Discipline"/>
-<tswitem id="200006" name="Signet of Order"/>
-<tswitem id="200007" name="Signet of Reinforcement"/>
-<tswitem id="200008" name="Signet of Resilience"/>
-<tswitem id="200009" name="Signet of Benediction"/>
-<tswitem id="200010" name="Signet of Temperance"/>
-<tswitem id="200011" name="Signet of Cruel Delight"/>
-<tswitem id="200012" name="Signet of Valour"/>
-<tswitem id="200013" name="Signet of Abuse"/>
-<tswitem id="200014" name="Signet of Aggression"/>
-<tswitem id="200015" name="Signet of Breaching"/>
-<tswitem id="200016" name="Signet of Castigation"/>
-<tswitem id="200017" name="Signet of Fury"/>
-<tswitem id="200018" name="Signet of Laceration"/>
-<tswitem id="200019" name="Signet of Opportunism"/>
-<tswitem id="200020" name="Signet of Sadism"/>
-<tswitem id="200021" name="Signet of Detainment"/>
-<tswitem id="200022" name="Signet of Extrication"/>
-<tswitem id="200023" name="Signet of Interdiction"/>
-<tswitem id="200024" name="Signet of Obedience"/>
-<tswitem id="200025" name="Signet of Assassination"/>
-<tswitem id="200026" name="Signet of Barrage"/>
-<tswitem id="200027" name="Signet of Cleaving"/>
-<tswitem id="200028" name="Signet of Distortion"/>
-<tswitem id="200029" name="Signet of Execution"/>
-<tswitem id="200030" name="Signet of Flux"/>
-<tswitem id="200031" name="Signet of Liqudation"/>
-<tswitem id="200032" name="Signet of Rage"/>
-<tswitem id="200033" name="Signet of Recursion"/>
-<tswitem id="200034" name="Signet of Serration"/>
-<tswitem id="200035" name="Signet of Shards"/>
-<tswitem id="200036" name="Signet of Shattering"/>
-<tswitem id="200037" name="Signet of Storms"/>
-<tswitem id="200038" name="Signet of Swords"/>
-<tswitem id="200039" name="Signet of Subjugation"/>
-<tswitem id="200040" name="Signet of Tomes"/>
-<tswitem id="200041" name="Signet of Serenity"/>
-<tswitem id="200042" name="Signet of Echoes"/>
-<tswitem id="200043" name="Signet of Equilibrium"/>
-<tswitem id="200044" name="Signet of Thirst"/>
-<tswitem id="200045" name="Signet of Harmony"/>
-<tswitem id="200046" name="Signet of Hunger"/>
-<tswitem id="200047" name="Signet of Security"/>
-<tswitem id="200048" name="Signet of Rejuvenation"/>
-<tswitem id="200049" name="Signet of Salvation"/>
-<tswitem id="200050" name="Signet of Ablation"/>
-<tswitem id="200051" name="Signet of Fortification"/>
-<tswitem id="200052" name="Signet of Hatred"/>
+<tswitem id="100001" name="Astral Fuse" quality="5"/>
+<tswitem id="100002" name="Criterion" quality="5"/>
+<tswitem id="100003" name="Blood of the Old Ones" quality="5"/>
+<tswitem id="100004" name="Mark of the Starspawn" quality="5"/>
+<tswitem id="100005" name="Ashes of Elder Things" quality="5"/>
+<tswitem id="100006" name="Coney Island Band" quality="5"/>
+<tswitem id="100007" name="Egon Pendant" quality="5"/>
+<tswitem id="100008" name="Brooklyn Bracer" quality="5"/>
+<tswitem id="100009" name="Subway Tokens" quality="5"/>
+<tswitem id="100010" name="NY Buckle" quality="5"/>
+<tswitem id="100011" name="Broadway Charm" quality="5"/>
+<tswitem id="100012" name="Objective Truth" quality="5"/>
+<tswitem id="100013" name="The Bronx" quality="5"/>
+<tswitem id="100014" name="Beyound Violence" quality="5"/>
+<tswitem id="100015" name="End of Days" quality="5"/>
+<tswitem id="100016" name="The Trajector" quality="5"/>
+<tswitem id="100017" name="The fith Element" quality="5"/>
+<tswitem id="100018" name="Star Gauge" quality="5"/>
+<tswitem id="100019" name="Good and Evil" quality="5"/>
+<tswitem id="100020" name="Final Assault" quality="5"/>
+<tswitem id="100021" name="Third Core Capacitor" quality="6"/>
+<tswitem id="100022" name="Supernal Diode" quality="6"/>
 
-<tswitem id="200053" name="Aux Weapon Imprint"/>
-<tswitem id="200054" name="Aux Weapon Augur"/>
-<tswitem id="200055" name="Aux Weapon Binding"/>
-<tswitem id="200056" name="Aux Weapon Overdrive"/>
-<tswitem id="200057" name="Aux Weapon Seal"/>
-<tswitem id="200058" name="Aux Weapon Tune"/>
-<tswitem id="200059" name="Aux Weapon Mod"/>
-<tswitem id="200060" name="Aux Weapon Charge"/>
+<tswitem id="8130815" name="Writhing Lamprey Belt" quality="5"/>
+<tswitem id="8130823" name="Polyhedrons of the Wyrd" quality="5"/>
+<tswitem id="8130847" name="Mantle of the Vampire Squid" quality="5"/>
+<tswitem id="8130848" name="Medallion of Tentacular Skies" quality="5"/>
+<tswitem id="8130849" name="Manacles of the Threshold Lurker" quality="5"/>
+<tswitem id="8130850" name="Ring of the Mollusk Gods" quality="5"/>
+<tswitem id="8130980" name="Cuttlefish Ink" quality="5"/>
+<tswitem id="8130981" name="Bioluminescent Algae" quality="5"/>
+<tswitem id="8130982" name="Bilious Ichor" quality="5"/>
+<tswitem id="8130984" name="Event Horizon Cannon" quality="5"/>
+<tswitem id="8130985" name="Eldritch Reapers" quality="5"/>
+<tswitem id="8130986" name="Outer Gods' Rain" quality="5"/>
+<tswitem id="8131219" name="Castigator of the Elder Nigh" quality="5"/>
+<tswitem id="8131220" name="Vermiculated Talons" quality="5"/>
+<tswitem id="8131221" name="Cleaver of the Outer Dark" quality="5"/>
+<tswitem id="8131222" name="De Vermis Mysteriis" quality="5"/>
+<tswitem id="8131223" name="Bauble of Baleful Wormfire" quality="5"/>
+<tswitem id="8131224" name="Mask of Chaos Crawling" quality="5"/>
+<tswitem id="7894446" name="Auxiliary upgrade toolkit" quality="5"/>
 
+
+<tswitem id="200001" name="Signet of Amelioration" quality="7"/>
+<tswitem id="200002" name="Signet of Violence" quality="7"/>
+<tswitem id="200003" name="Signet of Vigour" quality="7"/>
+<tswitem id="200004" name="Signet of Corruption" quality="7"/>
+<tswitem id="200005" name="Signet of Discipline" quality="7"/>
+<tswitem id="200006" name="Signet of Order" quality="7"/>
+<tswitem id="200007" name="Signet of Reinforcement" quality="7"/>
+<tswitem id="200008" name="Signet of Resilience" quality="7"/>
+<tswitem id="200009" name="Signet of Benediction" quality="7"/>
+<tswitem id="200010" name="Signet of Temperance" quality="7"/>
+<tswitem id="200011" name="Signet of Cruel Delight" quality="7"/>
+<tswitem id="200012" name="Signet of Valour" quality="7"/>
+<tswitem id="200013" name="Signet of Abuse" quality="7"/>
+<tswitem id="200014" name="Signet of Aggression" quality="7"/>
+<tswitem id="200015" name="Signet of Breaching" quality="7"/>
+<tswitem id="200016" name="Signet of Castigation" quality="7"/>
+<tswitem id="200017" name="Signet of Fury" quality="7"/>
+<tswitem id="200018" name="Signet of Laceration" quality="7"/>
+<tswitem id="200019" name="Signet of Opportunism" quality="7"/>
+<tswitem id="200020" name="Signet of Sadism" quality="7"/>
+<tswitem id="200021" name="Signet of Detainment" quality="7"/>
+<tswitem id="200022" name="Signet of Extrication" quality="7"/>
+<tswitem id="200023" name="Signet of Interdiction" quality="7"/>
+<tswitem id="200024" name="Signet of Obedience" quality="7"/>
+<tswitem id="200025" name="Signet of Assassination" quality="7"/>
+<tswitem id="200026" name="Signet of Barrage" quality="7"/>
+<tswitem id="200027" name="Signet of Cleaving" quality="7"/>
+<tswitem id="200028" name="Signet of Distortion" quality="7"/>
+<tswitem id="200029" name="Signet of Execution" quality="7"/>
+<tswitem id="200030" name="Signet of Flux" quality="7"/>
+<tswitem id="200031" name="Signet of Liqudation" quality="7"/>
+<tswitem id="200032" name="Signet of Rage" quality="7"/>
+<tswitem id="200033" name="Signet of Recursion" quality="7"/>
+<tswitem id="200034" name="Signet of Serration" quality="7"/>
+<tswitem id="200035" name="Signet of Shards" quality="7"/>
+<tswitem id="200036" name="Signet of Shattering" quality="7"/>
+<tswitem id="200037" name="Signet of Storms" quality="7"/>
+<tswitem id="200038" name="Signet of Swords" quality="7"/>
+<tswitem id="200039" name="Signet of Subjugation" quality="7"/>
+<tswitem id="200040" name="Signet of Tomes" quality="7"/>
+<tswitem id="200041" name="Signet of Serenity" quality="7"/>
+<tswitem id="200042" name="Signet of Echoes" quality="7"/>
+<tswitem id="200043" name="Signet of Equilibrium" quality="7"/>
+<tswitem id="200044" name="Signet of Thirst" quality="7"/>
+<tswitem id="200045" name="Signet of Harmony" quality="7"/>
+<tswitem id="200046" name="Signet of Hunger" quality="7"/>
+<tswitem id="200047" name="Signet of Security" quality="7"/>
+<tswitem id="200048" name="Signet of Rejuvenation" quality="7"/>
+<tswitem id="200049" name="Signet of Salvation" quality="7"/>
+<tswitem id="200050" name="Signet of Ablation" quality="7"/>
+<tswitem id="200051" name="Signet of Fortification" quality="7"/>
+<tswitem id="200052" name="Signet of Hatred" quality="7"/>
+<tswitem id="200053" name="Aux Weapon Imprint" quality="7"/>
+<tswitem id="200054" name="Aux Weapon Augur" quality="7"/>
+<tswitem id="200055" name="Aux Weapon Binding" quality="7"/>
+<tswitem id="200056" name="Aux Weapon Overdrive" quality="7"/>
+<tswitem id="200057" name="Aux Weapon Seal" quality="7"/>
+<tswitem id="200058" name="Aux Weapon Tune" quality="7"/>
+<tswitem id="200059" name="Aux Weapon Mod" quality="7"/>
+<tswitem id="200060" name="Aux Weapon Charge" quality="7"/>
+
+<tswitem id="200001" name="Purple Signet of Amelioration" quality="5"/>
+<tswitem id="200002" name="Purple Signet of Violence" quality="5"/>
+<tswitem id="200003" name="Purple Signet of Vigour" quality="5"/>
+<tswitem id="200004" name="Purple Signet of Corruption" quality="5"/>
+<tswitem id="200005" name="Purple Signet of Discipline" quality="5"/>
+<tswitem id="200006" name="Purple Signet of Order" quality="5"/>
+<tswitem id="200007" name="Purple Signet of Reinforcement" quality="5"/>
+<tswitem id="200008" name="Purple Signet of Resilience" quality="5"/>
+<tswitem id="200009" name="Purple Signet of Benediction" quality="5"/>
+<tswitem id="200010" name="Purple Signet of Temperance" quality="5"/>
+<tswitem id="200011" name="Purple Signet of Cruel Delight" quality="5"/>
+<tswitem id="200012" name="Purple Signet of Valour" quality="5"/>
+<tswitem id="200013" name="Purple Signet of Abuse" quality="5"/>
+<tswitem id="200014" name="Purple Signet of Aggression" quality="5"/>
+<tswitem id="200015" name="Purple Signet of Breaching" quality="5"/>
+<tswitem id="200016" name="Purple Signet of Castigation" quality="5"/>
+<tswitem id="200017" name="Purple Signet of Fury" quality="5"/>
+<tswitem id="200018" name="Purple Signet of Laceration" quality="5"/>
+<tswitem id="200019" name="Purple Signet of Opportunism" quality="5"/>
+<tswitem id="200020" name="Purple Signet of Sadism" quality="5"/>
+<tswitem id="200021" name="Purple Signet of Detainment" quality="5"/>
+<tswitem id="200022" name="Purple Signet of Extrication" quality="5"/>
+<tswitem id="200023" name="Purple Signet of Interdiction" quality="5"/>
+<tswitem id="200024" name="Purple Signet of Obedience" quality="5"/>
+<tswitem id="200025" name="Purple Signet of Assassination" quality="5"/>
+<tswitem id="200026" name="Purple Signet of Barrage" quality="5"/>
+<tswitem id="200027" name="Purple Signet of Cleaving" quality="5"/>
+<tswitem id="200028" name="Purple Signet of Distortion" quality="5"/>
+<tswitem id="200029" name="Purple Signet of Execution" quality="5"/>
+<tswitem id="200030" name="Purple Signet of Flux" quality="5"/>
+<tswitem id="200031" name="Purple Signet of Liqudation" quality="5"/>
+<tswitem id="200032" name="Purple Signet of Rage" quality="5"/>
+<tswitem id="200033" name="Purple Signet of Recursion" quality="5"/>
+<tswitem id="200034" name="Purple Signet of Serration" quality="5"/>
+<tswitem id="200035" name="Purple Signet of Shards" quality="5"/>
+<tswitem id="200036" name="Purple Signet of Shattering" quality="5"/>
+<tswitem id="200037" name="Purple Signet of Storms" quality="5"/>
+<tswitem id="200038" name="Purple Signet of Swords" quality="5"/>
+<tswitem id="200039" name="Purple Signet of Subjugation" quality="5"/>
+<tswitem id="200040" name="Purple Signet of Tomes" quality="5"/>
+<tswitem id="200041" name="Purple Signet of Serenity" quality="5"/>
+<tswitem id="200042" name="Purple Signet of Echoes" quality="5"/>
+<tswitem id="200043" name="Purple Signet of Equilibrium" quality="5"/>
+<tswitem id="200044" name="Purple Signet of Thirst" quality="5"/>
+<tswitem id="200045" name="Purple Signet of Harmony" quality="5"/>
+<tswitem id="200046" name="Purple Signet of Hunger" quality="5"/>
+<tswitem id="200047" name="Purple Signet of Security" quality="5"/>
+<tswitem id="200048" name="Purple Signet of Rejuvenation" quality="5"/>
+<tswitem id="200049" name="Purple Signet of Salvation" quality="5"/>
+<tswitem id="200050" name="Purple Signet of Ablation" quality="5"/>
+<tswitem id="200051" name="Purple Signet of Fortification" quality="5"/>
+<tswitem id="200052" name="Purple Signet of Hatred" quality="5"/>
+<tswitem id="200053" name="Purple Aux Weapon Imprint" quality="5"/>
+<tswitem id="200054" name="Purple Aux Weapon Augur" quality="5"/>
+<tswitem id="200055" name="Purple Aux Weapon Binding" quality="5"/>
+<tswitem id="200056" name="Purple Aux Weapon Overdrive" quality="5"/>
+<tswitem id="200057" name="Purple Aux Weapon Seal" quality="5"/>
+<tswitem id="200058" name="Purple Aux Weapon Tune" quality="5"/>
+<tswitem id="200059" name="Purple Aux Weapon Mod" quality="5"/>
+<tswitem id="200060" name="Purple Aux Weapon Charge" quality="5"/>
+
+<tswitem id="200001" name="Blue Signet of Amelioration" quality="4"/>
+<tswitem id="200002" name="Blue Signet of Violence" quality="4"/>
+<tswitem id="200003" name="Blue Signet of Vigour" quality="4"/>
+<tswitem id="200004" name="Blue Signet of Corruption" quality="4"/>
+<tswitem id="200005" name="Blue Signet of Discipline" quality="4"/>
+<tswitem id="200006" name="Blue Signet of Order" quality="4"/>
+<tswitem id="200007" name="Blue Signet of Reinforcement" quality="4"/>
+<tswitem id="200008" name="Blue Signet of Resilience" quality="4"/>
+<tswitem id="200009" name="Blue Signet of Benediction" quality="4"/>
+<tswitem id="200010" name="Blue Signet of Temperance" quality="4"/>
+<tswitem id="200011" name="Blue Signet of Cruel Delight" quality="4"/>
+<tswitem id="200012" name="Blue Signet of Valour" quality="4"/>
+<tswitem id="200013" name="Blue Signet of Abuse" quality="4"/>
+<tswitem id="200014" name="Blue Signet of Aggression" quality="4"/>
+<tswitem id="200015" name="Blue Signet of Breaching" quality="4"/>
+<tswitem id="200016" name="Blue Signet of Castigation" quality="4"/>
+<tswitem id="200017" name="Blue Signet of Fury" quality="4"/>
+<tswitem id="200018" name="Blue Signet of Laceration" quality="4"/>
+<tswitem id="200019" name="Blue Signet of Opportunism" quality="4"/>
+<tswitem id="200020" name="Blue Signet of Sadism" quality="4"/>
+<tswitem id="200021" name="Blue Signet of Detainment" quality="4"/>
+<tswitem id="200022" name="Blue Signet of Extrication" quality="4"/>
+<tswitem id="200023" name="Blue Signet of Interdiction" quality="4"/>
+<tswitem id="200024" name="Blue Signet of Obedience" quality="4"/>
+<tswitem id="200025" name="Blue Signet of Assassination" quality="4"/>
+<tswitem id="200026" name="Blue Signet of Barrage" quality="4"/>
+<tswitem id="200027" name="Blue Signet of Cleaving" quality="4"/>
+<tswitem id="200028" name="Blue Signet of Distortion" quality="4"/>
+<tswitem id="200029" name="Blue Signet of Execution" quality="4"/>
+<tswitem id="200030" name="Blue Signet of Flux" quality="4"/>
+<tswitem id="200031" name="Blue Signet of Liqudation" quality="4"/>
+<tswitem id="200032" name="Blue Signet of Rage" quality="4"/>
+<tswitem id="200033" name="Blue Signet of Recursion" quality="4"/>
+<tswitem id="200034" name="Blue Signet of Serration" quality="4"/>
+<tswitem id="200035" name="Blue Signet of Shards" quality="4"/>
+<tswitem id="200036" name="Blue Signet of Shattering" quality="4"/>
+<tswitem id="200037" name="Blue Signet of Storms" quality="4"/>
+<tswitem id="200038" name="Blue Signet of Swords" quality="4"/>
+<tswitem id="200039" name="Blue Signet of Subjugation" quality="4"/>
+<tswitem id="200040" name="Blue Signet of Tomes" quality="4"/>
+<tswitem id="200041" name="Blue Signet of Serenity" quality="4"/>
+<tswitem id="200042" name="Blue Signet of Echoes" quality="4"/>
+<tswitem id="200043" name="Blue Signet of Equilibrium" quality="4"/>
+<tswitem id="200044" name="Blue Signet of Thirst" quality="4"/>
+<tswitem id="200045" name="Blue Signet of Harmony" quality="4"/>
+<tswitem id="200046" name="Blue Signet of Hunger" quality="4"/>
+<tswitem id="200047" name="Blue Signet of Security" quality="4"/>
+<tswitem id="200048" name="Blue Signet of Rejuvenation" quality="4"/>
+<tswitem id="200049" name="Blue Signet of Salvation" quality="4"/>
+<tswitem id="200050" name="Blue Signet of Ablation" quality="4"/>
+<tswitem id="200051" name="Blue Signet of Fortification" quality="4"/>
+<tswitem id="200052" name="Blue Signet of Hatred" quality="4"/>
+<tswitem id="200053" name="Blue Aux Weapon Imprint" quality="4"/>
+<tswitem id="200054" name="Blue Aux Weapon Augur" quality="4"/>
+<tswitem id="200055" name="Blue Aux Weapon Binding" quality="4"/>
+<tswitem id="200056" name="Blue Aux Weapon Overdrive" quality="4"/>
+<tswitem id="200057" name="Blue Aux Weapon Seal" quality="4"/>
+<tswitem id="200058" name="Blue Aux Weapon Tune" quality="4"/>
+<tswitem id="200059" name="Blue Aux Weapon Mod" quality="4"/>
+<tswitem id="200060" name="Blue Aux Weapon Charge" quality="4"/>
+
+<tswitem id="200001" name="Green Signet of Amelioration" quality="3"/>
+<tswitem id="200002" name="Green Signet of Violence" quality="3"/>
+<tswitem id="200003" name="Green Signet of Vigour" quality="3"/>
+<tswitem id="200004" name="Green Signet of Corruption" quality="3"/>
+<tswitem id="200005" name="Green Signet of Discipline" quality="3"/>
+<tswitem id="200006" name="Green Signet of Order" quality="3"/>
+<tswitem id="200007" name="Green Signet of Reinforcement" quality="3"/>
+<tswitem id="200008" name="Green Signet of Resilience" quality="3"/>
+<tswitem id="200009" name="Green Signet of Benediction" quality="3"/>
+<tswitem id="200010" name="Green Signet of Temperance" quality="3"/>
+<tswitem id="200011" name="Green Signet of Cruel Delight" quality="3"/>
+<tswitem id="200012" name="Green Signet of Valour" quality="3"/>
+<tswitem id="200013" name="Green Signet of Abuse" quality="3"/>
+<tswitem id="200014" name="Green Signet of Aggression" quality="3"/>
+<tswitem id="200015" name="Green Signet of Breaching" quality="3"/>
+<tswitem id="200016" name="Green Signet of Castigation" quality="3"/>
+<tswitem id="200017" name="Green Signet of Fury" quality="3"/>
+<tswitem id="200018" name="Green Signet of Laceration" quality="3"/>
+<tswitem id="200019" name="Green Signet of Opportunism" quality="3"/>
+<tswitem id="200020" name="Green Signet of Sadism" quality="3"/>
+<tswitem id="200021" name="Green Signet of Detainment" quality="3"/>
+<tswitem id="200022" name="Green Signet of Extrication" quality="3"/>
+<tswitem id="200023" name="Green Signet of Interdiction" quality="3"/>
+<tswitem id="200024" name="Green Signet of Obedience" quality="3"/>
+<tswitem id="200025" name="Green Signet of Assassination" quality="3"/>
+<tswitem id="200026" name="Green Signet of Barrage" quality="3"/>
+<tswitem id="200027" name="Green Signet of Cleaving" quality="3"/>
+<tswitem id="200028" name="Green Signet of Distortion" quality="3"/>
+<tswitem id="200029" name="Green Signet of Execution" quality="3"/>
+<tswitem id="200030" name="Green Signet of Flux" quality="3"/>
+<tswitem id="200031" name="Green Signet of Liqudation" quality="3"/>
+<tswitem id="200032" name="Green Signet of Rage" quality="3"/>
+<tswitem id="200033" name="Green Signet of Recursion" quality="3"/>
+<tswitem id="200034" name="Green Signet of Serration" quality="3"/>
+<tswitem id="200035" name="Green Signet of Shards" quality="3"/>
+<tswitem id="200036" name="Green Signet of Shattering" quality="3"/>
+<tswitem id="200037" name="Green Signet of Storms" quality="3"/>
+<tswitem id="200038" name="Green Signet of Swords" quality="3"/>
+<tswitem id="200039" name="Green Signet of Subjugation" quality="3"/>
+<tswitem id="200040" name="Green Signet of Tomes" quality="3"/>
+<tswitem id="200041" name="Green Signet of Serenity" quality="3"/>
+<tswitem id="200042" name="Green Signet of Echoes" quality="3"/>
+<tswitem id="200043" name="Green Signet of Equilibrium" quality="3"/>
+<tswitem id="200044" name="Green Signet of Thirst" quality="3"/>
+<tswitem id="200045" name="Green Signet of Harmony" quality="3"/>
+<tswitem id="200046" name="Green Signet of Hunger" quality="3"/>
+<tswitem id="200047" name="Green Signet of Security" quality="3"/>
+<tswitem id="200048" name="Green Signet of Rejuvenation" quality="3"/>
+<tswitem id="200049" name="Green Signet of Salvation" quality="3"/>
+<tswitem id="200050" name="Green Signet of Ablation" quality="3"/>
+<tswitem id="200051" name="Green Signet of Fortification" quality="3"/>
+<tswitem id="200052" name="Green Signet of Hatred" quality="3"/>
+<tswitem id="200053" name="Green Aux Weapon Imprint" quality="3"/>
+<tswitem id="200054" name="Green Aux Weapon Augur" quality="3"/>
+<tswitem id="200055" name="Green Aux Weapon Binding" quality="3"/>
+<tswitem id="200056" name="Green Aux Weapon Overdrive" quality="3"/>
+<tswitem id="200057" name="Green Aux Weapon Seal" quality="3"/>
+<tswitem id="200058" name="Green Aux Weapon Tune" quality="3"/>
+<tswitem id="200059" name="Green Aux Weapon Mod" quality="3"/>
+<tswitem id="200060" name="Green Aux Weapon Charge" quality="3"/>
 </list>

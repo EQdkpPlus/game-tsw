@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <tswitem>
 <itemid>100001</itemid>
-<name>Astrallunte</name>
+<name>Astral-Lunte</name>
 <iconpath>100001</iconpath>
 <quality>5</quality>
 
@@ -10,7 +10,7 @@
 
 <table width="100%"> 
 	<tr> 
-		<td align="left" class="tsw_tooltiptitle tsw_q5" colspan="2">Astrallunte</td> </tr>
+		<td align="left" class="tsw_tooltiptitle tsw_q;QL_VALUE;" colspan="2">Astral-Lunte</td> </tr>
 	<tr> 
 		<td align="left" class="tsw_infolabel" colspan="2"> Fertigungskomponente (QS 10 Episch)</td> </tr> 
 	<tr> 

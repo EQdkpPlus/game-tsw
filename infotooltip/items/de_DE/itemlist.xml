@@ -1,88 +1,289 @@
 <?xml version="1.0" encoding="utf-8"?>
 <list>
-<tswitem id="100001" name="Astrallunte"/>
-<tswitem id="100002" name="Prüfsteinupgrade"/>
-<tswitem id="100003" name="Blut der Ahnen"/>
-<tswitem id="100004" name="Zeichen der Sternenbrut"/>
-<tswitem id="100005" name="Asche der Alten Wesen"/>
-<tswitem id="100006" name="Coney-Island-Ring"/>
-<tswitem id="100007" name="Egon-Anhänger"/>
-<tswitem id="100008" name="Brooklyn-Armschutz"/>
-<tswitem id="100009" name="U-Bahn-Münzen"/>
-<tswitem id="100010" name="NY-Schnalle"/>
-<tswitem id="100011" name="Broadway-Brosche"/>
-<tswitem id="100012" name="Objektive Wahrheit"/>
-<tswitem id="100013" name="Die Bronx"/>
-<tswitem id="100014" name="Jenseits der Gewalt"/>
-<tswitem id="100015" name="Ende aller Tage"/>
-<tswitem id="100016" name="Die Flugbahn"/>
-<tswitem id="100017" name="Das fünfte Element"/>
-<tswitem id="100018" name="Sternenmaß"/>
-<tswitem id="100019" name="Gut und Böse"/>
-<tswitem id="100020" name="Letzter Angriff"/>
-<tswitem id="100021" name="Kondensator des dritten Kerns"/>
-<tswitem id="100022" name="Überirdische Diode"/>
-<tswitem id="200001" name="Siegel der Besserung"/>
-<tswitem id="200002" name="Siegel der Gewalt"/>
-<tswitem id="200003" name="Siegel der Lebenskraft"/>
-<tswitem id="200004" name="Siegel der Verderbtheit"/>
-<tswitem id="200005" name="Siegel der Disziplin"/>
-<tswitem id="200006" name="Siegel der Ordnung"/>
-<tswitem id="200007" name="Siegel der Verstärkung"/>
-<tswitem id="200008" name="Siegel der Widerstandsfähigkeit"/>
-<tswitem id="200009" name="Siegel der Segnung"/>
-<tswitem id="200010" name="Siegel der Mäßigung"/>
-<tswitem id="200011" name="Siegel des grausamens Entzücken"/>
-<tswitem id="200012" name="Siegel des Heldenmuts"/>
-<tswitem id="200013" name="Siegel der Misshandlung"/>
-<tswitem id="200014" name="Siegel der Aggression"/>
-<tswitem id="200015" name="Siegel des Eindringens"/>
-<tswitem id="200016" name="Siegel der Züchtigung"/>
-<tswitem id="200017" name="Siegel der Raserei"/>
-<tswitem id="200018" name="Siegel des Zerfleischens"/>
-<tswitem id="200019" name="Siegel des Opportunismus"/>
-<tswitem id="200020" name="Siegel des Sadismus"/>
-<tswitem id="200021" name="Siegel der Haft"/>
-<tswitem id="200022" name="Siegel der Befreiung"/>
-<tswitem id="200023" name="Siegel des Verbots"/>
-<tswitem id="200024" name="Siegel des Gehorsams"/>
-<tswitem id="200025" name="Siegel des Meuchelmords"/>
-<tswitem id="200026" name="Siegel der Sperrung"/>
-<tswitem id="200027" name="Siegel des Spalten"/>
-<tswitem id="200028" name="Siegel der Verzerrung"/>
-<tswitem id="200029" name="Siegel der Ausführung"/>
-<tswitem id="200030" name="Siegel des Flusses"/>
-<tswitem id="200031" name="Siegel der Verflüssigung"/>
-<tswitem id="200032" name="Siegel des Zorn"/>
-<tswitem id="200033" name="Siegel des Einschließens"/>
-<tswitem id="200034" name="Siegel der Verzahnung"/>
-<tswitem id="200035" name="Siegel der Splitter"/>
-<tswitem id="200036" name="Siegel des Zerschmetterns"/>
-<tswitem id="200037" name="Siegel des Sturm"/>
-<tswitem id="200038" name="Siegel der Schwerter"/>
-<tswitem id="200039" name="Siegel der Unterwerfung"/>
-<tswitem id="200040" name="Siegel der Bücher"/>
-<tswitem id="200041" name="Siegel der Gelassenheit"/>
-<tswitem id="200042" name="Siegel des Echoes"/>
-<tswitem id="200043" name="Siegel der Ausgeglichenheit"/>
-<tswitem id="200044" name="Siegel des Durstes"/>
-<tswitem id="200045" name="Siegel der Harmonie"/>
-<tswitem id="200046" name="Siegel des Hungers"/>
-<tswitem id="200047" name="Siegel der Sicherheit"/>
-<tswitem id="200048" name="Siegel der Verjüngung"/>
-<tswitem id="200049" name="Siegel der Erlösung"/>
-<tswitem id="200050" name="Siegel der Abtragung"/>
-<tswitem id="200051" name="Siegel der Befestigung"/>
-<tswitem id="200052" name="Siegel des Hasses"/>
+<tswitem id="100001" name="Astral-Lunte" quality="5"/>
+<tswitem id="100002" name="Prüfsteinupgrade" quality="5"/>
+<tswitem id="100003" name="Blut der Alten" quality="5"/>
+<tswitem id="100004" name="Zeichen der Sternenbrut" quality="5"/>
+<tswitem id="100005" name="Asche der alten Wesen" quality="5"/>
+<tswitem id="100006" name="Coney-Island-Ring" quality="5"/>
+<tswitem id="100007" name="Egon-Anhänger" quality="5"/>
+<tswitem id="100008" name="Brooklyn-Armschutz" quality="5"/>
+<tswitem id="100009" name="U-Bahn-Münzen" quality="5"/>
+<tswitem id="100010" name="NY-Schnalle" quality="5"/>
+<tswitem id="100011" name="Broadway-Brosche" quality="5"/>
+<tswitem id="100012" name="Objektive Wahrheit" quality="5"/>
+<tswitem id="100013" name="Die Bronx" quality="5"/>
+<tswitem id="100014" name="Jenseits der Gewalt" quality="5"/>
+<tswitem id="100015" name="Ende aller Tage" quality="5"/>
+<tswitem id="100016" name="Die Flugbahn" quality="5"/>
+<tswitem id="100017" name="Das fünfte Element" quality="5"/>
+<tswitem id="100018" name="Sternenmaß" quality="5"/>
+<tswitem id="100019" name="Gut und Böse" quality="5"/>
+<tswitem id="100020" name="Letzter Angriff" quality="5"/>
+<tswitem id="100021" name="Kondensator des dritten Kerns" quality="6"/>
+<tswitem id="100022" name="Überirdische Diode" quality="6"/>
+<tswitem id="8130815" name="Gewundener Neunaugengürtel" quality="5"/>
+<tswitem id="8130823" name="Polyeder der Merkwürdigkeit" quality="5"/>
+<tswitem id="8130847" name="Umhang des Vampirtintenfischs" quality="5"/>
+<tswitem id="8130848" name="Medaillon der Tentakelhimmel" quality="5"/>
+<tswitem id="8130849" name="Fessel des Grenzlauerers" quality="5"/>
+<tswitem id="8130850" name="Ring der Molluskengötter" quality="5"/>
+<tswitem id="8130980" name="Sepiatinte" quality="5"/>
+<tswitem id="8130981" name="Biolumineszierende Alge" quality="5"/>
+<tswitem id="8130982" name="Widerliches Sekret" quality="5"/>
+<tswitem id="8130984" name="Ereignishorizontkanon" quality="5"/>
+<tswitem id="8130985" name="Unheimliche Schnitter" quality="5"/>
+<tswitem id="8130986" name="Regen der äußeren Götter" quality="5"/>
+<tswitem id="8131219" name="Züchtiger der ältesten Nacht" quality="5"/>
+<tswitem id="8131220" name="Verschlungene Krallen" quality="5"/>
+<tswitem id="8131221" name="Spalter der äußeren Finsternis" quality="5"/>
+<tswitem id="8131222" name="De Vermis Mysteriis" quality="5"/>
+<tswitem id="8131223" name="Kugel des unheilvollen Wurmfeuers" quality="5"/>
+<tswitem id="8131224" name="Maske des kriechenden Chaos" quality="5"/>
+<tswitem id="7894446" name="Upgrade-Werkzeugsazu für Nebenwaffen" quality="5"/>
 
-<tswitem id="200053" name="Nebenwaffen-Prägung"/>
-<tswitem id="200054" name="Nebenwaffen-Augur"/>
-<tswitem id="200055" name="Nebenwaffen-Bindung"/>
-<tswitem id="200056" name="Nebenwaffen-Overdrive"/>
-<tswitem id="200057" name="Nebenwaffen-Bulle"/>
-<tswitem id="200058" name="Nebenwaffen-Einklang"/>
-<tswitem id="200059" name="Nebenwaffen-Mod"/>
-<tswitem id="200060" name="Nebenwaffen-Ladung"/>
+<tswitem id="200001" name="Siegel der Besserung" quality="7"/>
+<tswitem id="200002" name="Siegel der Gewalt" quality="7"/>
+<tswitem id="200003" name="Siegel der Lebenskraft" quality="7"/>
+<tswitem id="200004" name="Siegel der Verderbtheit" quality="7"/>
+<tswitem id="200005" name="Siegel der Disziplin" quality="7"/>
+<tswitem id="200006" name="Siegel der Ordnung" quality="7"/>
+<tswitem id="200007" name="Siegel der Verstärkung" quality="7"/>
+<tswitem id="200008" name="Siegel der Widerstandsfähigkeit" quality="7"/>
+<tswitem id="200009" name="Siegel der Segnung" quality="7"/>
+<tswitem id="200010" name="Siegel der Mäßigung" quality="7"/>
+<tswitem id="200011" name="Siegel des grausamens Entzücken" quality="7"/>
+<tswitem id="200012" name="Siegel des Heldenmuts" quality="7"/>
+<tswitem id="200013" name="Siegel der Misshandlung" quality="7"/>
+<tswitem id="200014" name="Siegel der Aggression" quality="7"/>
+<tswitem id="200015" name="Siegel des Eindringens" quality="7"/>
+<tswitem id="200016" name="Siegel der Züchtigung" quality="7"/>
+<tswitem id="200017" name="Siegel der Raserei" quality="7"/>
+<tswitem id="200018" name="Siegel des Zerfleischens" quality="7"/>
+<tswitem id="200019" name="Siegel des Opportunismus" quality="7"/>
+<tswitem id="200020" name="Siegel des Sadismus" quality="7"/>
+<tswitem id="200021" name="Siegel der Haft" quality="7"/>
+<tswitem id="200022" name="Siegel der Befreiung" quality="7"/>
+<tswitem id="200023" name="Siegel des Verbots" quality="7"/>
+<tswitem id="200024" name="Siegel des Gehorsams" quality="7"/>
+<tswitem id="200025" name="Siegel des Meuchelmords" quality="7"/>
+<tswitem id="200026" name="Siegel der Sperrung" quality="7"/>
+<tswitem id="200027" name="Siegel des Spalten" quality="7"/>
+<tswitem id="200028" name="Siegel der Verzerrung" quality="7"/>
+<tswitem id="200029" name="Siegel der Ausführung" quality="7"/>
+<tswitem id="200030" name="Siegel des Flusses" quality="7"/>
+<tswitem id="200031" name="Siegel der Verflüssigung" quality="7"/>
+<tswitem id="200032" name="Siegel des Zorn" quality="7"/>
+<tswitem id="200033" name="Siegel des Einschließens" quality="7"/>
+<tswitem id="200034" name="Siegel der Verzahnung" quality="7"/>
+<tswitem id="200035" name="Siegel der Splitter" quality="7"/>
+<tswitem id="200036" name="Siegel des Zerschmetterns" quality="7"/>
+<tswitem id="200037" name="Siegel des Sturm" quality="7"/>
+<tswitem id="200038" name="Siegel der Schwerter" quality="7"/>
+<tswitem id="200039" name="Siegel der Unterwerfung" quality="7"/>
+<tswitem id="200040" name="Siegel der Bücher" quality="7"/>
+<tswitem id="200041" name="Siegel der Gelassenheit" quality="7"/>
+<tswitem id="200042" name="Siegel des Echoes" quality="7"/>
+<tswitem id="200043" name="Siegel der Ausgeglichenheit" quality="7"/>
+<tswitem id="200044" name="Siegel des Durstes" quality="7"/>
+<tswitem id="200045" name="Siegel der Harmonie" quality="7"/>
+<tswitem id="200046" name="Siegel des Hungers" quality="7"/>
+<tswitem id="200047" name="Siegel der Sicherheit" quality="7"/>
+<tswitem id="200048" name="Siegel der Verjüngung" quality="7"/>
+<tswitem id="200049" name="Siegel der Erlösung" quality="7"/>
+<tswitem id="200050" name="Siegel der Abtragung" quality="7"/>
+<tswitem id="200051" name="Siegel der Befestigung" quality="7"/>
+<tswitem id="200052" name="Siegel des Hasses" quality="7"/>
+<tswitem id="200053" name="Nebenwaffen-Prägung" quality="7"/>
+<tswitem id="200054" name="Nebenwaffen-Augur" quality="7"/>
+<tswitem id="200055" name="Nebenwaffen-Bindung" quality="7"/>
+<tswitem id="200056" name="Nebenwaffen-Overdrive" quality="7"/>
+<tswitem id="200057" name="Nebenwaffen-Bulle" quality="7"/>
+<tswitem id="200058" name="Nebenwaffen-Einklang" quality="7"/>
+<tswitem id="200059" name="Nebenwaffen-Mod" quality="7"/>
+<tswitem id="200060" name="Nebenwaffen-Ladung" quality="7"/>
 
+<tswitem id="200001" name="Grünes Siegel der Besserung" quality="3" />
+<tswitem id="200002" name="Grünes Siegel der Gewalt" quality="3" />
+<tswitem id="200003" name="Grünes Siegel der Lebenskraft" quality="3" />
+<tswitem id="200004" name="Grünes Siegel der Verderbtheit" quality="3" />
+<tswitem id="200005" name="Grünes Siegel der Disziplin" quality="3" />
+<tswitem id="200006" name="Grünes Siegel der Ordnung" quality="3" />
+<tswitem id="200007" name="Grünes Siegel der Verstärkung" quality="3" />
+<tswitem id="200008" name="Grünes Siegel der Widerstandsfähigkeit" quality="3" />
+<tswitem id="200009" name="Grünes Siegel der Segnung" quality="3" />
+<tswitem id="200010" name="Grünes Siegel der Mäßigung" quality="3" />
+<tswitem id="200011" name="Grünes Siegel des grausamens Entzücken" quality="3" />
+<tswitem id="200012" name="Grünes Siegel des Heldenmuts" quality="3" />
+<tswitem id="200013" name="Grünes Siegel der Misshandlung" quality="3" />
+<tswitem id="200014" name="Grünes Siegel der Aggression" quality="3" />
+<tswitem id="200015" name="Grünes Siegel des Eindringens" quality="3" />
+<tswitem id="200016" name="Grünes Siegel der Züchtigung" quality="3" />
+<tswitem id="200017" name="Grünes Siegel der Raserei" quality="3" />
+<tswitem id="200018" name="Grünes Siegel des Zerfleischens" quality="3" />
+<tswitem id="200019" name="Grünes Siegel des Opportunismus" quality="3" />
+<tswitem id="200020" name="Grünes Siegel des Sadismus" quality="3" />
+<tswitem id="200021" name="Grünes Siegel der Haft" quality="3" />
+<tswitem id="200022" name="Grünes Siegel der Befreiung" quality="3" />
+<tswitem id="200023" name="Grünes Siegel des Verbots" quality="3" />
+<tswitem id="200024" name="Grünes Siegel des Gehorsams" quality="3" />
+<tswitem id="200025" name="Grünes Siegel des Meuchelmords" quality="3" />
+<tswitem id="200026" name="Grünes Siegel der Sperrung" quality="3" />
+<tswitem id="200027" name="Grünes Siegel des Spalten" quality="3" />
+<tswitem id="200028" name="Grünes Siegel der Verzerrung" quality="3" />
+<tswitem id="200029" name="Grünes Siegel der Ausführung" quality="3" />
+<tswitem id="200030" name="Grünes Siegel des Flusses" quality="3" />
+<tswitem id="200031" name="Grünes Siegel der Verflüssigung" quality="3" />
+<tswitem id="200032" name="Grünes Siegel des Zorn" quality="3" />
+<tswitem id="200033" name="Grünes Siegel des Einschließens" quality="3" />
+<tswitem id="200034" name="Grünes Siegel der Verzahnung" quality="3" />
+<tswitem id="200035" name="Grünes Siegel der Splitter" quality="3" />
+<tswitem id="200036" name="Grünes Siegel des Zerschmetterns" quality="3" />
+<tswitem id="200037" name="Grünes Siegel des Sturm" quality="3" />
+<tswitem id="200038" name="Grünes Siegel der Schwerter" quality="3" />
+<tswitem id="200039" name="Grünes Siegel der Unterwerfung" quality="3" />
+<tswitem id="200040" name="Grünes Siegel der Bücher" quality="3" />
+<tswitem id="200041" name="Grünes Siegel der Gelassenheit" quality="3" />
+<tswitem id="200042" name="Grünes Siegel des Echoes" quality="3" />
+<tswitem id="200043" name="Grünes Siegel der Ausgeglichenheit" quality="3" />
+<tswitem id="200044" name="Grünes Siegel des Durstes" quality="3" />
+<tswitem id="200045" name="Grünes Siegel der Harmonie" quality="3" />
+<tswitem id="200046" name="Grünes Siegel des Hungers" quality="3" />
+<tswitem id="200047" name="Grünes Siegel der Sicherheit" quality="3" />
+<tswitem id="200048" name="Grünes Siegel der Verjüngung" quality="3" />
+<tswitem id="200049" name="Grünes Siegel der Erlösung" quality="3" />
+<tswitem id="200050" name="Grünes Siegel der Abtragung" quality="3" />
+<tswitem id="200051" name="Grünes Siegel der Befestigung" quality="3" />
+<tswitem id="200052" name="Grünes Siegel des Hasses" quality="3" />
+<tswitem id="200053" name="Grünes Nebenwaffen-Prägung" quality="3" />
+<tswitem id="200054" name="Grünes Nebenwaffen-Augur" quality="3" />
+<tswitem id="200055" name="Grünes Nebenwaffen-Bindung" quality="3" />
+<tswitem id="200056" name="Grünes Nebenwaffen-Overdrive" quality="3" />
+<tswitem id="200057" name="Grünes Nebenwaffen-Bulle" quality="3" />
+<tswitem id="200058" name="Grünes Nebenwaffen-Einklang" quality="3" />
+<tswitem id="200059" name="Grünes Nebenwaffen-Mod" quality="3" />
+<tswitem id="200060" name="Grünes Nebenwaffen-Ladung" quality="3" />
+
+<tswitem id="200001" name="Blaues Siegel der Besserung" quality="4" />
+<tswitem id="200002" name="Blaues Siegel der Gewalt" quality="4" />
+<tswitem id="200003" name="Blaues Siegel der Lebenskraft" quality="4" />
+<tswitem id="200004" name="Blaues Siegel der Verderbtheit" quality="4" />
+<tswitem id="200005" name="Blaues Siegel der Disziplin" quality="4" />
+<tswitem id="200006" name="Blaues Siegel der Ordnung" quality="4" />
+<tswitem id="200007" name="Blaues Siegel der Verstärkung" quality="4" />
+<tswitem id="200008" name="Blaues Siegel der Widerstandsfähigkeit" quality="4" />
+<tswitem id="200009" name="Blaues Siegel der Segnung" quality="4" />
+<tswitem id="200010" name="Blaues Siegel der Mäßigung" quality="4" />
+<tswitem id="200011" name="Blaues Siegel des grausamens Entzücken" quality="4" />
+<tswitem id="200012" name="Blaues Siegel des Heldenmuts" quality="4" />
+<tswitem id="200013" name="Blaues Siegel der Misshandlung" quality="4" />
+<tswitem id="200014" name="Blaues Siegel der Aggression" quality="4" />
+<tswitem id="200015" name="Blaues Siegel des Eindringens" quality="4" />
+<tswitem id="200016" name="Blaues Siegel der Züchtigung" quality="4" />
+<tswitem id="200017" name="Blaues Siegel der Raserei" quality="4" />
+<tswitem id="200018" name="Blaues Siegel des Zerfleischens" quality="4" />
+<tswitem id="200019" name="Blaues Siegel des Opportunismus" quality="4" />
+<tswitem id="200020" name="Blaues Siegel des Sadismus" quality="4" />
+<tswitem id="200021" name="Blaues Siegel der Haft" quality="4" />
+<tswitem id="200022" name="Blaues Siegel der Befreiung" quality="4" />
+<tswitem id="200023" name="Blaues Siegel des Verbots" quality="4" />
+<tswitem id="200024" name="Blaues Siegel des Gehorsams" quality="4" />
+<tswitem id="200025" name="Blaues Siegel des Meuchelmords" quality="4" />
+<tswitem id="200026" name="Blaues Siegel der Sperrung" quality="4" />
+<tswitem id="200027" name="Blaues Siegel des Spalten" quality="4" />
+<tswitem id="200028" name="Blaues Siegel der Verzerrung" quality="4" />
+<tswitem id="200029" name="Blaues Siegel der Ausführung" quality="4" />
+<tswitem id="200030" name="Blaues Siegel des Flusses" quality="4" />
+<tswitem id="200031" name="Blaues Siegel der Verflüssigung" quality="4" />
+<tswitem id="200032" name="Blaues Siegel des Zorn" quality="4" />
+<tswitem id="200033" name="Blaues Siegel des Einschließens" quality="4" />
+<tswitem id="200034" name="Blaues Siegel der Verzahnung" quality="4" />
+<tswitem id="200035" name="Blaues Siegel der Splitter" quality="4" />
+<tswitem id="200036" name="Blaues Siegel des Zerschmetterns" quality="4" />
+<tswitem id="200037" name="Blaues Siegel des Sturm" quality="4" />
+<tswitem id="200038" name="Blaues Siegel der Schwerter" quality="4" />
+<tswitem id="200039" name="Blaues Siegel der Unterwerfung" quality="4" />
+<tswitem id="200040" name="Blaues Siegel der Bücher" quality="4" />
+<tswitem id="200041" name="Blaues Siegel der Gelassenheit" quality="4" />
+<tswitem id="200042" name="Blaues Siegel des Echoes" quality="4" />
+<tswitem id="200043" name="Blaues Siegel der Ausgeglichenheit" quality="4" />
+<tswitem id="200044" name="Blaues Siegel des Durstes" quality="4" />
+<tswitem id="200045" name="Blaues Siegel der Harmonie" quality="4" />
+<tswitem id="200046" name="Blaues Siegel des Hungers" quality="4" />
+<tswitem id="200047" name="Blaues Siegel der Sicherheit" quality="4" />
+<tswitem id="200048" name="Blaues Siegel der Verjüngung" quality="4" />
+<tswitem id="200049" name="Blaues Siegel der Erlösung" quality="4" />
+<tswitem id="200050" name="Blaues Siegel der Abtragung" quality="4" />
+<tswitem id="200051" name="Blaues Siegel der Befestigung" quality="4" />
+<tswitem id="200052" name="Blaues Siegel des Hasses" quality="4" />
+<tswitem id="200053" name="Blaues Nebenwaffen-Prägung" quality="4" />
+<tswitem id="200054" name="Blaues Nebenwaffen-Augur" quality="4" />
+<tswitem id="200055" name="Blaues Nebenwaffen-Bindung" quality="4" />
+<tswitem id="200056" name="Blaues Nebenwaffen-Overdrive" quality="4" />
+<tswitem id="200057" name="Blaues Nebenwaffen-Bulle" quality="4" />
+<tswitem id="200058" name="Blaues Nebenwaffen-Einklang" quality="4" />
+<tswitem id="200059" name="Blaues Nebenwaffen-Mod" quality="4" />
+<tswitem id="200060" name="Blaues Nebenwaffen-Ladung" quality="4" />
+
+<tswitem id="200001" name="Lila Siegel der Besserung" quality="5" />
+<tswitem id="200002" name="Lila Siegel der Gewalt" quality="5" />
+<tswitem id="200005" name="Lila Siegel der Lebenskraft" quality="5" />
+<tswitem id="200004" name="Lila Siegel der Verderbtheit" quality="5" />
+<tswitem id="200005" name="Lila Siegel der Disziplin" quality="5" />
+<tswitem id="200006" name="Lila Siegel der Ordnung" quality="5" />
+<tswitem id="200007" name="Lila Siegel der Verstärkung" quality="5" />
+<tswitem id="200008" name="Lila Siegel der Widerstandsfähigkeit" quality="5" />
+<tswitem id="200009" name="Lila Siegel der Segnung" quality="5" />
+<tswitem id="200010" name="Lila Siegel der Mäßigung" quality="5" />
+<tswitem id="200011" name="Lila Siegel des grausamens Entzücken" quality="5" />
+<tswitem id="200012" name="Lila Siegel des Heldenmuts" quality="5" />
+<tswitem id="200015" name="Lila Siegel der Misshandlung" quality="5" />
+<tswitem id="200014" name="Lila Siegel der Aggression" quality="5" />
+<tswitem id="200015" name="Lila Siegel des Eindringens" quality="5" />
+<tswitem id="200016" name="Lila Siegel der Züchtigung" quality="5" />
+<tswitem id="200017" name="Lila Siegel der Raserei" quality="5" />
+<tswitem id="200018" name="Lila Siegel des Zerfleischens" quality="5" />
+<tswitem id="200019" name="Lila Siegel des Opportunismus" quality="5" />
+<tswitem id="200020" name="Lila Siegel des Sadismus" quality="5" />
+<tswitem id="200021" name="Lila Siegel der Haft" quality="5" />
+<tswitem id="200022" name="Lila Siegel der Befreiung" quality="5" />
+<tswitem id="200025" name="Lila Siegel des Verbots" quality="5" />
+<tswitem id="200024" name="Lila Siegel des Gehorsams" quality="5" />
+<tswitem id="200025" name="Lila Siegel des Meuchelmords" quality="5" />
+<tswitem id="200026" name="Lila Siegel der Sperrung" quality="5" />
+<tswitem id="200027" name="Lila Siegel des Spalten" quality="5" />
+<tswitem id="200028" name="Lila Siegel der Verzerrung" quality="5" />
+<tswitem id="200029" name="Lila Siegel der Ausführung" quality="5" />
+<tswitem id="200050" name="Lila Siegel des Flusses" quality="5" />
+<tswitem id="200051" name="Lila Siegel der Verflüssigung" quality="5" />
+<tswitem id="200052" name="Lila Siegel des Zorn" quality="5" />
+<tswitem id="200055" name="Lila Siegel des Einschließens" quality="5" />
+<tswitem id="200054" name="Lila Siegel der Verzahnung" quality="5" />
+<tswitem id="200055" name="Lila Siegel der Splitter" quality="5" />
+<tswitem id="200056" name="Lila Siegel des Zerschmetterns" quality="5" />
+<tswitem id="200057" name="Lila Siegel des Sturm" quality="5" />
+<tswitem id="200058" name="Lila Siegel der Schwerter" quality="5" />
+<tswitem id="200059" name="Lila Siegel der Unterwerfung" quality="5" />
+<tswitem id="200040" name="Lila Siegel der Bücher" quality="5" />
+<tswitem id="200041" name="Lila Siegel der Gelassenheit" quality="5" />
+<tswitem id="200042" name="Lila Siegel des Echoes" quality="5" />
+<tswitem id="200043" name="Lila Siegel der Ausgeglichenheit" quality="5" />
+<tswitem id="200044" name="Lila Siegel des Durstes" quality="5" />
+<tswitem id="200045" name="Lila Siegel der Harmonie" quality="5" />
+<tswitem id="200046" name="Lila Siegel des Hungers" quality="5" />
+<tswitem id="200047" name="Lila Siegel der Sicherheit" quality="5" />
+<tswitem id="200048" name="Lila Siegel der Verjüngung" quality="5" />
+<tswitem id="200049" name="Lila Siegel der Erlösung" quality="5" />
+<tswitem id="200050" name="Lila Siegel der Abtragung" quality="5" />
+<tswitem id="200051" name="Lila Siegel der Befestigung" quality="5" />
+<tswitem id="200052" name="Lila Siegel des Hasses" quality="5" />
+<tswitem id="200055" name="Lila Nebenwaffen-Prägung" quality="5" />
+<tswitem id="200054" name="Lila Nebenwaffen-Augur" quality="5" />
+<tswitem id="200055" name="Lila Nebenwaffen-Bindung" quality="5" />
+<tswitem id="200056" name="Lila Nebenwaffen-Overdrive" quality="5" />
+<tswitem id="200057" name="Lila Nebenwaffen-Bulle" quality="5" />
+<tswitem id="200058" name="Lila Nebenwaffen-Einklang" quality="5" />
+<tswitem id="200059" name="Lila Nebenwaffen-Mod" quality="5" />
+<tswitem id="200060" name="Lila Nebenwaffen-Ladung" quality="5" />
 
 </list>
