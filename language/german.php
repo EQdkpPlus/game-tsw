@@ -64,6 +64,7 @@ $german_array = array(
 		'uc_BG_A'					=> 'Battelgroup A',
 		'uc_BG_B'					=> 'Battelgroup B',
 		'uc_guild'					=> 'Gilde',
+		'uc_level'					=> 'Ausrüstungswert',
 		
 		//Event
 		'eidolon'					=> 'Eidolon',

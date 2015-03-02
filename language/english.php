@@ -63,6 +63,7 @@ $english_array =  array(
 		'uc_BG_A'					=> 'Battelgroup A',
 		'uc_BG_B'					=> 'Battelgroup B',
 		'uc_guild'					=> 'Cabal',
+		'uc_level'					=> 'Effusion Raiting',
 		
 		//Eventa
 		'eidolon'					=> 'Eidolon',
@@ -71,8 +72,7 @@ $english_array =  array(
 
 		// Admin Settings
 		'core_sett_fs_gamesettings'	=> 'The Secret World Settings',
-		'uc_faction'				=> 'Faction',
-		'uc_faction_help'			=> '',
+
 	),
 );
 

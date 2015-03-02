@@ -98,6 +98,15 @@ if(!class_exists('tsw')) {
 					'size'			=> 25,
 					'undeletable'	=> true,
 					),
+				'level'	=> array(
+					'type'			=> 'spinner',
+					'category'		=> 'character',
+					'lang'			=> 'uc_level',
+					'max'			=> 100,
+					'min'			=> 1,
+					'undeletable'	=> true,
+					'sort'			=> 4
+				),
 				
 			);
 			return $xml_fields;
@@ -209,4 +218,3 @@ if(!class_exists('tsw')) {
 		}	
 	}
 }
-?>
