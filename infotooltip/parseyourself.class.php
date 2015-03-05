@@ -1,173 +1,264 @@
 <?php
-/*	Project:	EQdkp-Plus
- *	Package:	The Secret World game package
- *	Link:		http://eqdkp-plus.eu
- *
- *	Copyright (C) 2006-2015 EQdkp-Plus Developer Team
- *
- *	This program is free software: you can redistribute it and/or modify
- *	it under the terms of the GNU Affero General Public License as published
- *	by the Free Software Foundation, either version 3 of the License, or
- *	(at your option) any later version.
- *
- *	This program is distributed in the hope that it will be useful,
- *	but WITHOUT ANY WARRANTY; without even the implied warranty of
- *	MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
- *	GNU Affero General Public License for more details.
- *
- *	You should have received a copy of the GNU Affero General Public License
- *	along with this program.  If not, see <http://www.gnu.org/licenses/>.
- */
+ /* Project: EQdkp-Plus
+* Package: The Secret World game package
+* Link: http://eqdkp-plus.eu
+*
+* Copyright (C) 2006-2015 EQdkp-Plus Developer Team
+*
+* This program is free software: you can redistribute it and/or modify
+* it under the terms of the GNU Affero General Public License as published
+* by the Free Software Foundation, either version 3 of the License, or
+* (at your option) any later version.
+*
+* This program is distributed in the hope that it will be useful,
+* but WITHOUT ANY WARRANTY; without even the implied warranty of
+* MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+* GNU Affero General Public License for more details.
+*
+* You should have received a copy of the GNU Affero General Public License
+* along with this program. If not, see <http://www.gnu.org/licenses/>.
+*/
 
-include_once('itt_parser.aclass.php');
+include_once( 'itt_parser.aclass.php' );
 
-if(!class_exists('parseyourself')) {
-	class parseyourself extends itt_parser {
-		public static $shortcuts = array('pdl', 'puf' => 'urlfetcher', 'config' => 'configset', 'pfh' => array('file_handler', array('infotooltips')));
+if ( !class_exists( 'parseyourself' ) ) {
+    /**
+     * Class parseyourself
+     */
+    class parseyourself extends itt_parser {
+        /**
+         * @var array
+         */
+        public static $shortcuts = [
+            'pdl',
+            'puf'    => 'urlfetcher',
+            'config' => 'configset',
+            'pfh'    => [ 'file_handler', [ 'infotooltips' ] ]
+        ];
+        /**
+         * @var array
+         */
+        public $supported_games = [ 'tsw' ];
+        /**
+         * @var array
+         */
+        public $av_langs = [ 'en' => 'en_US', 'de' => 'de_DE', 'fr' => 'fr_FR' ];
+        /**
+         * @var string
+         */
+        public $default_icon = '100000';
+        /**
+         * @var string
+         */
+        public $mygame = '';
+        /**
+         * @var array
+         */
+        public $settings = [ ];
+        /**
+         * @var array
+         */
+        public $itemlist = [ ];
+        /**
+         * @var array
+         */
+        public $recipelist = [ ];
+        /**
+         * @var array
+         * @TODO needed?
+         */
+        //private $searched_langs = [ ];
 
-		public $supported_games	= array('tsw');
-		public $av_langs		= array('en' => 'en_US', 'de' => 'de_DE','fr' => 'fr_FR');
-		public $default_icon	= '100000';
-		public $mygame			= '';
+        /**
+         * Construct
+         * Set mygame
+         */
+        public function __construct() {
 
-		public $settings = array();
+            $this->mygame = registry::register( 'config' )->get( 'default_game' );
+        }
 
-		public $itemlist = array();
-		public $recipelist = array();
+        /**
+         * @param bool $url
+         *
+         * @TODO where does $env come from!?
+         * @return string
+         */
+        public function getDataFolder( $url = false ) {
 
-		private $searched_langs = array();
+            return ( $url ? $this->env->buildlink() : $this->root_path ) . 'games/' . $this->mygame . '/infotooltip/';
+        }
 
-		public function __construct(){
-			$this->mygame					= registry::register('config')->get('default_game');
-		}
+        /**
+         * @param        $lang
+         * @param bool   $forceupdate
+         * @param string $type
+         *
+         * @return bool
+         */
+        private function getItemlist( $lang, $forceupdate = false, $type = 'item' ) {
 
-		public function getDataFolder($url=false){
-			return (($url) ? $this->env->buildlink() : $this->root_path).'games/'.$this->mygame.'/infotooltip/';
-		}
+            if ( $this->itemlist && !$forceupdate ) {
+                return true;
+            }
 
-		public function __destruct(){
-			unset($this->itemlist);
-			unset($this->recipelist);
-			unset($this->searched_langs);
-			parent::__construct($init, $config, $root_path, $cache, $puf, $pdl);
-			$this->av_langs = ((isset($g_lang[$this->mygame])) ? $g_lang[$this->mygame] : '');
-		}
+            $typeListName = $type . 'list';
 
-		private function getItemlist($lang, $forceupdate=false, $type='item'){
-			$this->{$type.'list'} = unserialize(file_get_contents($this->pfh->FilePath($this->mygame.'_'.$lang.'_'.$type.'list.itt', 'itt_cache')));
-			switch($lang){
-				case 'de': $lang='de_DE';break;
-				case 'en': $lang='en_US';break;
-				case 'fr': $lang='fr_FR';break;
-				default: $lang='en_US';
-			}
-			if(!$this->itemlist OR $forceupdate){
-				$urlitemlist	= $this->getDataFolder().$type.'s/'.$lang.'/'.$type.'list.xml';
-				$xml			= simplexml_load_file($urlitemlist);
+            /**
+             * Set lang (or default-lang
+             */
+            $lang = ( isset( $this->av_langs[ $lang ] ) ? $this->av_langs[ $lang ] : 'en_US' );
 
-				foreach($xml->children() as $item) {
-					$name = (string) $item['name'];
-					$this->{$type.'list'}[(int)$item['id']][$lang] = $name;
-				}
-				$this->pfh->putContent($this->pfh->FilePath($this->mygame.'_'.$lang.'_'.$type.'list.itt', 'itt_cache'), serialize($this->{$type.'list'}));
-			}
-			return true;
-		}
+            $fileName = $this->mygame . '_' . $lang . '_' . $type . 'list.itt';
+            $cacheFileName = $this->pfh->FilePath( $fileName, 'itt_cache' );
+            $this->$typeListName = unserialize( file_get_contents( $cacheFileName ) );
 
-		private function getItemIDfromItemlist($itemname, $lang, $forceupdate=false, $searchagain=0, $type='item'){
-			$searchagain++;
-			$this->getItemlist($lang,$forceupdate,$type);
-			$item_id = array(0,0);
+            $urlitemlist = $this->getDataFolder() . $type . 's/' . $lang . '/' . $type . 'list.xml';
+            $xml = simplexml_load_file( $urlitemlist );
+            $children = $xml->children();
+            foreach ( $children AS $item ) {
+                $quality = ( isset( $item[ 'quality' ] ) ? (int)$item[ 'quality' ] : 5 );
+                $name = (string)$item[ 'name' ];
+                $itemID = (int)$item[ 'id' ];
 
-			//search in the itemlist for the name
-			$loaded_item_langs = array();
-			if($type == 'item') {
-				foreach($this->itemlist as $itemID => $iteml){
-					foreach($iteml as $slang => $name) {
-						$loaded_item_langs[] = $slang;
-						if($itemname == $name){
-							$item_id[0]	= $itemID;
-							$item_id[1]	= 'items';
-							break 2;
-						}
-					}
-				}
-			}
-			
-			if(!$item_id[0] AND count($this->av_langs) > $searchagain) {
-				$toload = array();
-				foreach($this->av_langs as $c_lang => $langlong) {
-					if(!in_array($c_lang,$loaded_item_langs)) {
-						$toload[$c_lang][] = 'item';
-					}
-				}
-				foreach($toload as $lang => $load) {
-					foreach($load as $type) {
-						$item_id = $this->getItemIDfromItemlist($itemname, $lang, true, $searchagain, $type);
-						if($item_id[0]) {
-							break 2;
-						}
-					}
-				}
-			}
-			return $item_id;
-		}
+                $this->{$typeListName}[ "$itemID;$quality" ][ $lang ] = $name;
+            }
+            /**
+             * Write back to cache
+             */
+            $this->pfh->putContent( $cacheFileName, serialize( $this->$typeListName ) );
 
-		protected function searchItemID($itemname, $lang){
-			return $this->getItemIDfromItemlist($itemname, $lang);
-		}
+            return true;
+        }
 
-		
+        /**
+         * @param        $itemname
+         * @param        $lang
+         * @param bool   $forceupdate
+         * @param int    $searchagain
+         * @param string $type
+         *
+         * @return array
+         */
+        private function getItemIDfromItemlist( $itemname, $lang, $forceupdate = false, $searchagain = 0, $type = 'item' ) {
 
-		protected function getItemData($item_id, $lang, $itemname='', $type='item'){
-			$origlang = $lang;
-			settype($item_id, 'int');
-			$item			= array('id' => $item_id);
-			if(!$item_id){
-				$item['baditem'] = true;
-				return $item;
-			}
+            $searchagain++;
+            $this->getItemlist( $lang, $forceupdate, $type );
+            $itemID = [ 0, 0 ];
 
-			switch($lang){
-				case 'de': $lang='de_DE';break;
-				case 'en': $lang='en_US';break;
-				case 'fr': $lang='fr_FR';break;
-				default: $lang='en_US';
-			}
+            //search in the itemlist for the name
+            $loadedItemLangs = [ ];
+            $quality = 5;
+            if ( $type == 'item' ) {
+                foreach ( $this->itemlist AS $itemIDQ => $iteml ) {
 
-			$item['link']	= $this->getDataFolder().$type.'/'.$lang.'/'.$item['id'].'.xml';
-			if(file_exists($item['link'])){
-				$this->pdl->log('infotooltip', 'fetch item-data from: '.$item['link']);
-				$itemxml		= simplexml_load_file($item['link']);
-		
-				$item['name']	= (!is_numeric($itemname) AND strlen($itemname) > 0) ? $itemname : trim($itemxml->name);
+                    list( $itemIDV, $quality ) = explode( ";", $itemIDQ );
 
-				//filter baditems
-				if(!is_object($itemxml) OR !isset($itemxml->tooltip) OR strlen($itemxml->tooltip) < 5) {
-					$this->pdl->log('infotooltip', 'no xml-object returned');
-					$item['baditem'] = true;
-					return $item;
-				}
-				
-				//build itemhtml
-				$html				= str_replace('"', "'", (string)$itemxml->tooltip);
-				$template_html		= trim(file_get_contents($this->root_path.'games/tsw/infotooltip/templates/tsw_popup.tpl'));
-				$item['params']		= array(
-					'path'	=> $this->getDataFolder(true).'items/images/',
-					'ext'	=> '.png',
-					
-				);
-				$item['html']		= str_replace('{ITEM_HTML}', stripslashes($html), $template_html);
-				$item['lang']		= $origlang;
-				$item['icon']		= (string)$itemxml->iconpath;
-				$item['color']		= 'tsw_q'.(string)$itemxml->quality;
+                    foreach ( $iteml AS $slang => $name ) {
+                        if ( $itemname != $name ) {
+                            continue;
+                        }
 
-			}else{
-				$item['baditem'] = true;
-				$this->pdl->log('infotooltip', 'File '.$item['link'].' does not exist');
-			}
-			return $item;
-		}
-	}
+                        $loadedItemLangs[ ] = $slang;
+
+                        $itemID = [ $itemIDV, 'items' ];
+
+                        break 2;
+                    }
+                }
+            }
+            if ( !$itemID[ 0 ] && count( $this->av_langs ) > $searchagain ) {
+                $toload = [ ];
+                foreach ( $this->av_langs AS $c_lang => $langlong ) {
+                    if ( !in_array( $c_lang, $loadedItemLangs ) ) {
+                        $toload[ $c_lang ][ ] = 'item';
+                    }
+                }
+                foreach ( $toload AS $lang => $load ) {
+                    foreach ( $load AS $type ) {
+                        $itemID = $this->getItemIDfromItemlist( $itemname, $lang, true, $searchagain, $type );
+                        if ( $itemID[ 0 ] ) {
+                            break 2;
+                        }
+                    }
+                }
+            }
+            if ( $itemID[0] ) {
+                $itemID[ 0 ] .= ';' . $quality;
+            }
+
+            return $itemID;
+        }
+
+        /**
+         * @param $itemname
+         * @param $lang
+         *
+         * @return array
+         */
+        protected function searchItemID( $itemname, $lang ) {
+
+            return $this->getItemIDfromItemlist( $itemname, $lang );
+        }
+
+        /**
+         * @param        $itemIDQ
+         * @param        $lang
+         * @param string $itemname
+         * @param string $type
+         *
+         * @return array
+         */
+        protected function getItemData( $itemIDQ, $lang, $itemname = '', $type = 'item' ) {
+
+            list( $itemID, $wantedQuality ) = explode( ";", $itemIDQ );
+
+            $origlang = $lang;
+            settype( $item_id, 'int' );
+            $item = [ 'id' => $itemID ];
+            if ( !$itemID ) {
+                $item[ 'baditem' ] = true;
+                return $item;
+            }
+
+            $lang = ( isset( $this->av_langs[ $lang ] ) ? $this->av_langs[ $lang ] : 'en_US' );
+
+            $item[ 'link' ] = $this->getDataFolder() . $type . '/' . $lang . '/' . $item[ 'id' ] . '.xml';
+            if ( !file_exists( $item[ 'link' ] ) ) {
+                $item[ 'baditem' ] = true;
+                $this->pdl->log( 'infotooltip', 'File ' . $item[ 'link' ] . ' does not exist' );
+
+                return $item;
+            }
+
+            $this->pdl->log( 'infotooltip', 'fetch item-data from: ' . $item[ 'link' ] );
+            $itemxml = simplexml_load_file( $item[ 'link' ] );
+            //filter baditems
+            if ( !is_object( $itemxml ) || !isset( $itemxml->tooltip ) || strlen( $itemxml->tooltip ) < 5 ) {
+                $this->pdl->log( 'infotooltip', 'no xml-object returned' );
+                $item[ 'baditem' ] = true;
+
+                return $item;
+            }
+            $item[ 'name' ] =
+                ( !is_numeric( $itemname ) && strlen( $itemname ) > 0 ) ? $itemname : trim( $itemxml->name );
+
+            //build itemhtml
+            $tooltip = (string)$itemxml->tooltip;
+            $tooltip = str_replace( ";QL_VALUE;", $wantedQuality, $tooltip );
+            $tooltip = str_replace( '"', "'", $tooltip );
+            $popUpTPLFileName = $this->root_path . 'games/tsw/infotooltip/templates/tsw_popup.tpl';
+            $template_html = trim( file_get_contents( $popUpTPLFileName ) );
+            $item[ 'params' ] = [
+                'path' => $this->getDataFolder( true ) . 'items/images/',
+                'ext'  => '.png',
+            ];
+            $item[ 'html' ] = str_replace( '{ITEM_HTML}', stripslashes( $tooltip ), $template_html );
+            $item[ 'lang' ] = $origlang;
+            $item[ 'icon' ] = (string)$itemxml->iconpath;
+            $item[ 'color' ] = 'tsw_q' . (string)$wantedQuality;
+
+            return $item;
+        }
+    }
 }
-?>

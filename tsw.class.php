@@ -26,7 +26,11 @@ if ( !defined('EQDKP_INC') ){
 if(!class_exists('tsw')) {
 	class tsw extends game_generic {
 		protected static $apiLevel	= 20;
+<<<<<<< HEAD
 		public $version				= '2.0.1';
+=======
+		public $version				= '2.1.0';
+>>>>>>> pr/4
 		protected $this_game		= 'tsw';
 		public $author				= "Inkraja";
 		public $types				= array('races', 'classes', 'classes_big', 'events', 'roles');
@@ -98,6 +102,15 @@ if(!class_exists('tsw')) {
 					'size'			=> 25,
 					'undeletable'	=> true,
 					),
+				'level'	=> array(
+					'type'			=> 'spinner',
+					'category'		=> 'character',
+					'lang'			=> 'uc_level',
+					'max'			=> 100,
+					'min'			=> 1,
+					'undeletable'	=> true,
+					'sort'			=> 4
+				),
 				
 			);
 			return $xml_fields;
@@ -209,4 +222,7 @@ if(!class_exists('tsw')) {
 		}	
 	}
 }
+<<<<<<< HEAD
 ?>
+=======
+>>>>>>> pr/4
