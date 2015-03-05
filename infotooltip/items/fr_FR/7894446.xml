@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tswitem>
+<itemid>7894446</itemid>
+<name>Outils d'amélioration d'arme auxiliaire</name>
+<iconpath>7894446</iconpath>
+<quality>5</quality>
+
+
+<tooltip><![CDATA[
+
+<table width="100%"> 
+	<tr> 
+		<td align="left" class="tsw_tooltiptitle tsw_q;QL_VALUE;" colspan="2">Outils d'amélioration d'arme auxiliaire</td> </tr>
+	<tr> 
+		<td align="left" class="tsw_infolabel" colspan="2">Composant d'assemblage (NQ 10 Épique)</td> </tr> 
+	<tr> 
+		<td align="left" class="tsw_infolabel_slot" colspan="2">Lié au personnage</td> </tr>  
+	<tr> 
+		<td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+		</tr> 
+		<tr>
+		<td align="left" class="tsw_infolabel" colspan="2">Sert à améliorer une arme auxiliaire.
+	</td></tr>
+
+	
+
+</table>
+]]>
+</tooltip></tswitem>
