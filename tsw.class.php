@@ -26,11 +26,7 @@ if ( !defined('EQDKP_INC') ){
 if(!class_exists('tsw')) {
 	class tsw extends game_generic {
 		protected static $apiLevel	= 20;
-<<<<<<< HEAD
-		public $version				= '2.0.1';
-=======
 		public $version				= '2.1.0';
->>>>>>> pr/4
 		protected $this_game		= 'tsw';
 		public $author				= "Inkraja";
 		public $types				= array('races', 'classes', 'classes_big', 'events', 'roles');
@@ -62,13 +58,9 @@ if(!class_exists('tsw')) {
 				'recruitment' => true,
 				'colorize'	=> true,
 				'parent'	=> false,
-							
 			),
-			
 		);
-						
-					
-	
+
 	public $default_roles = array(
 			1 	=> array(0,1,2,3,4,5),			# healer
 			2 	=> array(0,1,2,3,4,5),			# tank
@@ -76,7 +68,7 @@ if(!class_exists('tsw')) {
 			4 	=> array(0,1,2,3,4,5),			# Add Controll
 			5 	=> array(0,1,2,3,4,5),			# Podder
 		);
-		
+
 	public function profilefields(){
 			$xml_fields = array(
 				'pvp'	=> array(
@@ -151,11 +143,11 @@ if(!class_exists('tsw')) {
 		##							EXTRA FUNCTIONS							##
 		##																	##
 		######################################################################
-		
+
 		/**
 		 *	Content for the Chartooltip
 		 *
-		 */		
+		 */	
 		public function chartooltip($intCharID){
 			$template = $this->root_path.'games/'.$this->this_game.'/chartooltip/chartooltip.tpl';
 			$content = file_get_contents($template);
@@ -166,26 +158,23 @@ if(!class_exists('tsw')) {
 			$charhtml = '<b>'.$this->pdh->get('member', 'html_name', array($intCharID)).'</b><br />';
 			$guild = $this->pdh->get('member', 'profile_field', array($intCharID, 'guild'));
 			if (strlen($guild)) $charhtml .= '<br />&laquo;'.$guild.'&raquo;';
-			
+
 			$charhtml .= '<br />'.$this->pdh->get('member', 'html_racename', array($intCharID));
 			$charhtml .= ' '.$this->pdh->get('member', 'html_classname', array($intCharID));
 			$charhtml .= '<br />'.$this->user->lang('level').' '.$this->pdh->get('member', 'level', array($intCharID));
-			
-			
+
 			$content = str_replace('{CHAR_ICON}', $charicon, $content);
 			$content = str_replace('{CHAR_HTML}', $charhtml, $content);
-			
+
 			return $content;
 		}
-		
+
 		/**
 		 *	Game Settings
 		 *
 		 */
-		 
 		public function install($install=false){
 			$this->game->resetEvents();
-
 			$arrEventIDs = array();
 			$arrEventIDs[] = $this->game->addEvent($this->glang('ny_raid'), 0, "86.png");
 			$arrEventIDs[] = $this->game->addEvent($this->glang('eidolon'), 0, "87.png");
@@ -196,11 +185,11 @@ if(!class_exists('tsw')) {
 			$intItempoolID = $this->game->addItempool("TSW", "TSW Itempool");
 
 			$this->game->addMultiDKPPool("TSW", "TSW MultiDKPPool", $arrEventIDs, array($intItempoolID));
-			
+
 			//Links
 			$this->game->addLink('TSW Forum', 'http://forums.thesecretworld.com/');
 			$this->game->addLink('TSW TestServer Forum', 'https://forums-tl.thesecretworld.com/index.php');
-			
+
 			$this->game->resetRanks();
 			//Ranks
 			$this->game->addRank(0, "Guildmaster");
@@ -209,20 +198,12 @@ if(!class_exists('tsw')) {
 			$this->game->addRank(3, "Member", true);
 			$this->game->addRank(4, "Buddy" );
 			$this->game->addRank(5, "Dummy Rank #1");
-			
-			
-
-			
 		}
 		public function uninstall(){
 
 			$this->game->removeLink("TSW Forum");
 			$this->game->removeLink("TSW TestServer Forum");
-			
-		}	
+		}
 	}
 }
-<<<<<<< HEAD
 ?>
-=======
->>>>>>> pr/4
