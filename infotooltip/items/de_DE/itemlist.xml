@@ -40,7 +40,7 @@
 <tswitem id="8131222" name="De Vermis Mysteriis" quality="5"/>
 <tswitem id="8131223" name="Kugel des unheilvollen Wurmfeuers" quality="5"/>
 <tswitem id="8131224" name="Maske des kriechenden Chaos" quality="5"/>
-<tswitem id="7894446" name="Upgrade-Werkzeugsazu für Nebenwaffen" quality="5"/>
+<tswitem id="7894446" name="Upgrade-Werkzeugsatz für Nebenwaffen" quality="5"/>
 
 <tswitem id="200001" name="Siegel der Besserung" quality="7"/>
 <tswitem id="200002" name="Siegel der Gewalt" quality="7"/>
@@ -52,7 +52,7 @@
 <tswitem id="200008" name="Siegel der Widerstandsfähigkeit" quality="7"/>
 <tswitem id="200009" name="Siegel der Segnung" quality="7"/>
 <tswitem id="200010" name="Siegel der Mäßigung" quality="7"/>
-<tswitem id="200011" name="Siegel des grausamens Entzücken" quality="7"/>
+<tswitem id="200011" name="Siegel des grausamen Entzückens" quality="7"/>
 <tswitem id="200012" name="Siegel des Heldenmuts" quality="7"/>
 <tswitem id="200013" name="Siegel der Misshandlung" quality="7"/>
 <tswitem id="200014" name="Siegel der Aggression" quality="7"/>
@@ -68,17 +68,17 @@
 <tswitem id="200024" name="Siegel des Gehorsams" quality="7"/>
 <tswitem id="200025" name="Siegel des Meuchelmords" quality="7"/>
 <tswitem id="200026" name="Siegel der Sperrung" quality="7"/>
-<tswitem id="200027" name="Siegel des Spalten" quality="7"/>
+<tswitem id="200027" name="Siegel des Spaltens" quality="7"/>
 <tswitem id="200028" name="Siegel der Verzerrung" quality="7"/>
 <tswitem id="200029" name="Siegel der Ausführung" quality="7"/>
 <tswitem id="200030" name="Siegel des Flusses" quality="7"/>
 <tswitem id="200031" name="Siegel der Verflüssigung" quality="7"/>
-<tswitem id="200032" name="Siegel des Zorn" quality="7"/>
+<tswitem id="200032" name="Siegel des Zorns" quality="7"/>
 <tswitem id="200033" name="Siegel des Einschließens" quality="7"/>
 <tswitem id="200034" name="Siegel der Verzahnung" quality="7"/>
 <tswitem id="200035" name="Siegel der Splitter" quality="7"/>
 <tswitem id="200036" name="Siegel des Zerschmetterns" quality="7"/>
-<tswitem id="200037" name="Siegel des Sturm" quality="7"/>
+<tswitem id="200037" name="Siegel des Sturms" quality="7"/>
 <tswitem id="200038" name="Siegel der Schwerter" quality="7"/>
 <tswitem id="200039" name="Siegel der Unterwerfung" quality="7"/>
 <tswitem id="200040" name="Siegel der Bücher" quality="7"/>
@@ -113,7 +113,7 @@
 <tswitem id="200008" name="Grünes Siegel der Widerstandsfähigkeit" quality="3" />
 <tswitem id="200009" name="Grünes Siegel der Segnung" quality="3" />
 <tswitem id="200010" name="Grünes Siegel der Mäßigung" quality="3" />
-<tswitem id="200011" name="Grünes Siegel des grausamens Entzücken" quality="3" />
+<tswitem id="200011" name="Grünes Siegel des grausamen Entzückens" quality="3" />
 <tswitem id="200012" name="Grünes Siegel des Heldenmuts" quality="3" />
 <tswitem id="200013" name="Grünes Siegel der Misshandlung" quality="3" />
 <tswitem id="200014" name="Grünes Siegel der Aggression" quality="3" />
@@ -129,17 +129,17 @@
 <tswitem id="200024" name="Grünes Siegel des Gehorsams" quality="3" />
 <tswitem id="200025" name="Grünes Siegel des Meuchelmords" quality="3" />
 <tswitem id="200026" name="Grünes Siegel der Sperrung" quality="3" />
-<tswitem id="200027" name="Grünes Siegel des Spalten" quality="3" />
+<tswitem id="200027" name="Grünes Siegel des Spaltens" quality="3" />
 <tswitem id="200028" name="Grünes Siegel der Verzerrung" quality="3" />
 <tswitem id="200029" name="Grünes Siegel der Ausführung" quality="3" />
 <tswitem id="200030" name="Grünes Siegel des Flusses" quality="3" />
 <tswitem id="200031" name="Grünes Siegel der Verflüssigung" quality="3" />
-<tswitem id="200032" name="Grünes Siegel des Zorn" quality="3" />
+<tswitem id="200032" name="Grünes Siegel des Zorns" quality="3" />
 <tswitem id="200033" name="Grünes Siegel des Einschließens" quality="3" />
 <tswitem id="200034" name="Grünes Siegel der Verzahnung" quality="3" />
 <tswitem id="200035" name="Grünes Siegel der Splitter" quality="3" />
 <tswitem id="200036" name="Grünes Siegel des Zerschmetterns" quality="3" />
-<tswitem id="200037" name="Grünes Siegel des Sturm" quality="3" />
+<tswitem id="200037" name="Grünes Siegel des Sturms" quality="3" />
 <tswitem id="200038" name="Grünes Siegel der Schwerter" quality="3" />
 <tswitem id="200039" name="Grünes Siegel der Unterwerfung" quality="3" />
 <tswitem id="200040" name="Grünes Siegel der Bücher" quality="3" />
@@ -174,7 +174,7 @@
 <tswitem id="200008" name="Blaues Siegel der Widerstandsfähigkeit" quality="4" />
 <tswitem id="200009" name="Blaues Siegel der Segnung" quality="4" />
 <tswitem id="200010" name="Blaues Siegel der Mäßigung" quality="4" />
-<tswitem id="200011" name="Blaues Siegel des grausamens Entzücken" quality="4" />
+<tswitem id="200011" name="Blaues Siegel des grausamen Entzückens" quality="4" />
 <tswitem id="200012" name="Blaues Siegel des Heldenmuts" quality="4" />
 <tswitem id="200013" name="Blaues Siegel der Misshandlung" quality="4" />
 <tswitem id="200014" name="Blaues Siegel der Aggression" quality="4" />
@@ -190,17 +190,17 @@
 <tswitem id="200024" name="Blaues Siegel des Gehorsams" quality="4" />
 <tswitem id="200025" name="Blaues Siegel des Meuchelmords" quality="4" />
 <tswitem id="200026" name="Blaues Siegel der Sperrung" quality="4" />
-<tswitem id="200027" name="Blaues Siegel des Spalten" quality="4" />
+<tswitem id="200027" name="Blaues Siegel des Spaltens" quality="4" />
 <tswitem id="200028" name="Blaues Siegel der Verzerrung" quality="4" />
 <tswitem id="200029" name="Blaues Siegel der Ausführung" quality="4" />
 <tswitem id="200030" name="Blaues Siegel des Flusses" quality="4" />
 <tswitem id="200031" name="Blaues Siegel der Verflüssigung" quality="4" />
-<tswitem id="200032" name="Blaues Siegel des Zorn" quality="4" />
+<tswitem id="200032" name="Blaues Siegel des Zorns" quality="4" />
 <tswitem id="200033" name="Blaues Siegel des Einschließens" quality="4" />
 <tswitem id="200034" name="Blaues Siegel der Verzahnung" quality="4" />
 <tswitem id="200035" name="Blaues Siegel der Splitter" quality="4" />
 <tswitem id="200036" name="Blaues Siegel des Zerschmetterns" quality="4" />
-<tswitem id="200037" name="Blaues Siegel des Sturm" quality="4" />
+<tswitem id="200037" name="Blaues Siegel des Sturms" quality="4" />
 <tswitem id="200038" name="Blaues Siegel der Schwerter" quality="4" />
 <tswitem id="200039" name="Blaues Siegel der Unterwerfung" quality="4" />
 <tswitem id="200040" name="Blaues Siegel der Bücher" quality="4" />
@@ -235,7 +235,7 @@
 <tswitem id="200008" name="Lila Siegel der Widerstandsfähigkeit" quality="5" />
 <tswitem id="200009" name="Lila Siegel der Segnung" quality="5" />
 <tswitem id="200010" name="Lila Siegel der Mäßigung" quality="5" />
-<tswitem id="200011" name="Lila Siegel des grausamens Entzücken" quality="5" />
+<tswitem id="200011" name="Lila Siegel des grausamen Entzückens" quality="5" />
 <tswitem id="200012" name="Lila Siegel des Heldenmuts" quality="5" />
 <tswitem id="200015" name="Lila Siegel der Misshandlung" quality="5" />
 <tswitem id="200014" name="Lila Siegel der Aggression" quality="5" />
@@ -251,19 +251,19 @@
 <tswitem id="200024" name="Lila Siegel des Gehorsams" quality="5" />
 <tswitem id="200025" name="Lila Siegel des Meuchelmords" quality="5" />
 <tswitem id="200026" name="Lila Siegel der Sperrung" quality="5" />
-<tswitem id="200027" name="Lila Siegel des Spalten" quality="5" />
+<tswitem id="200027" name="Lila Siegel des Spaltens" quality="5" />
 <tswitem id="200028" name="Lila Siegel der Verzerrung" quality="5" />
 <tswitem id="200029" name="Lila Siegel der Ausführung" quality="5" />
-<tswitem id="200050" name="Lila Siegel des Flusses" quality="5" />
-<tswitem id="200051" name="Lila Siegel der Verflüssigung" quality="5" />
-<tswitem id="200052" name="Lila Siegel des Zorn" quality="5" />
-<tswitem id="200055" name="Lila Siegel des Einschließens" quality="5" />
-<tswitem id="200054" name="Lila Siegel der Verzahnung" quality="5" />
-<tswitem id="200055" name="Lila Siegel der Splitter" quality="5" />
-<tswitem id="200056" name="Lila Siegel des Zerschmetterns" quality="5" />
-<tswitem id="200057" name="Lila Siegel des Sturm" quality="5" />
-<tswitem id="200058" name="Lila Siegel der Schwerter" quality="5" />
-<tswitem id="200059" name="Lila Siegel der Unterwerfung" quality="5" />
+<tswitem id="200030" name="Lila Siegel des Flusses" quality="5" />
+<tswitem id="200031" name="Lila Siegel der Verflüssigung" quality="5" />
+<tswitem id="200032" name="Lila Siegel des Zorns" quality="5" />
+<tswitem id="200035" name="Lila Siegel des Einschließens" quality="5" />
+<tswitem id="200034" name="Lila Siegel der Verzahnung" quality="5" />
+<tswitem id="200035" name="Lila Siegel der Splitter" quality="5" />
+<tswitem id="200036" name="Lila Siegel des Zerschmetterns" quality="5" />
+<tswitem id="200037" name="Lila Siegel des Sturms" quality="5" />
+<tswitem id="200038" name="Lila Siegel der Schwerter" quality="5" />
+<tswitem id="200039" name="Lila Siegel der Unterwerfung" quality="5" />
 <tswitem id="200040" name="Lila Siegel der Bücher" quality="5" />
 <tswitem id="200041" name="Lila Siegel der Gelassenheit" quality="5" />
 <tswitem id="200042" name="Lila Siegel des Echoes" quality="5" />

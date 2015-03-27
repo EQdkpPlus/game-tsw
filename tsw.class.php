@@ -45,6 +45,7 @@ if(!class_exists('tsw')) {
 				'parent'	=> false,
 				'primary'	=> false,
 				'colorize'	=> false,
+				'recruitment' => true,
 
 			),
 			
@@ -55,9 +56,9 @@ if(!class_exists('tsw')) {
 				'decorate'	=> true,
 				'primary'	=> true,
 				'roster'	=> false,
-				'recruitment' => true,
 				'colorize'	=> true,
 				'parent'	=> false,
+								'recruitment' => false,
 			),
 		);
 
@@ -145,31 +146,6 @@ if(!class_exists('tsw')) {
 		######################################################################
 
 		/**
-		 *	Content for the Chartooltip
-		 *
-		 */	
-		public function chartooltip($intCharID){
-			$template = $this->root_path.'games/'.$this->this_game.'/chartooltip/chartooltip.tpl';
-			$content = file_get_contents($template);
-			$charicon = $this->pdh->get('tsw', 'charicon', array($intCharID));
-			if ($charicon == '') {
-				$charicon = $this->server_path.'images/global/avatar-default.svg';
-			}
-			$charhtml = '<b>'.$this->pdh->get('member', 'html_name', array($intCharID)).'</b><br />';
-			$guild = $this->pdh->get('member', 'profile_field', array($intCharID, 'guild'));
-			if (strlen($guild)) $charhtml .= '<br />&laquo;'.$guild.'&raquo;';
-
-			$charhtml .= '<br />'.$this->pdh->get('member', 'html_racename', array($intCharID));
-			$charhtml .= ' '.$this->pdh->get('member', 'html_classname', array($intCharID));
-			$charhtml .= '<br />'.$this->user->lang('level').' '.$this->pdh->get('member', 'level', array($intCharID));
-
-			$content = str_replace('{CHAR_ICON}', $charicon, $content);
-			$content = str_replace('{CHAR_HTML}', $charhtml, $content);
-
-			return $content;
-		}
-
-		/**
 		 *	Game Settings
 		 *
 		 */
@@ -180,8 +156,6 @@ if(!class_exists('tsw')) {
 			$arrEventIDs[] = $this->game->addEvent($this->glang('eidolon'), 0, "87.png");
 			$arrEventIDs[] = $this->game->addEvent($this->glang('tokio'), 0, "93.png");
 
-			$this->game->resetMultiDKPPools();
-			$this->game->resetItempools();
 			$intItempoolID = $this->game->addItempool("TSW", "TSW Itempool");
 
 			$this->game->addMultiDKPPool("TSW", "TSW MultiDKPPool", $arrEventIDs, array($intItempoolID));

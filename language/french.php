@@ -22,7 +22,7 @@
 if ( !defined('EQDKP_INC') ){
 	header('HTTP/1.0 404 Not Found');exit;
 }
-$german_array = array(
+$french_array = array(
 	'classes' => array(
 		0	=> 'inconnu',
 		1	=> 'Tank',
