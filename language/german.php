@@ -60,9 +60,9 @@ $german_array = array(
 		'uc_yes'					=> 'Ja',
 		'uc_no'						=> 'Nein',
 		'uc_unknown'				=> 'unbekannt',
-		'uc_BG'						=> 'Battelgroup',
-		'uc_BG_A'					=> 'Battelgroup A',
-		'uc_BG_B'					=> 'Battelgroup B',
+		'uc_BG'						=> 'Battlegroup',
+		'uc_BG_A'					=> 'Battlegroup A',
+		'uc_BG_B'					=> 'Battlegroup B',
 		'uc_guild'					=> 'Gilde',
 		'uc_level'					=> 'Ausrüstungswert',
 		
