@@ -227,7 +227,7 @@
 
 <tswitem id="200001" name="Lila Siegel der Besserung" quality="5" />
 <tswitem id="200002" name="Lila Siegel der Gewalt" quality="5" />
-<tswitem id="200005" name="Lila Siegel der Lebenskraft" quality="5" />
+<tswitem id="200003" name="Lila Siegel der Lebenskraft" quality="5" />
 <tswitem id="200004" name="Lila Siegel der Verderbtheit" quality="5" />
 <tswitem id="200005" name="Lila Siegel der Disziplin" quality="5" />
 <tswitem id="200006" name="Lila Siegel der Ordnung" quality="5" />
@@ -237,7 +237,7 @@
 <tswitem id="200010" name="Lila Siegel der Mäßigung" quality="5" />
 <tswitem id="200011" name="Lila Siegel des grausamen Entzückens" quality="5" />
 <tswitem id="200012" name="Lila Siegel des Heldenmuts" quality="5" />
-<tswitem id="200015" name="Lila Siegel der Misshandlung" quality="5" />
+<tswitem id="200013" name="Lila Siegel der Misshandlung" quality="5" />
 <tswitem id="200014" name="Lila Siegel der Aggression" quality="5" />
 <tswitem id="200015" name="Lila Siegel des Eindringens" quality="5" />
 <tswitem id="200016" name="Lila Siegel der Züchtigung" quality="5" />
@@ -247,7 +247,7 @@
 <tswitem id="200020" name="Lila Siegel des Sadismus" quality="5" />
 <tswitem id="200021" name="Lila Siegel der Haft" quality="5" />
 <tswitem id="200022" name="Lila Siegel der Befreiung" quality="5" />
-<tswitem id="200025" name="Lila Siegel des Verbots" quality="5" />
+<tswitem id="200023" name="Lila Siegel des Verbots" quality="5" />
 <tswitem id="200024" name="Lila Siegel des Gehorsams" quality="5" />
 <tswitem id="200025" name="Lila Siegel des Meuchelmords" quality="5" />
 <tswitem id="200026" name="Lila Siegel der Sperrung" quality="5" />
@@ -257,7 +257,7 @@
 <tswitem id="200030" name="Lila Siegel des Flusses" quality="5" />
 <tswitem id="200031" name="Lila Siegel der Verflüssigung" quality="5" />
 <tswitem id="200032" name="Lila Siegel des Zorns" quality="5" />
-<tswitem id="200035" name="Lila Siegel des Einschließens" quality="5" />
+<tswitem id="200033" name="Lila Siegel des Einschließens" quality="5" />
 <tswitem id="200034" name="Lila Siegel der Verzahnung" quality="5" />
 <tswitem id="200035" name="Lila Siegel der Splitter" quality="5" />
 <tswitem id="200036" name="Lila Siegel des Zerschmetterns" quality="5" />
@@ -277,7 +277,7 @@
 <tswitem id="200050" name="Lila Siegel der Abtragung" quality="5" />
 <tswitem id="200051" name="Lila Siegel der Befestigung" quality="5" />
 <tswitem id="200052" name="Lila Siegel des Hasses" quality="5" />
-<tswitem id="200055" name="Lila Nebenwaffen-Prägung" quality="5" />
+<tswitem id="200053" name="Lila Nebenwaffen-Prägung" quality="5" />
 <tswitem id="200054" name="Lila Nebenwaffen-Augur" quality="5" />
 <tswitem id="200055" name="Lila Nebenwaffen-Bindung" quality="5" />
 <tswitem id="200056" name="Lila Nebenwaffen-Overdrive" quality="5" />
