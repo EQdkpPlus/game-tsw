@@ -26,7 +26,7 @@ if ( !defined('EQDKP_INC') ){
 if(!class_exists('tsw')) {
 	class tsw extends game_generic {
 		protected static $apiLevel	= 20;
-		public $version				= '2.1.3';
+		public $version				= '2.1.4';
 		protected $this_game		= 'tsw';
 		public $author				= "Inkraja";
 		public $types				= array('races', 'classes', 'classes_big', 'events', 'roles');

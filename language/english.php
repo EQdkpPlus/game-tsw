@@ -59,9 +59,9 @@ $english_array =  array(
 		'uc_yes'					=> 'Yes',
 		'uc_no'						=> 'No',
 		'uc_unknown'				=> 'unknown',
-		'uc_BG'						=> 'Battelgroup',
-		'uc_BG_A'					=> 'Battelgroup A',
-		'uc_BG_B'					=> 'Battelgroup B',
+		'uc_BG'						=> 'Battlegroup',
+		'uc_BG_A'					=> 'Battlegroup A',
+		'uc_BG_B'					=> 'Battlegroup B',
 		'uc_guild'					=> 'Cabal',
 		'uc_level'					=> 'Effusion Raiting',
 		

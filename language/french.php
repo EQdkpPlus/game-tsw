@@ -60,9 +60,9 @@ $french_array = array(
 		'uc_yes'					=> 'Oui',
 		'uc_no'						=> 'Non',
 		'uc_unknown'				=> 'inconnu',
-		'uc_BG'						=> 'Battelgroup',
-		'uc_BG_A'					=> 'Battelgroup A',
-		'uc_BG_B'					=> 'Battelgroup B',
+		'uc_BG'						=> 'Battlegroup',
+		'uc_BG_A'					=> 'Battlegroup A',
+		'uc_BG_B'					=> 'Battlegroup B',
 		'uc_guild'					=> 'guilde',
 		'uc_level'					=> 'Score de l’équipement',
 		
