@@ -22,14 +22,13 @@
 <tswitem id="100020" name="Final Assault" quality="5"/>
 <tswitem id="100021" name="Third Core Capacitor" quality="6"/>
 <tswitem id="100022" name="Supernal Diode" quality="6"/>
-
-<tswitem id="8130815" name="Writhing Lamprey Belt" quality="5"/>
-<tswitem id="8130823" name="Polyhedrons of the Wyrd" quality="5"/>
+<tswitem id="8130815" name="Polyhedrons of the Wyrd" quality="5"/>
+<tswitem id="8130823" name="Writhing Lamprey Belt" quality="5"/>
 <tswitem id="8130847" name="Mantle of the Vampire Squid" quality="5"/>
-<tswitem id="8130848" name="Medallion of Tentacular Skies" quality="5"/>
-<tswitem id="8130849" name="Manacles of the Threshold Lurker" quality="5"/>
-<tswitem id="8130850" name="Ring of the Mollusk Gods" quality="5"/>
-<tswitem id="8130980" name="Cuttlefish Ink" quality="5"/>
+<tswitem id="8130848" name="Ring of the Mollusk Gods" quality="5"/>
+<tswitem id="8130849" name="Medallion of Tentacular Skies" quality="5"/>
+<tswitem id="8130850" name="Manacles of the Threshold Lurker" quality="5"/>
+<tswitem id="8130980" name="Cuttlefish Ink" quality="5"/>	
 <tswitem id="8130981" name="Bioluminescent Algae" quality="5"/>
 <tswitem id="8130982" name="Bilious Ichor" quality="5"/>
 <tswitem id="8130984" name="Event Horizon Cannon" quality="5"/>
