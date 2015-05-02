@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <tswitem>
 <itemid>8130848</itemid>
-<name>Medallion of Tentacular Skies</name>
+<name>Ring of the Mollusk Gods</name>
 <iconpath>8130848</iconpath>
 <quality>5</quality>
 
@@ -10,9 +10,9 @@
 
 <table width="100%"> 
 	<tr> 
-		<td align="left" class="tsw_tooltiptitle tsw_q;QL_VALUE;" colspan="2">Medallion of Tentacular Skies</td> </tr>
+		<td align="left" class="tsw_tooltiptitle tsw_q;QL_VALUE;" colspan="2">Ring of the Mollusk Gods</td> </tr>
 	<tr> 
-		<td align="left" class="tsw_infolabel" colspan="2">Finger Talisman (QS 10.1 Epic)</td></tr> 
+		<td align="left" class="tsw_infolabel" colspan="2">Finger Talisman (QL 10.1 Epic)</td></tr> 
 	<tr> 
 		 <td align="left" class="tsw_infolabel_slot" colspan="2">Character Bound </td></tr>  
 	<tr> 
