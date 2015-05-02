@@ -90,7 +90,7 @@ table.wh_outer {
 	min-width: 400px;
 	position: relative;
 	height: 0;
-    	width:expression(this.width < 400 ? "400px" : true);
+
 }
 
 table.tsw_tooltip {
@@ -200,8 +200,6 @@ table.tsw_tooltip div.wh_inner{
 	width: auto;
 	z-index: 100000001;
 	max-width: 400px;
-	width:expression(this.width > 400 ? "400px" : true);
-
 	font-family: Verdana, sans-serif;
 	font-variant: normal;
 	font-size: 11px;
