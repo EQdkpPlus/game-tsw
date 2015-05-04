@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>	
+	<tswitem>
+	<itemid>8258651</itemid>
+	<name>Résonateur d'augmentation inflexible</name>
+	<iconpath>8258651</iconpath>
+	<quality>4</quality>
+	
+	
+	<tooltip><![CDATA[
+	
+	<table width="100%"> 
+		<tr> 
+	<td align="left" class="tsw_tooltiptitle tsw_q;QL_VALUE;" colspan="2">Résonateur d'augmentation inflexible</td> </tr>
+		<tr> 
+	<td align="left" colspan="2">Augmentation de <font color='#59DFF7'>survie</font> brute.</td>
+		<tr> <td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+			 </tr>  
+		<tr> 
+			
+			</tr> 
+			<tr>
+	<td align="left" class="tsw_infolabel" colspan="2">Faire entrer cette augmentation en résonance avec un pouvoir actif vous confère un effet bénéfique accroissant votre valeur de défense de <span class="tsw_q2">25</span>/ <span class="tsw_q3">50</span>/ <span class="tsw_q4">75</span>/ <span class="tsw_q5">100</span>/ <span class="tsw_q6">125</span> pendant 5 secondes chaque fois que vous activez ce pouvoir.
+
+		</td></tr>
+	<tr> <td colspan="2"> <hr class="tsw_tooltip_hr"> </td> </tr>
+	<tr>  
+	<td>Pour harmoniser cette augmentation, placez-la dans la fenêtre d'assemblage avec :
+	 <ul>
+	<li>2 Résonateur d'augmentation robuste harmonisé</li>
+	<li>30 Rune de Wedjat pure</li>
+	<li>30 Eau pure</li>
+	</ul> 
+	</td></tr>
+	
+	</table>
+	]]>
+	</tooltip></tswitem>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>	
+	<tswitem>
+	<itemid>8258646</itemid>
+	<name>Irritierender Augmentierungsresonator</name>
+	<iconpath>8258646</iconpath>
+	<quality>4</quality>
+	
+	
+	<tooltip><![CDATA[
+	
+	<table width="100%"> 
+		<tr> 
+	<td align="left" class="tsw_tooltiptitle tsw_q;QL_VALUE;" colspan="2">Irritierender Augmentierungsresonator</td> </tr>
+		<tr> 
+<td align="left" colspan="2">Eine nicht eingestellte <font color='#59DFF7'>Überlebenschance</font>-Augmentierung.</td>
+		<tr> <td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+			 </tr>  
+		<tr> 
+			
+			</tr> 
+			<tr>
+	<td align="left" class="tsw_infolabel" colspan="2">Durch Resonanz dieser Augmentierung mit einer aktiven Kraft wird der durch diese Kraft erzeugte Hass um <span class="tsw_q2">20%</span>/ <span class="tsw_q3">40%</span>/ <span class="tsw_q4">60%</span>/ <span class="tsw_q5">80%</span>/ <span class="tsw_q6">100%</span> erhöht.
+	
+		</td></tr>
+	<tr> <td colspan="2"> <hr class="tsw_tooltip_hr"> </td> </tr>
+	<tr>  
+	<td>Um diese Augmentierung einzustellen, platzieren Sie sie bitte im Fertigungsfenster, und zwar zusammen mit:
+	 <ul>
+	<li>2 Eingestellter Robuster Augmentierungsresonator</li>
+	<li>60 Reines Wasser</li>
+	</ul> 
+	</td></tr>
+	
+	</table>
+	]]>
+	</tooltip></tswitem>
+
+
+

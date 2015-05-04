@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>	
+	<tswitem>
+	<itemid>8258681</itemid>
+	<name>Parasitic Augment Resonator</name>
+	<iconpath>8258681</iconpath>
+	<quality>5</quality>
+	
+	
+	<tooltip><![CDATA[
+	
+	<table width="100%"> 
+		<tr> 
+	<td align="left" class="tsw_tooltiptitle tsw_q;QL_VALUE;" colspan="2">Parasitic Augment Resonator</td> </tr>
+		<tr> 
+<td align="left" colspan="2">An unattuned <font color='#1CF286'>healing</font> augment.</td>
+		<tr> <td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+			 </tr>  
+		<tr> 
+			
+			</tr> 
+			<tr>
+	<td align="left" class="tsw_infolabel" colspan="2">Resonating this augment to an active ability will increase your critical hit chance by <span class="tsw_q2">2,5%</span>/ <span class="tsw_q3">5%</span>/ <span class="tsw_q4">7,5%</span>/ <span class="tsw_q5">10%</span>/ <span class="tsw_q6">12,5%</span> for leech effects applied by this ability.
+
+		</td></tr>
+	<tr> <td colspan="2"> <hr class="tsw_tooltip_hr"> </td> </tr>
+	<tr>  
+	<td>To attune this augment, place it in the assembly window with:
+	 <ul>
+	<li>3 Attuned Mending Augment Resonators</li>
+	<li>48 Pure lu runes</li>
+	<li>48 Pure dust</li>
+	</ul> 
+	</td></tr>
+	
+	</table>
+	]]>
+	</tooltip></tswitem>

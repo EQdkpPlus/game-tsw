@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>	
+	<tswitem>
+	<itemid>8258671</itemid>
+	<name>Résonateur d'augmentation robuste</name>
+	<iconpath>8258671</iconpath>
+	<quality>3</quality>
+	
+	
+	<tooltip><![CDATA[
+	
+	<table width="100%"> 
+		<tr> 
+	<td align="left" class="tsw_tooltiptitle tsw_q;QL_VALUE;" colspan="2">Résonateur d'augmentation robuste</td> </tr>
+		<tr> 
+	<td align="left" colspan="2">Augmentation de <font color='#59DFF7'>survie</font> brute.</td>
+		<tr> <td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+			 </tr>  
+		<tr> 
+			
+			</tr> 
+			<tr>
+	<td align="left" class="tsw_infolabel" colspan="2">Faire entrer cette augmentation en résonance avec un pouvoir actif augmente votre santé maximale de <span class="tsw_q2">50</span>/ <span class="tsw_q3">100</span>/ <span class="tsw_q4">150</span>/ <span class="tsw_q5">200</span>/ <span class="tsw_q6">250</span>.
+
+		</td></tr>
+	
+	</table>
+	]]>
+	</tooltip></tswitem>
