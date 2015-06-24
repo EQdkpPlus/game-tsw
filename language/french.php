@@ -75,6 +75,21 @@ $french_array = array(
 
 		// Admin Settings
 		'core_sett_fs_gamesettings'		=> 'The Secret World paramètres',
+		
+		//Guildbank
+		'Heroic' 					=> 'Héroique', 
+		'Epic'						=> 'Épique', 
+		'Rare'						=> 'Rare', 
+		'Normal'					=> 'Singulier', 
+		'Other'						=> 'Courant', 
+		'Augments' 					=> 'Résonateur d augmentation', 
+		'Signets'					=> 'Insigne', 
+		'Event-Items'				=> 'Evénements-objets', 
+		'Clothes'					=> 'vêtements', 
+		'Emotes'					=> 'Emotes',
+		'Token-Items'				=> 'Jeton-objets', 
+		'Material'					=> 'matériel', 
+		'Others'					=> 'divers',
 
 	),
 );

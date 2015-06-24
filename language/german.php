@@ -71,7 +71,21 @@ $german_array = array(
 		'ny_raid'					=> 'New York',
 		'tokio'						=> 'Tokio',
 
-		
+		//Guildbank
+		'Heroic' 					=> 'Heroisch', 
+		'Epic'						=> 'Episch', 
+		'Rare'						=> 'Selten', 
+		'Normal'					=> 'Unewöhnlich', 
+		'Other'						=> 'Gewöhnlich', 
+		'Augments' 					=> 'Augmentierungsresonator', 
+		'Signets'					=> 'Siegel', 
+		'Event-Items'				=> 'Event-Gegenstände', 
+		'Clothes'					=> 'Kleidung', 
+		'Emotes'					=> 'Gesten',
+		'Token-Items'				=> 'Token-Gegenstände', 
+		'Material'					=> 'Materialien', 
+		'Others'					=> 'Sonstiges',
+
 
 		// Admin Settings
 		'core_sett_fs_gamesettings'		=> 'The Secret World Einstellungen',

@@ -72,6 +72,21 @@ $english_array =  array(
 
 		// Admin Settings
 		'core_sett_fs_gamesettings'	=> 'The Secret World Settings',
+		
+		//Guildbank
+		'Heroic' 					=> 'Heroic', 
+		'Epic'						=> 'Epic', 
+		'Rare'						=> 'Rare', 
+		'Normal'					=> 'Uncommon', 
+		'Other'						=> 'Commen', 
+		'Augments' 					=> 'Augments', 
+		'Signets'					=> 'Signets', 
+		'Events-Items'				=> 'Events-Items', 
+		'Clothes'					=> 'Clothes', 
+		'Emotes'					=> 'Emotes',
+		'Token-Items'				=> 'Token-Items', 
+		'Material'					=> 'Material', 
+		'Others'					=> 'Others',
 
 	),
 );

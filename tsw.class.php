@@ -33,7 +33,7 @@ if(!class_exists('tsw')) {
 		protected $classes			= array();
 		protected $factions			= array();
 		protected $filters			= array();
-		public $langs				= array('english', 'german');
+		public $langs				= array('english', 'german', 'french');
 
 		protected $class_dependencies = array(
 			array(
@@ -58,7 +58,7 @@ if(!class_exists('tsw')) {
 				'roster'	=> false,
 				'colorize'	=> true,
 				'parent'	=> false,
-								'recruitment' => false,
+				'recruitment' => false,
 			),
 		);
 
@@ -178,6 +178,39 @@ if(!class_exists('tsw')) {
 			$this->game->removeLink("TSW Forum");
 			$this->game->removeLink("TSW TestServer Forum");
 		}
+		
+		public function guildbank_money(){
+		return $money_data = array(
+		'PAX'		=> array(
+			'icon'			=> array(
+				'type'		=> 'image',
+				'name'		=> 'pax.png',
+			),
+			'factor'		=> 1,
+			'size'			=> 'unlimited',
+			'language'		=> $this->user->lang(array('gb_currency', 'pax')),
+			'short_lang'	=> $this->user->lang(array('gb_currency', 'pax_s')),
+		)
+		);}
+		public function guildbank_itemrarity(){
+			return array(
+			  5 => $this->game->glang('Heroic'),
+			  4 => $this->game->glang('Epic'),
+			  3 => $this->game->glang('Rare'),
+			  2 => $this->game->glang('Normal'),
+			  1 => $this->game->glang('Other'));
+		}
+		public function guildbank_itemtype(){
+			return array(
+			1 => $this->game->glang('Signets'),			
+			2 => $this->game->glang('Augments'),
+			3 => $this->game->glang('Material'),
+			4 => $this->game->glang('Clothes'),
+			5 => $this->game->glang('Emotes'),
+			6 => $this->game->glang('Event-Items'),
+			7 => $this->game->glang('Token-Items'),
+			8 => $this->game->glang('Others'));
+			}
 	}
 }
 ?>
