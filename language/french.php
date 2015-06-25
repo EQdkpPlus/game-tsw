@@ -82,14 +82,14 @@ $french_array = array(
 		'Rare'						=> 'Rare', 
 		'Normal'					=> 'Singulier', 
 		'Other'						=> 'Courant', 
-		'Augments' 					=> 'Résonateur d augmentation', 
+		'Augments' 					=> 'Résonateur d\'augmentation', 
 		'Signets'					=> 'Insigne', 
 		'Event-Items'				=> 'Evénements-objets', 
-		'Clothes'					=> 'vêtements', 
+		'Clothes'					=> 'Vêtements', 
 		'Emotes'					=> 'Emotes',
 		'Token-Items'				=> 'Jeton-objets', 
-		'Material'					=> 'matériel', 
-		'Others'					=> 'divers',
+		'Material'					=> 'Matériel', 
+		'Others'					=> 'Divers',
 
 	),
 );

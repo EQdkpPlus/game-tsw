@@ -26,7 +26,7 @@ if ( !defined('EQDKP_INC') ){
 if(!class_exists('tsw')) {
 	class tsw extends game_generic {
 		protected static $apiLevel	= 20;
-		public $version				= '2.1.5';
+		public $version				= '2.1.6';
 		protected $this_game		= 'tsw';
 		public $author				= "Inkraja";
 		public $types				= array('races', 'classes', 'classes_big', 'events', 'roles');
@@ -178,7 +178,7 @@ if(!class_exists('tsw')) {
 			$this->game->removeLink("TSW Forum");
 			$this->game->removeLink("TSW TestServer Forum");
 		}
-		
+		//Guildbank
 		public function guildbank_money(){
 		return $money_data = array(
 		'PAX'		=> array(
