@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>	
+	<tswitem>
+	<itemid>8258715</itemid>
+	<name>Wiederherstellender Augmentierungsresonator</name>
+	<iconpath>8258715</iconpath>
+	<quality>4</quality>
+	
+	
+	<tooltip><![CDATA[
+	
+	<table width="100%"> 
+		<tr> 
+	<td align="left" class="tsw_tooltiptitle tsw_q;QL_VALUE;" colspan="2">Wiederherstellender Augmentierungsresonator</td> </tr>
+		<tr> 
+<td align="left" colspan="2">Eine nicht eingestellte <font color='#1CF286'>Heilung</font>-Augmentierung.</td>
+		<tr> <td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+			 </tr>  
+		<tr> 
+			
+			</tr> 
+			<tr>
+	<td align="left" class="tsw_infolabel" colspan="2">Durch Resonanz dieser Augmentierung mit einer aktiven Kraft wird die Stärke von mit dieser Kraft erzeugten Heilung-über-Zeit-Effekten um <span class="tsw_q2">1%</span>/ <span class="tsw_q3">2%</span>/ <span class="tsw_q4">3%</span>/ <span class="tsw_q5">4%</span>/ <span class="tsw_q6">5%</span> erhöht.
+	
+		</td></tr>
+	<tr> <td colspan="2"> <hr class="tsw_tooltip_hr"> </td> </tr>
+	<tr>  
+	<td>Um diese Augmentierung einzustellen, platzieren Sie sie bitte im Fertigungsfenster, und zwar zusammen mit:
+	 <ul>
+	<li>2 Eingestellter Erholsamer Augmentierungsresonator</li>
+	<li>60 Reiner Staub</li>
+	</ul> 
+	</td></tr>
+	
+	</table>
+	]]>
+	</tooltip></tswitem>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>	
+	<tswitem>
+	<itemid>8258745</itemid>
+	<name>Fierce Augment Resonator</name>
+	<iconpath>8258745</iconpath>
+	<quality>5</quality>
+	
+	
+	<tooltip><![CDATA[
+	
+	<table width="100%"> 
+		<tr> 
+	<td align="left" class="tsw_tooltiptitle tsw_q;QL_VALUE;" colspan="2">Fierce Augment Resonator</td> </tr>
+		<tr> 
+<td align="left" colspan="2">An unattuned <font color='#FF2F1F'>damage</font> augment.</td>
+		<tr> <td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+			 </tr>  
+		<tr> 
+			
+			</tr> 
+			<tr>
+	<td align="left" class="tsw_infolabel" colspan="2">Resonating this augment to an active ability will increase your penetration chance by <span class="tsw_q2">1%</span>/ <span class="tsw_q3">2%</span>/ <span class="tsw_q4">3%</span>/ <span class="tsw_q5">4%</span>/ <span class="tsw_q6">5%</span> and your critical hit chance by 
+	<span class="tsw_q2">1%</span>/ <span class="tsw_q3">2%</span>/ <span class="tsw_q4">3%</span>/ <span class="tsw_q5">4%</span>/ <span class="tsw_q6">5%</span> for this ability.
+		</td></tr>
+	<tr> <td colspan="2"> <hr class="tsw_tooltip_hr"> </td> </tr>
+	<tr>  
+	<td>To attune this augment, place it in the assembly window with:
+	 <ul>
+	<li>3 Attuned Accurate Augment Resonators</li>
+	<li>12 Pure lu runes</li>
+	<li>12 Pure trinity runes</li>
+	<li>72 Pure fire</li>
+	</ul> 
+	</td></tr>
+	
+	</table>
+	]]>
+	</tooltip></tswitem>

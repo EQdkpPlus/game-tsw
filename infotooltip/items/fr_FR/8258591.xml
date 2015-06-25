@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>	
+	<tswitem>
+	<itemid>8258591</itemid>
+	<name>Résonateur d'augmentation activateur</name>
+	<iconpath>8258591</iconpath>
+	<quality>5</quality>
+	
+	
+	<tooltip><![CDATA[
+	
+	<table width="100%"> 
+		<tr> 
+	<td align="left" class="tsw_tooltiptitle tsw_q;QL_VALUE;" colspan="2">Résonateur d'augmentation activateur</td> </tr>
+		<tr> 
+	<td align="left" colspan="2">Augmentation de <font color='#F6E632'>soutien</font> brute.</td>
+		<tr> <td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+			 </tr>  
+		<tr> 
+			
+			</tr> 
+			<tr>
+	<td align="left" class="tsw_infolabel" colspan="2">Faire entrer cette augmentation en résonance avec un pouvoir actif confère à tout votre groupe un effet bénéfique soignant une fois de <span class="tsw_q2">20</span>/ <span class="tsw_q3">40</span>/ <span class="tsw_q4">60</span>/ <span class="tsw_q5">80</span>/ <span class="tsw_q6">100</span> points de santé et accroissant les dégâts infligés de 
+	<span class="tsw_q2">1%</span>/ <span class="tsw_q3">1%</span>/ <span class="tsw_q4">2%</span>/ <span class="tsw_q5">3%</span>/ <span class="tsw_q6">3%</span> pendant 5 secondes lorsque vous activez ce pouvoir. Ne peut se produire qu'une fois toutes les 30 secondes.
+		</td></tr>
+	<tr> <td colspan="2"> <hr class="tsw_tooltip_hr"> </td> </tr>
+	<tr>  
+	<td>Pour harmoniser cette augmentation, placez-la dans la fenêtre d'assemblage avec :
+	 <ul>
+	<li>3 Résonateur d'augmentation guérisseur harmonisé</li>
+	<li>96 Pure trinity runes</li>
+	</ul> 
+	</td></tr>
+	
+	</table>
+	]]>
+	</tooltip></tswitem>

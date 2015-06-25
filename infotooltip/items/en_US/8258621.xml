@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>	
+	<tswitem>
+	<itemid>8258621</itemid>
+	<name>Curing Augment Resonator</name>
+	<iconpath>8258621</iconpath>
+	<quality>3</quality>
+	
+	
+	<tooltip><![CDATA[
+	
+	<table width="100%"> 
+		<tr> 
+	<td align="left" class="tsw_tooltiptitle tsw_q;QL_VALUE;" colspan="2">Curing Augment Resonator</td> </tr>
+		<tr> 
+	<td align="left" colspan="2">An unattuned <font color='#F6E632'>support</font> augment.</td>
+		<tr> <td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+			 </tr>  
+		<tr> 
+			
+			</tr> 
+			<tr>
+	<td align="left" class="tsw_infolabel" colspan="2">Resonating this augment to an active ability will heal your team for <span class="tsw_q2">15</span>/ <span class="tsw_q3">30</span>/ <span class="tsw_q4">45</span>/ <span class="tsw_q5">60</span>/ <span class="tsw_q6">75</span> when you activate the ability. This can only happen every 10 seconds. 
+
+		</td></tr>
+	
+	</table>
+	]]>
+	</tooltip></tswitem>

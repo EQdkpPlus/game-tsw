@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>	
+	<tswitem>
+	<itemid>8258621</itemid>
+	<name>Kurierender Augmentierungsresonator</name>
+	<iconpath>8258621</iconpath>
+	<quality>3</quality>
+	
+	
+	<tooltip><![CDATA[
+	
+	<table width="100%"> 
+		<tr> 
+	<td align="left" class="tsw_tooltiptitle tsw_q;QL_VALUE;" colspan="2">Kurierender Augmentierungsresonator</td> </tr>
+		<tr> 
+<td align="left" colspan="2">Eine nicht eingestellte <font color='#F6E632'>Unterstützung</font>-Augmentierung</td>
+		<tr> <td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+			 </tr>  
+		<tr> 
+			
+			</tr> 
+			<tr>
+	<td align="left" class="tsw_infolabel" colspan="2">Durch Resonanz dieser Augmentierung mit einer aktiven Kraft wird Ihr Team bei Aktivierung der Kraft um <span class="tsw_q2">15</span>/ <span class="tsw_q3">30</span>/ <span class="tsw_q4">45</span>/ <span class="tsw_q5">60</span>/ <span class="tsw_q6">75</span> geheilt. Das kann höchstens alle 10 Sekunden eintreten.
+	
+		</td></tr>
+	
+	</table>
+	]]>
+	</tooltip></tswitem>
+
+

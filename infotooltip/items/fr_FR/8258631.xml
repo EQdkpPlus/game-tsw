@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>	
+	<tswitem>
+	<itemid>8258631</itemid>
+	<name>Résonateur d'augmentation illimité</name>
+	<iconpath>8258631</iconpath>
+	<quality>5</quality>
+	
+	
+	<tooltip><![CDATA[
+	
+	<table width="100%"> 
+		<tr> 
+	<td align="left" class="tsw_tooltiptitle tsw_q;QL_VALUE;" colspan="2">Résonateur d'augmentation illimité</td> </tr>
+		<tr> 
+	<td align="left" colspan="2">Augmentation de <font color='#59DFF7'>survie</font> brute.</td>
+		<tr> <td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+			 </tr>  
+		<tr> 
+			
+			</tr> 
+			<tr>
+	<td align="left" class="tsw_infolabel" colspan="2">Faire entrer cette augmentation en résonance avec un pouvoir actif vous confère un effet bénéfique accroissant votre protection magique et votre protection physique de <span class="tsw_q2">10</span>/ <span class="tsw_q3">20</span>/ <span class="tsw_q4">30</span>/ <span class="tsw_q5">40</span>/ <span class="tsw_q6">50</span> et votre valeur de défense de 
+	<span class="tsw_q2">20</span>/ <span class="tsw_q3">40</span>/ <span class="tsw_q4">60</span>/ <span class="tsw_q5">80</span>/ <span class="tsw_q6">100</span> pendant 5 secondes chaque fois que vous activez ce pouvoir.
+		</td></tr>
+	<tr> <td colspan="2"> <hr class="tsw_tooltip_hr"> </td> </tr>
+	<tr>  
+	<td>Pour harmoniser cette augmentation, placez-la dans la fenêtre d'assemblage avec :
+	 <ul>
+	<li>3 Résonateur d'augmentation robuste harmonisé</li>
+	<li>16 Rune de Wedjat pure</li>
+	<li>12 Rune du pentagramme pure</li>
+	<li>12 Rune de Koru pure</li>
+	</ul> 
+	</td></tr>
+	
+	</table>
+	]]>
+	</tooltip></tswitem>

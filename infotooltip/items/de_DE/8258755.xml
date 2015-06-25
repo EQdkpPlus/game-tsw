@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>	
+	<tswitem>
+	<itemid>8258755</itemid>
+	<name>Grausamer Augmentierungsresonator</name>
+	<iconpath>8258755</iconpath>
+	<quality>4</quality>
+	
+	
+	<tooltip><![CDATA[
+	
+	<table width="100%"> 
+		<tr> 
+	<td align="left" class="tsw_tooltiptitle tsw_q;QL_VALUE;" colspan="2">Grausamer Augmentierungsresonator</td> </tr>
+		<tr> 
+<td align="left" colspan="2">Eine nicht eingestellte <font color='#FF2F1F'>Schaden</font>-Augmentierung.</td>
+		<tr> <td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+			 </tr>  
+		<tr> 
+			
+			</tr> 
+			<tr>
+	<td align="left" class="tsw_infolabel" colspan="2">Durch Resonanz dieser Augmentierung mit einer aktiven Kraft wird Ihre kritische Treffer-Kraft für diese Kraft um <span class="tsw_q2">5%</span>/ <span class="tsw_q3">7%</span>/ <span class="tsw_q4">9%</span>/ <span class="tsw_q5">12,5%</span>/ <span class="tsw_q6">15%</span> erhöht.
+	
+		</td></tr>
+	<tr> <td colspan="2"> <hr class="tsw_tooltip_hr"> </td> </tr>
+	<tr>  
+	<td>Um diese Augmentierung einzustellen, platzieren Sie sie bitte im Fertigungsfenster, und zwar zusammen mit:
+	 <ul>
+	<li>2 Eingestellte Exakter Augmentierungsresonator</li>
+	<li>24 Reine Denkyem Rune</li>
+	<li>36 Reines Feuer</li>
+	</ul> 
+	</td></tr>
+	
+	</table>
+	]]>
+	</tooltip></tswitem>

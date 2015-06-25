@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>	
+	<tswitem>
+	<itemid>8258681</itemid>
+	<name>Parasitärer Augmentierungsresonator</name>
+	<iconpath>8258681</iconpath>
+	<quality>5</quality>
+	
+	
+	<tooltip><![CDATA[
+	
+	<table width="100%"> 
+		<tr> 
+	<td align="left" class="tsw_tooltiptitle tsw_q;QL_VALUE;" colspan="2">Parasitärer Augmentierungsresonator</td> </tr>
+		<tr> 
+<td align="left" colspan="2">Eine nicht eingestellte <font color='#1CF286'>Heilung</font>-Augmentierung.</td>
+		<tr> <td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+			 </tr>  
+		<tr> 
+			
+			</tr> 
+			<tr>
+	<td align="left" class="tsw_infolabel" colspan="2">Durch Resonanz dieser Augmentierung mit einer aktiven Kraft wird Ihre kritische Treffer-Chance für durch diese Kraft erzeugte Absaugeffekte um <span class="tsw_q2">2,5%</span>/ <span class="tsw_q3">5%</span>/ <span class="tsw_q4">7,5%</span>/ <span class="tsw_q5">10%</span>/ <span class="tsw_q6">0,125</span> erhöht.
+	
+		</td></tr>
+	<tr> <td colspan="2"> <hr class="tsw_tooltip_hr"> </td> </tr>
+	<tr>  
+	<td>Um diese Augmentierung einzustellen, platzieren Sie sie bitte im Fertigungsfenster, und zwar zusammen mit:
+	 <ul>
+	<li>3 Eingestellter Erholsamer Augmentierungsresonator</li>
+	<li>48 Reine Lu Rune</li>
+	<li>48 Reiner Staub</li>
+	</ul> 
+	</td></tr>
+	
+	</table>
+	]]>
+	</tooltip></tswitem>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>	
+	<tswitem>
+	<itemid>8258586</itemid>
+	<name>Invulnerable Augment Resonator</name>
+	<iconpath>8258586</iconpath>
+	<quality>5</quality>
+	
+	
+	<tooltip><![CDATA[
+	
+	<table width="100%"> 
+		<tr> 
+	<td align="left" class="tsw_tooltiptitle tsw_q;QL_VALUE;" colspan="2">Invulnerable Augment Resonator</td> </tr>
+		<tr> 
+	<td align="left" colspan="2">An unattuned <font color='#F6E632'>support</font> augment.</td>
+		<tr> <td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+			 </tr>  
+		<tr> 
+			
+			</tr> 
+			<tr>
+	<td align="left" class="tsw_infolabel" colspan="2">Resonating this augment to an active ability will give your team a beneficial effect that heals once for <span class="tsw_q2">20</span>/ <span class="tsw_q3">40</span>/ <span class="tsw_q4">60</span>/ <span class="tsw_q5">80</span>/ <span class="tsw_q6">100</span> and decreases damage taken by 
+	<span class="tsw_q2">1%</span>/ <span class="tsw_q3">1%</span>/ <span class="tsw_q4">2%</span>/ <span class="tsw_q5">3%</span>/ <span class="tsw_q6">3%</span> for 5 seconds when you activate this ability. This can only happen every 30 seconds. 
+		</td></tr>
+	<tr> <td colspan="2"> <hr class="tsw_tooltip_hr"> </td> </tr>
+	<tr>  
+	<td>To attune this augment, place it in the assembly window with:
+	 <ul>
+	<li>3 Attuned Curing Augment Resonators</li>
+	<li>48 Pure pentagram runes</li>
+	<li>48 Pure koru runes</li>
+	</ul> 
+	</td></tr>
+	
+	</table>
+	]]>
+	</tooltip></tswitem>

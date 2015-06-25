@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>	
+	<tswitem>
+	<itemid>8258626</itemid>
+	<name>Unsterblicher Augmentierungsresonator</name>
+	<iconpath>8258626</iconpath>
+	<quality>6</quality>
+	
+	
+	<tooltip><![CDATA[
+	
+	<table width="100%"> 
+		<tr> 
+	<td align="left" class="tsw_tooltiptitle tsw_q;QL_VALUE;" colspan="2">Unsterblicher Augmentierungsresonator</td> </tr>
+		<tr> 
+<td align="left" colspan="2">Eine nicht eingestellte <font color='#59DFF7'>Überlebenschance</font>-Augmentierung.</td>
+		<tr> <td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+			 </tr>  
+		<tr> 
+			
+			</tr> 
+			<tr>
+	<td align="left" class="tsw_infolabel" colspan="2">Durch Resonanz dieser Augmentierung mit einer aktiven Kraft werden Sie bei Aktivierung der Kraft um <span class="tsw_q2">5%</span>/ <span class="tsw_q3">7%</span>/ <span class="tsw_q4">9%</span>/ <span class="tsw_q5">12,5%</span>/ <span class="tsw_q6">15%</span> Ihrer Maximalgesundheit geheilt. Das kann höchstens alle 20 Sekunden eintreten.
+	
+		</td></tr>
+	<tr> <td colspan="2"> <hr class="tsw_tooltip_hr"> </td> </tr>
+	<tr>  
+	<td>Um diese Augmentierung einzustellen, platzieren Sie sie bitte im Fertigungsfenster, und zwar zusammen mit:
+	 <ul>
+	<li>4 Eingestellter Robuster Augmentierungsresonator</li>
+	<li>60 Reiner Staub</li>
+	<li>60 Reines Wasser</li>
+	</ul> 
+	</td></tr>
+	
+	</table>
+	]]>
+	</tooltip></tswitem>
+
+
+
