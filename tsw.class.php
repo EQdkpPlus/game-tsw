@@ -26,7 +26,7 @@ if ( !defined('EQDKP_INC') ){
 if(!class_exists('tsw')) {
 	class tsw extends game_generic {
 		protected static $apiLevel	= 20;
-		public $version				= '2.1.6';
+		public $version				= '2.1.7';
 		protected $this_game		= 'tsw';
 		public $author				= "Inkraja";
 		public $types				= array('races', 'classes', 'classes_big', 'events', 'roles');
@@ -73,10 +73,10 @@ if(!class_exists('tsw')) {
 	public function profilefields(){
 			$xml_fields = array(
 				'pvp'	=> array(
-					'type'			=> 'dropdown',
+					'type'			=> 'multiselect',
 					'category'		=> 'misc',
 					'lang'			=> 'uc_pvp',
-					'options'		=> array('unknown' => 'uc_unknown', 'Battlegroup A' => 'uc_BG_A', 'Battlegroup B' => 'uc_BG_B'),
+					'options'		=> array('Eldorado' => 'uc_ED','Stonehenge' => 'uc_SH','Fusang Battlegroup A' => 'uc_BG_A', 'Fusang Battlegroup B' => 'uc_BG_B'),
 					'undeletable'	=> true,
 					'tolang'		=> true
 				),
@@ -103,6 +103,23 @@ if(!class_exists('tsw')) {
 					'min'			=> 1,
 					'undeletable'	=> true,
 					'sort'			=> 4
+				),
+				'testlive'	=> array(
+					'type'			=> 'radio',
+					'category'		=> 'misc',
+					'lang'			=> 'uc_testlive',
+					'options'		=> array(0 => 'uc_no', 1 => 'uc_yes'),
+					'undeletable'	=> true,
+					'tolang'		=> true
+				),
+				'wings'	=> array(
+					'type'			=> 'dropdown',
+					'category'		=> 'character',
+					'lang'			=> 'uc_wings',
+					'image'			=> "games/tsw/icons/races/{VALUE}.png",
+					'options'		=> array('nowings' => 'uc_nowings', 'blue' => 'uc_blue', 'gold' => 'uc_gold','purple' => 'uc_purple'),
+					'undeletable'	=> true,
+					'tolang'		=> true
 				),
 				
 			);
@@ -154,7 +171,7 @@ if(!class_exists('tsw')) {
 			$arrEventIDs = array();
 			$arrEventIDs[] = $this->game->addEvent($this->glang('ny_raid'), 0, "86.png");
 			$arrEventIDs[] = $this->game->addEvent($this->glang('eidolon'), 0, "87.png");
-			$arrEventIDs[] = $this->game->addEvent($this->glang('tokio'), 0, "93.png");
+			$arrEventIDs[] = $this->game->addEvent($this->glang('flappy'), 0, "98.png");
 
 			$intItempoolID = $this->game->addItempool("TSW", "TSW Itempool");
 
@@ -177,6 +194,19 @@ if(!class_exists('tsw')) {
 
 			$this->game->removeLink("TSW Forum");
 			$this->game->removeLink("TSW TestServer Forum");
+		}
+	/**
+	 * Per game data for the calendar Tooltip
+	*/
+		public function calendar_membertooltip($memberid){
+			return array(
+				$this->game->glang('uc_wings').': '.$this->pdh->geth('member', 'profile_field', array($memberid, 'wings', true)),				
+				// Remove /**/ for active Tooltip 
+			
+				/*$this->game->glang('uc_pvp').': '.$this->pdh->geth('member', 'profile_field', array($memberid, 'pvp', true)),*/
+			
+
+			);
 		}
 		//Guildbank
 		public function guildbank_money(){
