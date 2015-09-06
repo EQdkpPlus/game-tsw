@@ -60,19 +60,25 @@ $french_array = array(
 		'uc_yes'					=> 'Oui',
 		'uc_no'						=> 'Non',
 		'uc_unknown'				=> 'inconnu',
+		'uc_ED'						=> 'Eldorado',
+		'uc_SH'						=> 'Stonehenge',
 		'uc_BG'						=> 'Battlegroup',
-		'uc_BG_A'					=> 'Battlegroup A',
-		'uc_BG_B'					=> 'Battlegroup B',
+		'uc_BG_A'					=> 'Fusang BG-A',
+		'uc_BG_B'					=> 'Fusang BG-B',
 		'uc_guild'					=> 'guilde',
 		'uc_level'					=> 'Score de l’équipement',
+		'uc_testlive'				=> 'Accès à  Testlive',
+		'uc_wings'					=> 'Wing Couleur',
+		'uc_blue'					=> 'Bleu',
+		'uc_gold'					=> 'Doré',
+		'uc_purple'					=> 'violet',				
+		'uc_nowings'				=> 'aucun',
 		
 		//Event
 		'eidolon'					=> 'Eidolon',
 		'ny_raid'					=> 'New York',
-		'tokio'						=> 'Tokio',
-
+		'flappy'					=> 'Flappy',
 		
-
 		// Admin Settings
 		'core_sett_fs_gamesettings'		=> 'The Secret World paramètres',
 		
@@ -90,7 +96,6 @@ $french_array = array(
 		'Token-Items'				=> 'Jeton-objets', 
 		'Material'					=> 'Matériel', 
 		'Others'					=> 'Divers',
-
 	),
 );
 

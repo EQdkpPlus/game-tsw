@@ -45,6 +45,7 @@ $german_array = array(
 		4	=> 'Add Controller',
 		5	=> 'Podder',
 		),
+	
 	'lang' => array(
 		'tsw'							=> 'The Secret World',
 		'uc_race'						=> 'Fraktion',
@@ -53,24 +54,35 @@ $german_array = array(
 
 		// Profile information
 		'uc_cat_misc'				=> 'Sonstiges',
-		'uc_pvp'					=> 'Fusang Battlegroup',
+		'uc_pvp'					=> 'PVP Spielfeld',
 		'uc_pvp_help'				=> 'Battlegroup ist Servergebunden',
 		'uc_RP'						=> 'Rollenspieler',
 		'uc_RP_help'				=> '',
 		'uc_yes'					=> 'Ja',
 		'uc_no'						=> 'Nein',
 		'uc_unknown'				=> 'unbekannt',
+		'uc_ED'						=> 'Eldorado',
+		'uc_SH'						=> 'Stonehenge',
 		'uc_BG'						=> 'Battlegroup',
-		'uc_BG_A'					=> 'Battlegroup A',
-		'uc_BG_B'					=> 'Battlegroup B',
+		'uc_BG_A'					=> 'Fusang BG-A',
+		'uc_BG_B'					=> 'Fusang BG-B',
 		'uc_guild'					=> 'Gilde',
 		'uc_level'					=> 'Ausrüstungswert',
+		'uc_testlive'				=> 'Zugang zu Testlive',
+		'uc_wings'					=> 'Flügelfarbe',
+		'uc_blue'					=> 'Blau',
+		'uc_gold'					=> 'Golden',
+		'uc_purple'					=> 'Purple',				
+		'uc_nowings'				=> 'keine',
 		
 		//Event
 		'eidolon'					=> 'Eidolon',
 		'ny_raid'					=> 'New York',
-		'tokio'						=> 'Tokio',
-
+		'flappy'					=> 'Flappy',
+		
+		// Admin Settings
+		'core_sett_fs_gamesettings'		=> 'The Secret World Einstellungen',
+		
 		//Guildbank
 		'Heroic' 					=> 'Heroisch', 
 		'Epic'						=> 'Episch', 
@@ -85,11 +97,6 @@ $german_array = array(
 		'Token-Items'				=> 'Token-Gegenstände', 
 		'Material'					=> 'Materialien', 
 		'Others'					=> 'Sonstiges',
-
-
-		// Admin Settings
-		'core_sett_fs_gamesettings'		=> 'The Secret World Einstellungen',
-
 	),
 );
 
