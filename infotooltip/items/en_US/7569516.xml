@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <tswitem>
-<itemid>7894446</itemid>
-<name>Auxiliary upgrade toolkit</name>
-<iconpath>7894446</iconpath>
+<itemid>7569516</itemid>
+<name>Custom weapon upgrade toolkit</name>
+<iconpath>7569516</iconpath>
 <quality>5</quality>
 
 
@@ -10,7 +10,7 @@
 
 <table width="100%"> 
 	<tr> 
-		<td align="left" class="tsw_tooltiptitle tsw_q;QL_VALUE;" colspan="2">Auxiliary upgrade toolkit</td> </tr>
+		<td align="left" class="tsw_tooltiptitle tsw_q;QL_VALUE;" colspan="2">Custom weapon upgrade toolkit </td> </tr>
 	<tr> 
 		<td align="left" class="tsw_infolabel" colspan="2">Assembly Component (QL 10 Epic)</td> </tr> 
 	<tr> 
@@ -19,7 +19,7 @@
 		<td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
 		</tr> 
 		<tr>
-		<td align="left" class="tsw_infolabel" colspan="2">Used to upgrade an auxiliary weapon.
+		<td align="left" class="tsw_infolabel" colspan="2">Used to upgrade QL 10.0 through QL 10.4 custom weapons. Upgrading a 10.4 custom weapon requires a Criterion Upgrade. 
 	</td></tr>
 
 	
