@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>		
 <tswitem>		
-<itemid>9121904</itemid>		
-<name>Advanced Kickback - Hit - Hit</name>		
-<iconpath>9121904</iconpath>		
+<itemid>9122197</itemid>		
+<name>Advanced Kickback - Evade - Pen</name>		
+<iconpath>9122191</iconpath>		
 <quality>5</quality>		
 		
 		
@@ -10,7 +10,7 @@
 		
 <table width="100%"> 		
 	<tr> 	
-		<td align="left" class="tsw_tooltiptitle tsw_q;QL_VALUE;" colspan="2">Advanced Kickback - Hit - Hit</td> </tr>
+		<td align="left" class="tsw_tooltiptitle tsw_q;QL_VALUE;" colspan="2">Advanced Kickback - Evade - Pen</td> </tr>
 	<tr> 	
 		<td align="left" class="tsw_infolabel" colspan="2">Gadget (QL 10 Epic)</td> </tr> 
 	<tr> 	
@@ -19,7 +19,7 @@
 		<td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
 		</tr> 
 	<tr>	
-		<td align="left" class="tsw_infolabel" colspan="2"><font color='#FFC600'>Kickback:</font> For <font color='#FF6600'>20</font> seconds, whenever you hit you have a <font color='#FF6600'>30%</font> chance to gain <font color='#FF6600'>464</font> Hit Rating for <font color='#FF6600'>4</font> seconds.
+		<td align="left" class="tsw_infolabel" colspan="2"><font color='#FFC600'>Kickback:</font> For <font color='#FF6600'>20</font> seconds, whenever you evade an attack you gain <font color='#FF6600'>695</font> Penetration Rating for <font color='#FF6600'>4</font> seconds.
 
 Applies a <font color='#FF6600'>2</font> minute cooldown to all Kickbacks.
 		

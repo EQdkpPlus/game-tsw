@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>		
 <tswitem>		
-<itemid>9121904</itemid>		
-<name>Verbesserter Gegenschlag - Treffen - Trefferwert</name>		
+<itemid>9121917</itemid>		
+<name>Verbesserter Gegenschlag - Treffen - Verteidigungswert</name>		
 <iconpath>9121904</iconpath>		
 <quality>5</quality>		
 		
@@ -10,7 +10,7 @@
 		
 <table width="100%"> 		
 	<tr> 	
-		<td align="left" class="tsw_tooltiptitle tsw_q;QL_VALUE;" colspan="2">Verbesserter Gegenschlag - Treffen - Trefferwert</td> </tr>
+		<td align="left" class="tsw_tooltiptitle tsw_q;QL_VALUE;" colspan="2">Verbesserter Gegenschlag - Treffen - Verteidigungswert</td> </tr>
 	<tr> 	
 		<td align="left" class="tsw_infolabel" colspan="2">Gadget (QS 10 Episch)</td> </tr> 
 	<tr> 	
@@ -19,7 +19,7 @@
 		<td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
 		</tr> 
 	<tr>	
-		<td align="left" class="tsw_infolabel" colspan="2"><font color='#FFC600'>Gegenschlag:</font> <font color='#FF6600'>20</font> Sekunden lang besteht bei jedem Ihrer Treffer eine Chance von <font color='#FF6600'>30 %</font>, <font color='#FF6600'>4</font> Sekunden lang <font color='#FF6600'>464</font> Trefferwert zu erhalten.
+		<td align="left" class="tsw_infolabel" colspan="2"><font color='#FFC600'>Gegenschlag:</font> <font color='#FF6600'>20</font> Sekunden lang besteht bei jedem Ihrer Treffer eine Chance von <font color='#FF6600'>30 %</font>, <font color='#FF6600'>4</font> Sekunden lang <font color='#FF6600'>464</font> Verteidigungswert zu erhalten.
 
 Belegt alle Gegenschläge mit <font color='#FF6600'>2</font> Minuten Abklingzeit.
 		
