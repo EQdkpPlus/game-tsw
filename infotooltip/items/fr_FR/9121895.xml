@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>		
+<tswitem>		
+<itemid>9121895</itemid>		
+<name>Stimulant avancé - Pénétration</name>		
+<iconpath>9121895</iconpath>		
+<quality>5</quality>		
+		
+		
+<tooltip><![CDATA[		
+		
+<table width="100%"> 		
+	<tr> 	
+		<td align="left" class="tsw_tooltiptitle tsw_q;QL_VALUE;" colspan="2">Stimulant avancé - Pénétration</td> </tr>
+	<tr> 	
+		<td align="left" class="tsw_infolabel" colspan="2">Gadget (NQ 10 Épique)</td> </tr> 
+	<tr> 	
+		<td align="left" class="tsw_infolabel_slot" colspan="2">Lié au personnage</td> </tr>  
+	<tr> 	
+		<td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+		</tr> 
+	<tr>	
+		<td align="left" class="tsw_infolabel" colspan="2"><font color='#FFC600'>Stimulant :</font> ajoute <font color='#FF6600'>312</font> à la valeur de pénétration pendant <font color='#FF6600'>20</font> secondes.
+
+Applique un cycle de <font color='#FF6600'>2</font> minutes à tous les stimulants.
+		
+	</td></tr>	
+		
+		
+		
+</table>		
+]]>		
+</tooltip></tswitem>		
