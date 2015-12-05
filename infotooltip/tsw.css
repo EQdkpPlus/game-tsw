@@ -16,6 +16,7 @@
 .tsw_infolabel a:hover	{ text-decoration:underline;text-decoration:none;color: #c5bfb6;font-family:Verdana, Helvetica, Arial, sans-serif;font-size:11px;line-height:14px; }
 
 .tsw_infolabel_hl 		{ width: 40px !important; color: #ffc600;font-family:Verdana, Helvetica, Arial, sans-serif;font-size:11px;line-height:14px; text-align:center }
+.tsw_infolabel i 		{ text-decoration: underline; font-style:italic; font-size:12px;}
 
 .tsw_infolabel_slot 		{ color: #b2b2b2;font-family:Verdana, Helvetica, Arial, sans-serif;font-size:11px;line-height:14px; }
 

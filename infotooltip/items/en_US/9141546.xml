@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tswitem>
+<itemid>9141546</itemid>
+<name>Yellow Pigment of Leng</name>
+<iconpath>9141546</iconpath>
+<quality>5</quality>
+
+
+<tooltip><![CDATA[
+
+<table width="100%"> 
+	<tr> 	
+<td align="left" class="tsw_tooltiptitle tsw_q;QL_VALUE;" colspan="2">Yellow Pigment of Leng</td> </tr>
+	<tr> 	
+<td align="left" class="tsw_infolabel" colspan="2">Head Talisman(QL 10.9 Epic)</td> </tr> 
+	<tr> 	
+<td align="left" class="tsw_infolabel_slot" colspan="2">Character Bound</td> </tr>  
+	<tr> 	<td colspan="2"> <hr class="tsw_tooltip_hr"> </td><tr>
+	<tr> 	<td align="left" width="5%" class="tsw_infolabel_hl"><font color='#FFC600'>+3021</font> </td><td align="left" class="tsw_infolabel">Health </td> </tr>  
+
+	<tr> 	<td colspan="2"> <hr class="tsw_tooltip_hr"> </td><tr>
+	<tr>	
+<td align="left" class="tsw_infolabel" colspan="2">Whenever you are attacked, you have a <font color='#FF6600'>5%</font> chance to gain a beneficial effect that reduces damage received from penetrating attacks for <font color='#FF6600'>15</font> seconds. The duration of this effect is not refreshed when reapplied.
+
+	</td></tr>	
+	<tr> 	<td colspan="3"> <hr class="tsw_tooltip_hr"> </td><tr>
+	<tr>  	<td align="right" class="tsw_item_manastone"></td> 
+ <td align="left" class="tsw_infolabel_slot">leerer Glyphen Slot </td></tr>  
+</table>
+]]>
+</tooltip></tswitem>

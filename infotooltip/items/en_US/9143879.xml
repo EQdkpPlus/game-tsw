@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tswitem>
+<itemid>9143879</itemid>
+<name>Brace of the Ghoul King</name>
+<iconpath>9143879</iconpath>
+<quality>5</quality>
+
+
+<tooltip><![CDATA[
+
+<table width="100%"> 
+	<tr> 	
+<td align="left" class="tsw_tooltiptitle tsw_q;QL_VALUE;" colspan="2">Brace of the Ghoul King</td> </tr>
+	<tr> 	
+<td align="left" class="tsw_infolabel" colspan="2">Wrist Talisman (QL 10.9 Epic)</td> </tr> 
+	<tr> 	
+<td align="left" class="tsw_infolabel_slot" colspan="2">Character Bound</td> </tr>  
+	<tr> 	<td colspan="2"> <hr class="tsw_tooltip_hr"> </td><tr>
+	<tr> 	<td align="left" width="5%" class="tsw_infolabel_hl"><font color='#FFC600'>+972</font> </td><td align="left" class="tsw_infolabel">Heal Raiting </td> </tr>  
+
+	<tr> 	<td colspan="2"> <hr class="tsw_tooltip_hr"> </td><tr>
+	<tr>	
+<td align="left" class="tsw_infolabel" colspan="2">Whenever you heal an ally, you have a <font color='#FF6600'>5%</font> chance to create a beneficial area on the ground. Allies who stand in this area gain a beneficial effect which increases damage dealt by <font color='#FF6600'>10%</font>.
+
+	</td></tr>	
+	<tr> 	<td colspan="3"> <hr class="tsw_tooltip_hr"> </td><tr>
+	<tr>  	<td align="right" class="tsw_item_manastone"></td> 
+ <td align="left" class="tsw_infolabel_slot">leerer Glyphen Slot </td></tr>  
+</table>
+]]>
+</tooltip></tswitem>

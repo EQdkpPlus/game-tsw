@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>		
+<tswitem>		
+<itemid>9141546</itemid>		
+<name>Gelbes Pigment von Leng</name>		
+<iconpath>9141546</iconpath>		
+<quality>5</quality>		
+		
+		
+<tooltip><![CDATA[		
+		
+<table width="100%"> 		
+	<tr> 	
+		<td align="left" class="tsw_tooltiptitle tsw_q;QL_VALUE;" colspan="2">Gelbes Pigment von Leng</td> </tr>
+	<tr> 	
+		<td align="left" class="tsw_infolabel" colspan="2">Kopftalisman (QS 10.9 Episch)</td> </tr> 
+	<tr> 	
+		<td align="left" class="tsw_infolabel_slot" colspan="2">Charaktergebunden</td> </tr>  
+	<tr> 	<td colspan="2"> <hr class="tsw_tooltip_hr"> </td><tr>
+	<tr> 	<td align="left" width="5%" class="tsw_infolabel_hl"><font color='#FFC600'>+3021</font> </td><td align="left" class="tsw_infolabel">Gesundheit </td> </tr>  
+		
+	<tr> 	<td colspan="2"> <hr class="tsw_tooltip_hr"> </td><tr>
+	<tr>	
+		<td align="left" class="tsw_infolabel" colspan="2">Immer wenn Sie angegriffen werden, besteht eine Chance von <font color='#FF6600'>5%</font>, einen positiven Effekt zu erhalten, der den von durchdringenden Treffern erlittenen Schaden verringert, und zwar <font color='#FF6600'>15</font> Sekunden lang. Die Dauer dieses Effekts wird bei erneutem Wirken nicht aufgefrischt.
+		
+	</td></tr>	
+	<tr> 	<td colspan="3"> <hr class="tsw_tooltip_hr"> </td><tr>
+	<tr>  	<td align="right" class="tsw_item_manastone"></td> 
+		 <td align="left" class="tsw_infolabel_slot">leerer Glyphen Slot </td></tr>  
+</table>		
+]]>		
+</tooltip></tswitem>		

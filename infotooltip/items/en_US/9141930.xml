@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tswitem>
+<itemid>9141930</itemid>
+<name>Brown Jenkins's Collar</name>
+<iconpath>9141930</iconpath>
+<quality>5</quality>
+
+
+<tooltip><![CDATA[
+
+<table width="100%"> 
+	<tr> 	
+<td align="left" class="tsw_tooltiptitle tsw_q;QL_VALUE;" colspan="2">Brown Jenkins's Collar</td> </tr>
+	<tr> 	
+<td align="left" class="tsw_infolabel" colspan="2">Neck Talisman(QL 10.9 Epic)</td> </tr> 
+	<tr> 	
+<td align="left" class="tsw_infolabel_slot" colspan="2">Character Bound</td> </tr>  
+	<tr> 	<td colspan="2"> <hr class="tsw_tooltip_hr"> </td><tr>
+	<tr> 	<td align="left" width="5%" class="tsw_infolabel_hl"><font color='#FFC600'>+2728</font> </td><td align="left" class="tsw_infolabel">Health </td> </tr>  
+
+	<tr> 	<td colspan="2"> <hr class="tsw_tooltip_hr"> </td><tr>
+	<tr>	
+<td align="left" class="tsw_infolabel" colspan="2">Whenever you evade an attack, you gain a beneficial effect that increases the Critical Chance of your attacks by <font color='#FF6600'>100%</font> for <font color='#FF6600'>1.5</font> seconds. The duration of this effect is not refreshed when reapplied.
+
+	</td></tr>	
+	<tr> 	<td colspan="3"> <hr class="tsw_tooltip_hr"> </td><tr>
+	<tr>  	<td align="right" class="tsw_item_manastone"></td> 
+ <td align="left" class="tsw_infolabel_slot">leerer Glyphen Slot </td></tr>  
+</table>
+]]>
+</tooltip></tswitem>

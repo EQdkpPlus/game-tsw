@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>		
+<tswitem>		
+<itemid>9135293</itemid>		
+<name>NY-Schnalle</name>		
+<iconpath>100010</iconpath>		
+<quality>5</quality>		
+		
+		
+<tooltip><![CDATA[		
+		
+<table width="100%"> 		
+	<tr> 	
+		<td align="left" class="tsw_tooltiptitle tsw_q;QL_VALUE;" colspan="2">NY-Schnalle</td> </tr>
+	<tr> 	
+		<td align="left" class="tsw_infolabel" colspan="2">Bauchtalisman (QS 10.9 Episch)</td> </tr> 
+	<tr> 	
+		<td align="left" class="tsw_infolabel_slot" colspan="2">Charaktergebunden</td> </tr>  
+	<tr> 	<td colspan="2"> <hr class="tsw_tooltip_hr"> </td><tr>
+	<tr> 	<td align="left" width="5%" class="tsw_infolabel_hl"><font color='#FFC600'>+1754</font> </td><td align="left" class="tsw_infolabel">Gesundheit </td> </tr>  
+		
+	<tr> 	<td colspan="2"> <hr class="tsw_tooltip_hr"> </td><tr>
+	<tr>	
+		<td align="left" class="tsw_infolabel" colspan="2">Alle <font color='#FF6600'>6</font> Sekunden erhalten Sie einen Stapel eines positiven Effekts, der Ihren Körperlichen und Magischen Schutz um <font color='#FF6600'>6%</font> pro Stapel erhöht. Dieser Effekt wird entfernt, wenn Sie einen durchdringenden Treffer erleiden oder die Anzahl der Stapel <font color='#FF6600'>10</font> übersteigt.
+		
+	</td></tr>	
+	<tr> 	<td colspan="3"> <hr class="tsw_tooltip_hr"> </td><tr>
+	<tr>  	<td align="right" class="tsw_item_manastone"></td> 
+		 <td align="left" class="tsw_infolabel_slot">leerer Glyphen Slot </td></tr>  
+</table>		
+]]>		
+</tooltip></tswitem>		

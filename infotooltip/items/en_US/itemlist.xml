@@ -41,8 +41,6 @@
 <tswitem id="8131223" name="Bauble of Baleful Wormfire" quality="5"/>
 <tswitem id="8131224" name="Mask of Chaos Crawling" quality="5"/>
 <tswitem id="7894446" name="Auxiliary upgrade toolkit" quality="5"/>
-
-
 <tswitem id="200001" name="Signet of Amelioration" quality="7"/>
 <tswitem id="200002" name="Signet of Violence" quality="7"/>
 <tswitem id="200003" name="Signet of Vigour" quality="7"/>
@@ -396,4 +394,24 @@
 <tswitem id="9122334" name="Carapace of the Immaculate Machine - Plated leggings, white" quality="5"/>
 <tswitem id="9122339" name="Carapace of the Immaculate Machine - Helmet, white" quality="5"/>
 
+<tswitem id="9121762" name="Carapace of the Immaculate Machine - Boots, black" quality="5"/>
+<tswitem id="9121766" name="Carapace of the Immaculate Machine - Chestguard black" quality="5"/>
+<tswitem id="9121770" name="Carapace of the Immaculate Machine - Gauntlets black" quality="5"/>
+<tswitem id="9121774" name="Carapace of the Immaculate Machine - Plated leggings black" quality="5"/>
+<tswitem id="9121778" name="Carapace of the Immaculate Machine - Helmet black" quality="5"/>
+<tswitem id="9135291" name="Broadway Charm nm" quality="5"/>
+<tswitem id="9135292" name="Subway Tokens nm" quality="5"/>
+<tswitem id="9135293" name="NY Buckle nm" quality="5"/>
+<tswitem id="9141546" name="Yellow Pigment of Leng" quality="5"/>
+<tswitem id="9141548" name="Essential Saltes of Joseph Curwen" quality="5"/>
+<tswitem id="9141549" name="Ichor of the Outer Gods" quality="5"/>
+<tswitem id="9141635" name="Bracer of Celephias" quality="5"/>
+<tswitem id="9141636" name="Band of Dis" quality="5"/>
+<tswitem id="9141916" name="Architeuthis Vitreous Humor" quality="5"/>
+<tswitem id="9141930" name="Brown Jenkins's Collar" quality="5"/>
+<tswitem id="9141932" name="Amulet of Yuggoth" quality="5"/>
+<tswitem id="9142125" name="Dust of the Black Pharaoh" quality="5"/>
+<tswitem id="9142195" name="Keziah Mason's Ring" quality="5"/>
+<tswitem id="9142485" name="Blood of the Deep One King" quality="5"/>
+<tswitem id="9143879" name="Brace of the Ghoul King" quality="5"/>
 </list>

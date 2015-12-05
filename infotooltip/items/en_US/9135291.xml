@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tswitem>
+<itemid>9135291</itemid>
+<name>Broadway Charm</name>
+<iconpath>100011</iconpath>
+<quality>5</quality>
+
+
+<tooltip><![CDATA[
+
+<table width="100%"> 
+	<tr> 	
+<td align="left" class="tsw_tooltiptitle tsw_q;QL_VALUE;" colspan="2">Broadway Charm</td> </tr>
+	<tr> 	
+<td align="left" class="tsw_infolabel" colspan="2">Occult Talisman (QL 10.9 Epic)</td> </tr> 
+	<tr> 	
+<td align="left" class="tsw_infolabel_slot" colspan="2">Character Bound</td> </tr>  
+	<tr> 	<td colspan="2"> <hr class="tsw_tooltip_hr"> </td><tr>
+	<tr> 	<td align="left" width="5%" class="tsw_infolabel_hl"><font color='#FFC600'>+625</font> </td><td align="left" class="tsw_infolabel">Attack Raiting </td> </tr>  
+
+	<tr> 	<td colspan="2"> <hr class="tsw_tooltip_hr"> </td><tr>
+	<tr>	
+<td align="left" class="tsw_infolabel" colspan="2">Whenever you heal a target that is below <font color='#FF6600'>66%</font> of their health, there is a <font color='#FF6600'>33%</font> chance that you will also give them a beneficial effect that increases their Physical and Magical Protection by <font color='#FF6600'>400</font> for <font color='#FF6600'>10</font> seconds.
+
+	</td></tr>	
+	<tr> 	<td colspan="3"> <hr class="tsw_tooltip_hr"> </td><tr>
+	<tr>  	<td align="right" class="tsw_item_manastone"></td> 
+ <td align="left" class="tsw_infolabel_slot">leerer Glyphen Slot </td></tr>  
+</table>
+]]>
+</tooltip></tswitem>
