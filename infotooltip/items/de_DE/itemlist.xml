@@ -326,5 +326,93 @@
 <tswitem id="8258765" name="Durchbohrender Augmentierungsresonator" quality="4"/>
 <tswitem id="8258770" name="Brutaler Augmentierungsresonator" quality="4"/>
 <tswitem id="8258569" name="Exakter Augmentierungsresonator" quality="3"/>
+<tswitem id="9121717" name="Der leuchtende Trapezoeder" quality="6"/>
+<tswitem id="7569516" name="Upgrade-Werkzeugsatz für individuelle Waffen" quality="5"/>
+<tswitem id="7569537" name="Upgrade-Werkzeugsatz für individuelle Talismane" quality="5"/>
+<tswitem id="8391478" name="Albino-Welpe des Herrn der Draugs" quality="5"/>
+<tswitem id="9121904" name="Verbesserter Gegenschlag - Treffen - Trefferwert" quality="5"/>
+<tswitem id="9121908" name="Verbesserter Gegenschlag - Treffen - Blockwert" quality="5"/>
+<tswitem id="9121911" name="Verbesserter Gegenschlag - Treffen - Kritscher Trefferwert" quality="5"/>
+<tswitem id="9121914" name="Verbesserter Gegenschlag - Treffen - Kritischer Treffer-Kraftwert" quality="5"/>
+<tswitem id="9121917" name="Verbesserter Gegenschlag - Treffen - Verteidigungswert" quality="5"/>
+<tswitem id="9121920" name="Verbesserter Gegenschlag - Treffen - Ausweichwert" quality="5"/>
+<tswitem id="9121925" name="Verbesserter Gegenschlag - Treffen - Schutz" quality="5"/>
+<tswitem id="9121928" name="Verbesserter Gegenschlag - Treffen - Durchdringungswert" quality="5"/>
+<tswitem id="9121931" name="Verbesserter Gegenschlag - Block - Trefferwert" quality="5"/>
+<tswitem id="9121935" name="Verbesserter Gegenschlag - Block - Blockwert" quality="5"/>
+<tswitem id="9121949" name="Verbesserter Gegenschlag - Block - Kritscher Trefferwert" quality="5"/>
+<tswitem id="9121952" name="Verbesserter Gegenschlag - Block - Kritischer Treffer-Kraftwert" quality="5"/>
+<tswitem id="9121961" name="Verbesserter Gegenschlag - Block - Verteidigungswert" quality="5"/>
+<tswitem id="9121965" name="Verbesserter Gegenschlag - Block - Ausweichwert" quality="5"/>
+<tswitem id="9121969" name="Verbesserter Gegenschlag - Block - Schutz" quality="5"/>
+<tswitem id="9121973" name="Verbesserter Gegenschlag - Block - Durchdringungswert" quality="5"/>
+<tswitem id="9121977" name="Verbesserter Gegenschlag - Kritischer Treffer - Trefferwert" quality="5"/>
+<tswitem id="9121980" name="Verbesserter Gegenschlag - Kritischer Treffer - Blockwert" quality="5"/>
+<tswitem id="9121983" name="Verbesserter Gegenschlag - Kritischer Treffer - Kritscher Trefferwert" quality="5"/>
+<tswitem id="9121988" name="Verbesserter Gegenschlag - Kritischer Treffer - Kritischer Treffer-Kraftwert" quality="5"/>
+<tswitem id="9121991" name="Verbesserter Gegenschlag - Kritischer Treffer - Verteidigungswert" quality="5"/>
+<tswitem id="9121994" name="Verbesserter Gegenschlag - Kritischer Treffer - Ausweichwert" quality="5"/>
+<tswitem id="9121998" name="Verbesserter Gegenschlag - Kritischer Treffer - Schutz" quality="5"/>
+<tswitem id="9122001" name="Verbesserter Gegenschlag - Kritischer Treffer - Durchdringungswert" quality="5"/>
+<tswitem id="9122010" name="Verbesserter Gegenschlag - Verteidigung - Trefferwert" quality="5"/>
+<tswitem id="9122013" name="Verbesserter Gegenschlag - Verteidigung - Blockwert" quality="5"/>
+<tswitem id="9122017" name="Verbesserter Gegenschlag - Verteidigung - Kritscher Trefferwert" quality="5"/>
+<tswitem id="9122020" name="Verbesserter Gegenschlag - Verteidigung - Kritischer Treffer-Kraftwert" quality="5"/>
+<tswitem id="9122023" name="Verbesserter Gegenschlag - Verteidigung - Verteidigungswert" quality="5"/>
+<tswitem id="9122047" name="Verbesserter Gegenschlag - Verteidigung - Ausweichwert" quality="5"/>
+<tswitem id="9122050" name="Verbesserter Gegenschlag - Verteidigung - Schutz" quality="5"/>
+<tswitem id="9122053" name="Verbesserter Gegenschlag - Verteidigung - Durchdringungswert" quality="5"/>
+<tswitem id="9122176" name="Verbesserter Gegenschlag - Ausweichen - Trefferwert" quality="5"/>
+<tswitem id="9122179" name="Verbesserter Gegenschlag - Ausweichen - Blockwert" quality="5"/>
+<tswitem id="9122182" name="Verbesserter Gegenschlag - Ausweichen - Kritscher Trefferwert" quality="5"/>
+<tswitem id="9122185" name="Verbesserter Gegenschlag - Ausweichen - Kritischer Treffer-Kraftwert" quality="5"/>
+<tswitem id="9122188" name="Verbesserter Gegenschlag - Ausweichen - Verteidigungswert" quality="5"/>
+<tswitem id="9122191" name="Verbesserter Gegenschlag - Ausweichen - Ausweichwert" quality="5"/>
+<tswitem id="9122194" name="Verbesserter Gegenschlag - Ausweichen - Schutz" quality="5"/>
+<tswitem id="9122197" name="Verbesserter Gegenschlag - Ausweichen - Durchdringungswert" quality="5"/>
+<tswitem id="9122200" name="Verbesserter Gegenschlag - Durchdringung - Trefferwert" quality="5"/>
+<tswitem id="9122203" name="Verbesserter Gegenschlag - Durchdringung - Blockwert" quality="5"/>
+<tswitem id="9122206" name="Verbesserter Gegenschlag - Durchdringung - Kritscher Trefferwert" quality="5"/>
+<tswitem id="9122209" name="Verbesserter Gegenschlag - Durchdringung - Kritischer Treffer-Kraftwert" quality="5"/>
+<tswitem id="9122212" name="Verbesserter Gegenschlag - Durchdringung - Verteidigungswert" quality="5"/>
+<tswitem id="9122215" name="Verbesserter Gegenschlag - Durchdringung - Ausweichwert" quality="5"/>
+<tswitem id="9122218" name="Verbesserter Gegenschlag - Durchdringung - Schutz" quality="5"/>
+<tswitem id="9122221" name="Verbesserter Gegenschlag - Durchdringung - Durchdringungswert" quality="5"/>
+<tswitem id="9121859" name="Verbessertes Stimulans - Heilung" quality="5"/>
+<tswitem id="9121861" name="Verbessertes Stimulans - Blocken" quality="5"/>
+<tswitem id="9121863" name="Verbessertes Stimulans - Kritischer Treffer" quality="5"/>
+<tswitem id="9121865" name="Verbessertes Stimulans - Kritischer Treffer-Kraftwert" quality="5"/>
+<tswitem id="9121871" name="Verbessertes Stimulans - Angriff" quality="5"/>
+<tswitem id="9121873" name="Verbessertes Stimulans - Verteidigung" quality="5"/>
+<tswitem id="9121875" name="Verbessertes Stimulans - Ausweichen" quality="5"/>
+<tswitem id="9121877" name="Verbessertes Stimulans - Gesundheit" quality="5"/>
+<tswitem id="9121891" name="Verbessertes Stimulans - Treffen" quality="5"/>
+<tswitem id="9121893" name="Verbessertes Stimulans - Schutz" quality="5"/>
+<tswitem id="9121895" name="Verbessertes Stimulans - Durchdringung" quality="5"/>
+<tswitem id="9122323" name="Rückenschild der unbefleckten Maschine - Stiefel, weiß" quality="5"/>
+<tswitem id="9122325" name="Rückenschild der unbefleckten Maschine - Brustpanzer, weiß" quality="5"/>
+<tswitem id="9122332" name="Rückenschild der unbefleckten Maschine - Panzerhandschuhe, weiß" quality="5"/>
+<tswitem id="9122334" name="Rückenschild der unbefleckten Maschine - Metallbeinschienen, weiß" quality="5"/>
+<tswitem id="9122339" name="Rückenschild der unbefleckten Maschine - Helm, weiß" quality="5"/>
 
+<tswitem id="9121762" name="Rückenschild der unbefleckten Maschine - Stiefel, schwarz" quality="5"/>
+<tswitem id="9121766" name="Rückenschild der unbefleckten Maschine - Brustpanzer, schwarz" quality="5"/>
+<tswitem id="9121770" name="Rückenschild der unbefleckten Maschine - Panzerhandschuhe, schwarz" quality="5"/>
+<tswitem id="9121774" name="Rückenschild der unbefleckten Maschine - Metallbeinschienen, schwarz" quality="5"/>
+<tswitem id="9121778" name="Rückenschild der unbefleckten Maschine - Helm, schwarz" quality="5"/>
+<tswitem id="9135291" name="Broadway-Brosche nm" quality="5"/>
+<tswitem id="9135292" name="U-Bahn-Münzen nm" quality="5"/>
+<tswitem id="9135293" name="NY-Schnalle nm" quality="5"/>
+<tswitem id="9141546" name="Gelbes Pigment von Leng" quality="5"/>
+<tswitem id="9141548" name="Joseph Curwens essentielle Salze" quality="5"/>
+<tswitem id="9141549" name="Sekret der äußeren Götter" quality="5"/>
+<tswitem id="9141635" name="Armschutz von Celephias" quality="5"/>
+<tswitem id="9141636" name="Ring von Dis" quality="5"/>
+<tswitem id="9141916" name="Architeuthis-Vitreous-Sekret" quality="5"/>
+<tswitem id="9141930" name="Brown Jenkins' Kragen" quality="5"/>
+<tswitem id="9141932" name="Amulett von Yuggoth" quality="5"/>
+<tswitem id="9142125" name="Staub des Schwarzen Pharaos" quality="5"/>
+<tswitem id="9142195" name="Keziah Masons Ring" quality="5"/>
+<tswitem id="9142485" name="Blut des Tiefenkönigs" quality="5"/>
+<tswitem id="9143879" name="Armschutz des Ghulkönigs" quality="5"/>
 </list>

@@ -41,8 +41,6 @@
 <tswitem id="8131223" name="Bauble of Baleful Wormfire" quality="5"/>
 <tswitem id="8131224" name="Mask of Chaos Crawling" quality="5"/>
 <tswitem id="7894446" name="Auxiliary upgrade toolkit" quality="5"/>
-
-
 <tswitem id="200001" name="Signet of Amelioration" quality="7"/>
 <tswitem id="200002" name="Signet of Violence" quality="7"/>
 <tswitem id="200003" name="Signet of Vigour" quality="7"/>
@@ -327,6 +325,93 @@
 <tswitem id="8258760" name="Precise Augment Resonator" quality="4"/>
 <tswitem id="8258765" name="Piercing Augment Resonator" quality="4"/>
 <tswitem id="8258770" name="Brutal Augment Resonator" quality="4"/>
+<tswitem id="9121717" name="The Luminous Trapezohedron" quality="6"/>
+<tswitem id="7569516" name="Custom weapon upgrade toolkit" quality="5"/>
+<tswitem id="7569537" name="Custom talisman upgrade toolkit" quality="5"/>
+<tswitem id="8391478" name="Albino Draug Lord Puppy" quality="5"/>
+<tswitem id="9121904" name="Advanced Kickback - Hit - Hit" quality="5"/>
+<tswitem id="9121908" name="Advanced Kickback - Hit - Block" quality="5"/>
+<tswitem id="9121911" name="Advanced Kickback - Hit - Crit" quality="5"/>
+<tswitem id="9121914" name="Advanced Kickback - Hit - Crit Power" quality="5"/>
+<tswitem id="9121917" name="Advanced Kickback - Hit - Defence" quality="5"/>
+<tswitem id="9121920" name="Advanced Kickback - Hit - Evade" quality="5"/>
+<tswitem id="9121925" name="Advanced Kickback - Hit - Protection" quality="5"/>
+<tswitem id="9121928" name="Advanced Kickback - Hit - Pen" quality="5"/>
+<tswitem id="9121931" name="Advanced Kickback - Block - Hit" quality="5"/>
+<tswitem id="9121935" name="Advanced Kickback - Block - Block" quality="5"/>
+<tswitem id="9121949" name="Advanced Kickback - Block - Crit" quality="5"/>
+<tswitem id="9121952" name="Advanced Kickback - Block - Crit Power" quality="5"/>
+<tswitem id="9121961" name="Advanced Kickback - Block - Defence" quality="5"/>
+<tswitem id="9121965" name="Advanced Kickback - Block - Evade" quality="5"/>
+<tswitem id="9121969" name="Advanced Kickback - Block - Protection" quality="5"/>
+<tswitem id="9121973" name="Advanced Kickback - Block - Pen" quality="5"/>
+<tswitem id="9121977" name="Advanced Kickback - Crit - Hit" quality="5"/>
+<tswitem id="9121980" name="Advanced Kickback - Crit - Block" quality="5"/>
+<tswitem id="9121983" name="Advanced Kickback - Crit - Crit" quality="5"/>
+<tswitem id="9121988" name="Advanced Kickback - Crit - Crit Power" quality="5"/>
+<tswitem id="9121991" name="Advanced Kickback - Crit - Defence" quality="5"/>
+<tswitem id="9121994" name="Advanced Kickback - Crit - Evade" quality="5"/>
+<tswitem id="9121998" name="Advanced Kickback - Crit - Protection" quality="5"/>
+<tswitem id="9122001" name="Advanced Kickback - Crit - Pen" quality="5"/>
+<tswitem id="9122010" name="Advanced Kickback - Defence - Hit" quality="5"/>
+<tswitem id="9122013" name="Advanced Kickback - Defence - Block" quality="5"/>
+<tswitem id="9122017" name="Advanced Kickback - Defence - Crit" quality="5"/>
+<tswitem id="9122020" name="Advanced Kickback - Defence - Crit Power" quality="5"/>
+<tswitem id="9122023" name="Advanced Kickback - Defence - Defence" quality="5"/>
+<tswitem id="9122047" name="Advanced Kickback - Defence - Evade" quality="5"/>
+<tswitem id="9122050" name="Advanced Kickback - Defence - Protection" quality="5"/>
+<tswitem id="9122053" name="Advanced Kickback - Defence - Pen" quality="5"/>
+<tswitem id="9122176" name="Advanced Kickback - Evade - Hit" quality="5"/>
+<tswitem id="9122179" name="Advanced Kickback - Evade - Block" quality="5"/>
+<tswitem id="9122182" name="Advanced Kickback - Evade - Crit" quality="5"/>
+<tswitem id="9122185" name="Advanced Kickback - Evade - Crit Power" quality="5"/>
+<tswitem id="9122188" name="Advanced Kickback - Evade - Defence" quality="5"/>
+<tswitem id="9122191" name="Advanced Kickback - Evade - Evade" quality="5"/>
+<tswitem id="9122194" name="Advanced Kickback - Evade - Protection" quality="5"/>
+<tswitem id="9122197" name="Advanced Kickback - Evade - Pen" quality="5"/>
+<tswitem id="9122200" name="Advanced Kickback - Penetrate - Hit" quality="5"/>
+<tswitem id="9122203" name="Advanced Kickback - Penetrate - Block" quality="5"/>
+<tswitem id="9122206" name="Advanced Kickback - Penetrate - Crit" quality="5"/>
+<tswitem id="9122209" name="Advanced Kickback - Penetrate - Crit Power" quality="5"/>
+<tswitem id="9122212" name="Advanced Kickback - Penetrate - Defence" quality="5"/>
+<tswitem id="9122215" name="Advanced Kickback - Penetrate - Evade" quality="5"/>
+<tswitem id="9122218" name="Advanced Kickback - Penetrate - Protection" quality="5"/>
+<tswitem id="9122221" name="Advanced Kickback - Penetrate - Pen" quality="5"/>
+<tswitem id="9121859" name="Advanced Stimulant - Heal" quality="5"/>
+<tswitem id="9121861" name="Advanced Stimulant - Block" quality="5"/>
+<tswitem id="9121863" name="Advanced Stimulant - Crit" quality="5"/>
+<tswitem id="9121865" name="Advanced Stimulant - Critical Power Rating" quality="5"/>
+<tswitem id="9121871" name="Advanced Stimulant - Attack" quality="5"/>
+<tswitem id="9121873" name="Advanced Stimulant - Defence" quality="5"/>
+<tswitem id="9121875" name="Advanced Stimulant - Evade" quality="5"/>
+<tswitem id="9121877" name="Advanced Stimulant - Health" quality="5"/>
+<tswitem id="9121891" name="Advanced Stimulant - Hit" quality="5"/>
+<tswitem id="9121893" name="Advanced Stimulant - Protection" quality="5"/>
+<tswitem id="9121895" name="Advanced Stimulant - Penetration" quality="5"/>
+<tswitem id="9122323" name="Carapace of the Immaculate Machine - Boots, white" quality="5"/>
+<tswitem id="9122325" name="Carapace of the Immaculate Machine - Chestguard white" quality="5"/>
+<tswitem id="9122332" name="Carapace of the Immaculate Machine - Gauntlets, white" quality="5"/>
+<tswitem id="9122334" name="Carapace of the Immaculate Machine - Plated leggings, white" quality="5"/>
+<tswitem id="9122339" name="Carapace of the Immaculate Machine - Helmet, white" quality="5"/>
 
-
+<tswitem id="9121762" name="Carapace of the Immaculate Machine - Boots, black" quality="5"/>
+<tswitem id="9121766" name="Carapace of the Immaculate Machine - Chestguard black" quality="5"/>
+<tswitem id="9121770" name="Carapace of the Immaculate Machine - Gauntlets black" quality="5"/>
+<tswitem id="9121774" name="Carapace of the Immaculate Machine - Plated leggings black" quality="5"/>
+<tswitem id="9121778" name="Carapace of the Immaculate Machine - Helmet black" quality="5"/>
+<tswitem id="9135291" name="Broadway Charm nm" quality="5"/>
+<tswitem id="9135292" name="Subway Tokens nm" quality="5"/>
+<tswitem id="9135293" name="NY Buckle nm" quality="5"/>
+<tswitem id="9141546" name="Yellow Pigment of Leng" quality="5"/>
+<tswitem id="9141548" name="Essential Saltes of Joseph Curwen" quality="5"/>
+<tswitem id="9141549" name="Ichor of the Outer Gods" quality="5"/>
+<tswitem id="9141635" name="Bracer of Celephias" quality="5"/>
+<tswitem id="9141636" name="Band of Dis" quality="5"/>
+<tswitem id="9141916" name="Architeuthis Vitreous Humor" quality="5"/>
+<tswitem id="9141930" name="Brown Jenkins's Collar" quality="5"/>
+<tswitem id="9141932" name="Amulet of Yuggoth" quality="5"/>
+<tswitem id="9142125" name="Dust of the Black Pharaoh" quality="5"/>
+<tswitem id="9142195" name="Keziah Mason's Ring" quality="5"/>
+<tswitem id="9142485" name="Blood of the Deep One King" quality="5"/>
+<tswitem id="9143879" name="Brace of the Ghoul King" quality="5"/>
 </list>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>		
+<tswitem>		
+<itemid>9122334</itemid>		
+<name>Carapace de la machine immaculée - Jambières plaquées, blanc</name>		
+<iconpath>9122334</iconpath>		
+<quality>5</quality>		
+		
+		
+<tooltip><![CDATA[		
+		
+<table width="100%"> 		
+	<tr> 	
+		<td align="left" class="tsw_tooltiptitle tsw_q;QL_VALUE;" colspan="2">Carapace de la machine immaculée - Jambières plaquées, blanc</td> </tr>
+	<tr> 	
+		<td align="left" class="tsw_infolabel" colspan="2">Vêtements (NQ 0 Épique)</td> </tr> 
+	<tr> 	
+		<td align="left" class="tsw_infolabel_slot" colspan="2">Unique</td> </tr>  
+	<tr> 	
+		<td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+		</tr> 
+	<tr>	
+		<td align="left" class="tsw_infolabel" colspan="2">Utilisez ceci pour ajouter l'objet <font color='#FF6600'>Carapace de la machine immaculée - Jambières plaquées, blanc</font> à votre loge (emplacement : jambes).
+		
+	</td></tr>	
+		
+		
+		
+</table>		
+]]>		
+</tooltip></tswitem>		

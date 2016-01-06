@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tswitem>
+<itemid>8391478</itemid>
+<name>Albino-Welpe des Herrn der Draugs</name>
+<iconpath>8391478</iconpath>
+<quality>6</quality>
+
+
+<tooltip><![CDATA[
+
+<table width="100%"> 
+	<tr> 
+		<td align="left" class="tsw_tooltiptitle tsw_q;QL_VALUE;" colspan="2">Albino-Welpe des Herrn der Draugs </td> </tr>
+	<tr> 
+		</tr> 
+	<tr> 
+		<td align="left" class="tsw_infolabel_slot" colspan="2">Charaktergebunden</td> </tr>  
+	<tr> 
+		<td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+		</tr> 
+		<tr>
+		<td align="left" class="tsw_infolabel" colspan="2">Ruft den Begleiter Albino-Welpe des Herrn der Draugs herbei 
+
+
+	</td></tr>
+
+	
+
+</table>
+]]>
+</tooltip></tswitem>

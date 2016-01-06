@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>		
+<tswitem>		
+<itemid>9121895</itemid>		
+<name>Verbessertes Stimulans - Durchdringung</name>		
+<iconpath>9121895</iconpath>		
+<quality>5</quality>		
+		
+		
+<tooltip><![CDATA[		
+		
+<table width="100%"> 		
+	<tr> 	
+		<td align="left" class="tsw_tooltiptitle tsw_q;QL_VALUE;" colspan="2">Verbessertes Stimulans - Durchdringung</td> </tr>
+	<tr> 	
+		<td align="left" class="tsw_infolabel" colspan="2">Gadget (QS 10 Episch)</td> </tr> 
+	<tr> 	
+		<td align="left" class="tsw_infolabel_slot" colspan="2">Charaktergebunden</td> </tr>  
+	<tr> 	
+		<td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+		</tr> 
+	<tr>	
+		<td align="left" class="tsw_infolabel" colspan="2"><font color='#FFC600'>Stimulans:</font> Gewährt <font color='#FF6600'>20</font> Sekunden lang <font color='#FF6600'>312</font> Durchdringungswert.
+
+Belegt alle Stimulanzien mit <font color='#FF6600'>2</font> Minuten Abklingzeit.
+		
+	</td></tr>	
+		
+		
+		
+</table>		
+]]>		
+</tooltip></tswitem>		

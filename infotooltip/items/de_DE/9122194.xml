@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>		
+<tswitem>		
+<itemid>9122194</itemid>		
+<name>Verbesserter Gegenschlag - Ausweichen - Schutz</name>		
+<iconpath>9122191</iconpath>		
+<quality>5</quality>		
+		
+		
+<tooltip><![CDATA[		
+		
+<table width="100%"> 		
+	<tr> 	
+		<td align="left" class="tsw_tooltiptitle tsw_q;QL_VALUE;" colspan="2">Verbesserter Gegenschlag - Ausweichen - Schutz</td> </tr>
+	<tr> 	
+		<td align="left" class="tsw_infolabel" colspan="2">Gadget (QS 10 Episch)</td> </tr> 
+	<tr> 	
+		<td align="left" class="tsw_infolabel_slot" colspan="2">Charaktergebunden</td> </tr>  
+	<tr> 	
+		<td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+		</tr> 
+	<tr>	
+		<td align="left" class="tsw_infolabel" colspan="2"><font color='#FFC600'>Gegenschlag:</font> <font color='#FF6600'>20</font> Sekunden lang  erhalten Sie jedes Mal, wenn Sie einem Angriff ausweichen, <font color='#FF6600'>450</font> Körperlichen und Magischen Schutz, und zwar <font color='#FF6600'>4</font> Sekunden lang.
+
+Belegt alle Gegenschläge mit <font color='#FF6600'>2</font> Minuten Abklingzeit.
+		
+	</td></tr>	
+		
+		
+		
+</table>		
+]]>		
+</tooltip></tswitem>		

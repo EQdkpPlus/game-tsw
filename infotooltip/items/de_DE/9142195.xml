@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>		
+<tswitem>		
+<itemid>9142195</itemid>		
+<name>Keziah Masons Ring</name>		
+<iconpath>9142195</iconpath>		
+<quality>5</quality>		
+		
+		
+<tooltip><![CDATA[		
+		
+<table width="100%"> 		
+	<tr> 	
+		<td align="left" class="tsw_tooltiptitle tsw_q;QL_VALUE;" colspan="2">Keziah Masons Ring</td> </tr>
+	<tr> 	
+		<td align="left" class="tsw_infolabel" colspan="2">Fingertalisman (QS 10.9 Episch)</td> </tr> 
+	<tr> 	
+		<td align="left" class="tsw_infolabel_slot" colspan="2">Charaktergebunden</td> </tr>  
+	<tr> 	<td colspan="2"> <hr class="tsw_tooltip_hr"> </td><tr>
+	<tr> 	<td align="left" width="5%" class="tsw_infolabel_hl"><font color='#FFC600'>+972</font> </td><td align="left" class="tsw_infolabel">Angriffswert </td> </tr>  
+		
+	<tr> 	<td colspan="2"> <hr class="tsw_tooltip_hr"> </td><tr>
+	<tr>	
+		<td align="left" class="tsw_infolabel" colspan="2">Wenn Sie einen kritischen, durchdringenden Treffer erzielen, wird beim Ziel außerdem der Status <i>Befallen</i> ausgelöst, mit einem Schaden-über-Zeit-Effekt, der pro Sekunde <font color='#a2413d'>Combat Power/10.6</font> körperlichen Schaden verursacht, und zwar <font color='#FF6600'>7</font> Sekunden lang. <br>
+Solange das Ziel mit diesem Effekt belegt ist, erleidet es <font color='#FF6600'>5%</font> mehr Schaden durch alle Quellen. Die Dauer dieses Effekts wird bei erneutem Wirken nicht verlängert.
+		
+	</td></tr>	
+	<tr> 	<td colspan="3"> <hr class="tsw_tooltip_hr"> </td><tr>
+	<tr>  	<td align="right" class="tsw_item_manastone"></td> 
+		 <td align="left" class="tsw_infolabel_slot">leerer Glyphen Slot </td></tr>  
+</table>		
+]]>		
+</tooltip></tswitem>		

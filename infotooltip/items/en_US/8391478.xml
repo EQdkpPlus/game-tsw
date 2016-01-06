@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tswitem>
+<itemid>8391478</itemid>
+<name>Albino Draug Lord Puppy</name>
+<iconpath>8391478</iconpath>
+<quality>5</quality>
+
+
+<tooltip><![CDATA[
+
+<table width="100%"> 
+	<tr> 
+		<td align="left" class="tsw_tooltiptitle tsw_q;QL_VALUE;" colspan="2">Albino Draug Lord Puppy </td> </tr>
+	<tr> 
+		</tr> 
+	<tr> 
+		<td align="left" class="tsw_infolabel_slot" colspan="2">Character Bound</td> </tr>  
+	<tr> 
+		<td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+		</tr> 
+		<tr>
+		<td align="left" class="tsw_infolabel" colspan="2">Summons the Albino Draug Lord Puppy pet. 
+
+
+	</td></tr>
+
+	
+
+</table>
+]]>
+</tooltip></tswitem>
