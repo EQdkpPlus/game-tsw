@@ -53,7 +53,7 @@ $french_array = array(
 
 		// Profile information
 		'uc_cat_misc'				=> 'divers',
-		'uc_pvp'					=> 'Fusang Battlegroup',
+		'uc_pvp'					=> 'PVP champ de bataille',
 		'uc_pvp_help'				=> 'Battlegroup Server est lié',
 		'uc_RP'						=> 'joueurs de rôle',
 		'uc_RP_help'				=> '',
@@ -62,12 +62,14 @@ $french_array = array(
 		'uc_unknown'				=> 'inconnu',
 		'uc_ED'						=> 'Eldorado',
 		'uc_SH'						=> 'Stonehenge',
+		'uc_ShB'					=> 'Shambala',	
 		'uc_BG'						=> 'Battlegroup',
 		'uc_BG_A'					=> 'Fusang BG-A',
 		'uc_BG_B'					=> 'Fusang BG-B',
 		'uc_guild'					=> 'guilde',
 		'uc_level'					=> 'Score de l’équipement',
 		'uc_testlive'				=> 'Accès à  Testlive',
+		'uc_18h_Raid_cooldown'		=> '18h Raid Cooldown',
 		'uc_wings'					=> 'Wing Couleur',
 		'uc_blue'					=> 'Bleu',
 		'uc_gold'					=> 'Doré',
