@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>		
+<tswitem>		
+<itemid>9184909</itemid>		
+<name>Siegel der erneuerten Wache</name>		
+<iconpath>200003</iconpath>		
+<quality>7</quality>		
+		
+		
+<tooltip><![CDATA[		
+		
+<table width="100%"> 		
+	<tr> 	
+		<td align="left" class="tsw_tooltiptitle tsw_q;QL_VALUE;" colspan="2">Siegel der erneuerten Wache</td> </tr>
+	<tr> 	
+		<td align="left" class="tsw_infolabel" colspan="2">Siegel (QS 10)</td> </tr> 
+	<tr> 	
+		<td align="left" class="tsw_infolabel_slot" colspan="2">Handelbar</td> </tr>  
+	<tr> 	
+		<td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+		</tr> 
+	<tr>	
+		<td align="left" class="tsw_infolabel" colspan="2">
+      Effekt: Laufen Ihre Barriere-Effekte aus irgendeinem Grund aus, erhalten Sie einen positiven Effekt, der die Stärke Ihrer nächsten Barriere um <span class="tsw_q3">5%</span>/<span class="tsw_q4">10%</span>/<span class="tsw_q5">15%</span> erhöht. Dieses Siegel kann an großen Talismanen angebracht werden.
+
+Kombinieren Sie im Fertigungsfenster 10 dieser Objekte, um ein mächtigeres Siegel zu erhalten.
+   
+		
+	</td></tr>	
+		
+		
+		
+</table>		
+]]>		
+</tooltip></tswitem>		

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>		
+<tswitem>		
+<itemid>9184494</itemid>		
+<name>Siegel der Füße des Hermes</name>		
+<iconpath>200004</iconpath>		
+<quality>7</quality>		
+		
+		
+<tooltip><![CDATA[		
+		
+<table width="100%"> 		
+	<tr> 	
+		<td align="left" class="tsw_tooltiptitle tsw_q;QL_VALUE;" colspan="2">Siegel der Füße des Hermes</td> </tr>
+	<tr> 	
+		<td align="left" class="tsw_infolabel" colspan="2">Siegel (QS 10)</td> </tr> 
+	<tr> 	
+		<td align="left" class="tsw_infolabel_slot" colspan="2">Handelbar</td> </tr>  
+	<tr> 	
+		<td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+		</tr> 
+	<tr>	
+		<td align="left" class="tsw_infolabel" colspan="2">
+      Effekt: Wenn Sie eine Bewegungskraft aktivieren, wird Ihre Bewegungsgeschwindigkeit <font color='#FF6600'>5</font> Sekunden lang um <span class="tsw_q3">5%</span>/<span class="tsw_q4">10%</span>/<span class="tsw_q5">15%</span> erhöht. Dieses Siegel kann an großen Talismanen angebracht werden.
+
+Kombinieren Sie im Fertigungsfenster 10 dieser Objekte, um ein mächtigeres Siegel zu erhalten.
+
+		
+	</td></tr>	
+		
+		
+		
+</table>		
+]]>		
+</tooltip></tswitem>		

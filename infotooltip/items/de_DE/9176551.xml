@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>		
+<tswitem>		
+<itemid>9176551</itemid>		
+<name>Siegel des Karmas</name>		
+<iconpath>200006</iconpath>		
+<quality>7</quality>		
+		
+		
+<tooltip><![CDATA[		
+		
+<table width="100%"> 		
+	<tr> 	
+		<td align="left" class="tsw_tooltiptitle tsw_q;QL_VALUE;" colspan="2">Siegel des Karmas</td> </tr>
+	<tr> 	
+		<td align="left" class="tsw_infolabel" colspan="2">Siegel (QS 10)</td> </tr> 
+	<tr> 	
+		<td align="left" class="tsw_infolabel_slot" colspan="2">Handelbar</td> </tr>  
+	<tr> 	
+		<td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+		</tr> 
+	<tr>	
+		<td align="left" class="tsw_infolabel" colspan="2">
+      Effekt: Wenn Sie einen Verbündeten direkt heilen, haben Sie eine <font color='#FF6600'>25 %</font>-Chance, selbst <span class="tsw_q3">15%</span>/<span class="tsw_q4">30%</span>/<span class="tsw_q5">45%</span>  der gewährten Heilung zu regenerieren. Dieses Siegel kann an Kopftalismanen oder Waffen angebracht werden.
+
+Kombinieren Sie im Fertigungsfenster 10 dieser Objekte, um ein mächtigeres Siegel zu erhalten.
+
+		
+	</td></tr>	
+		
+		
+		
+</table>		
+]]>		
+</tooltip></tswitem>		

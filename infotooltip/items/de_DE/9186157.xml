@@ -1,0 +1,31 @@
+<tswitem>		
+<itemid>9186157</itemid>		
+<name>Siegel der Vertreibung</name>		
+<iconpath>200011</iconpath>		
+<quality>7</quality>		
+		
+		
+<tooltip><![CDATA[		
+		
+<table width="100%"> 		
+	<tr> 	
+		<td align="left" class="tsw_tooltiptitle tsw_q;QL_VALUE;" colspan="2">Siegel der Vertreibung</td> </tr>
+	<tr> 	
+		<td align="left" class="tsw_infolabel" colspan="2">Siegel (QS 10)</td> </tr> 
+	<tr> 	
+		<td align="left" class="tsw_infolabel_slot" colspan="2">Handelbar</td> </tr>  
+	<tr> 	
+		<td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+		</tr> 
+	<tr>	
+		<td align="left" class="tsw_infolabel" colspan="2">
+      Effekt: Setzen Sie "Aktives Ausweichen" ein, erhöht sich Ihre Ausweichchance <font color='#FF6600'>1,5</font> Sekunden lang um <span class="tsw_q3">20%</span>/<span class="tsw_q4">40%</span>/<span class="tsw_q5">60%</span>. Dieses Siegel kann an kleinen Talismanen angebracht werden.
+
+Kombinieren Sie im Fertigungsfenster 10 dieser Objekte, um ein mächtigeres Siegel zu erhalten.
+	</td></tr>	
+		
+		
+		
+</table>		
+]]>		
+</tooltip></tswitem>		

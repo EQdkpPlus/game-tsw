@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>		
+<tswitem>		
+<itemid>9176843</itemid>		
+<name>Siegel der Todesnachricht</name>		
+<iconpath>200008</iconpath>		
+<quality>7</quality>		
+		
+		
+<tooltip><![CDATA[		
+		
+<table width="100%"> 		
+	<tr> 	
+		<td align="left" class="tsw_tooltiptitle tsw_q;QL_VALUE;" colspan="2">Siegel der Todesnachricht</td> </tr>
+	<tr> 	
+		<td align="left" class="tsw_infolabel" colspan="2">Siegel (QS 10)</td> </tr> 
+	<tr> 	
+		<td align="left" class="tsw_infolabel_slot" colspan="2">Handelbar</td> </tr>  
+	<tr> 	
+		<td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+		</tr> 
+	<tr>	
+		<td align="left" class="tsw_infolabel" colspan="2">
+      Effekt: Wenn Sie ein Ziel treffen, belegen Sie es <font color='#FF6600'>5</font> Sekunden lang mit einem negativen Effekt, der dem Ziel jedes Mal, wenn Sie oder andere Angreifer es mit diesem Siegel treffen, <span class="tsw_q3">150</span>/<span class="tsw_q4">300</span>/<span class="tsw_q5">450</span> körperlichen Schaden zufügt. Dieser Effekt kann nur alle <font color='#FF6600'>20</font> Sekunden aktiviert werden. Dieses Siegel kann an Kopftalismanen und Waffen angebracht werden.
+
+Kombinieren Sie im Fertigungsfenster 10 dieser Objekte, um ein mächtigeres Siegel zu erhalten.
+	</td></tr>	
+		
+		
+		
+</table>		
+]]>		
+</tooltip></tswitem>		
