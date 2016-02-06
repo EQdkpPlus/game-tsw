@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>		
+<tswitem>		
+<itemid>9131971</itemid>		
+<name>AE-Kondensator
+</name>		
+<iconpath>9131971</iconpath>		
+<quality>5</quality>		
+		
+		
+<tooltip><![CDATA[		
+		
+<table width="100%"> 		
+	<tr> 	
+		<td align="left" class="tsw_tooltiptitle tsw_q;QS_VALUE;" colspan="2">AE-Kondensator
+</td> </tr>
+	<tr> 	
+		<td align="left" class="tsw_infolabel" colspan="2">AEGIS-Kondensator (QS 0 - 9 Episch)
+</td> </tr> 
+	<tr> 	
+		<td align="left" width="50%" class="tsw_infolabel_slot" colspan="2">Charaktergebunden</td> </tr>  
+	<tr> 	<td colspan="2"> <hr class="tsw_tooltip_hr"> </td><tr>
+	<tr> 	<td align="left" class="tsw_infolabel">
+	QS0: <font color='#FFC600'>12,6% - 13,0%</font> <br>
+	QS1: <font color='#FFC600'>13,1% - 13,5%</font> <br>
+	QS2: <font color='#FFC600'>13,6% - 14,0%</font> <br>
+	QS3: <font color='#FFC600'>14,1% - 14,5%</font> <br>
+	QS4: <font color='#FFC600'>14,6% - 15,0%</font> <br>
+	QS5: <font color='#FFC600'>15,1% - 15,5%</font> <br>
+	QS6: <font color='#FFC600'>15,6% - 16,0%</font> <br>
+	QS7: <font color='#FFC600'>16,1% - 16,5%</font> <br>
+	QS8: <font color='#FFC600'>16,6% - 17,0%</font> <br>
+	QS9: <font color='#FFC600'>17,1% - 17,5%</font></td>
+	<td align="left" width="50%" class="tsw_infolabel">Schaden in aktuellen<br> AEGIS-Schadenstyp konvertiert
+</td> </tr>  
+		
+	<tr> 	<td colspan="2"> <hr class="tsw_tooltip_hr"> </td><tr>
+	<tr>	
+		<td align="left" class="tsw_infolabel" colspan="2">Für die Ausrüstung dieses Objektes wird ein AEGIS-Controller derselben oder einer besseren QS benötigt.
+
+		
+	</td></tr>	
+</table>		
+]]>		
+</tooltip></tswitem>		

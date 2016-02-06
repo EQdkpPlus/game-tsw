@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>		
+<tswitem>		
+<itemid>8729028</itemid>		
+<name>AE-Wallkondensator</name>		
+<iconpath>8729028</iconpath>		
+<quality>5</quality>		
+		
+		
+<tooltip><![CDATA[		
+		
+<table width="100%"> 		
+	<tr> 	
+		<td align="left" class="tsw_tooltiptitle tsw_q;QS_VALUE;" colspan="2">AE-Wallkondensator</td> </tr>
+	<tr> 	
+		<td align="left" class="tsw_infolabel" colspan="2">AEGIS-Kondensator (QS 0 - 9 Episch)
+</td> </tr> 
+	<tr> 	
+		<td align="left" width="50%" class="tsw_infolabel_slot" colspan="2">Charaktergebunden</td> </tr>  
+	<tr> 	<td colspan="2"> <hr class="tsw_tooltip_hr"> </td><tr>
+	<tr> 	<td align="left" class="tsw_infolabel">
+	QS0: <font color='#FFC600'>2400 - 2500</font> <br>
+	QS1: <font color='#FFC600'>2575 - 2675</font> <br>
+	QS2: <font color='#FFC600'>2750 - 2850</font> <br>
+	QS3: <font color='#FFC600'>3025 - 3125</font> <br>
+	QS4: <font color='#FFC600'>3300 - 3400</font> <br>
+	QS5: <font color='#FFC600'>3575 - 3675</font> <br>
+	QS6: <font color='#FFC600'>3850 - 3950</font> <br>
+	QS7: <font color='#FFC600'>4125 - 4225</font> <br>
+	QS8: <font color='#FFC600'>4400 - 4500</font> <br>
+	QS9: <font color='#FFC600'>4675 - 4775</font></td>
+	 <td align="left" width="50%" class="tsw_infolabel"> AEGIS-Schildstärke</td></tr>  
+		
+	<tr> 	<td colspan="2"> <hr class="tsw_tooltip_hr"> </td><tr>
+	<tr>	
+	<td align="left" class="tsw_infolabel" colspan="2">Für die Ausrüstung dieses Objektes wird ein AEGIS-Controller derselben oder einer besseren QS benötigt.
+		
+	</td></tr>	
+</table>		
+]]>		
+</tooltip></tswitem>		

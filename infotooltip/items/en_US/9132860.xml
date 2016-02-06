@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>		
+<tswitem>		
+<itemid>9132860</itemid>		
+<name>Memory Expansion Module Mk VI</name>		
+<iconpath>8443141</iconpath>		
+<quality>5</quality>		
+		
+		
+<tooltip><![CDATA[		
+		
+<table width="100%"> 		
+	<tr> 	
+		<td align="left" class="tsw_tooltiptitle tsw_q;QL_VALUE;" colspan="2">Memory Expansion Module Mk VI</td> </tr>
+	<tr> 	
+		<td align="left" class="tsw_infolabel" colspan="2">Toolkit (QL 10 Epic)</td> </tr> 
+	<tr> 	
+		<td align="left" class="tsw_infolabel_slot" colspan="2">Character Bound</td> </tr>  
+	<tr> 	
+		<td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+		</tr> 
+	<tr>	
+		<td align="left" class="tsw_infolabel" colspan="2">Expands the memory of an AEGIS controller, allowing it to be upgraded to the next version. Requires 100% completed analysis of filth samples to complete this upgrade.<br>This module contains additional memory expansion to improve upon an AEGIS which is at least v3.3. This module can only improve an AEGIS up to v3.6 and is consumed in each upgrade process.   
+		
+	</td></tr>	
+		
+		
+		
+</table>		
+]]>		
+</tooltip></tswitem>		

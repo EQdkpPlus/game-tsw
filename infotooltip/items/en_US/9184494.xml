@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>		
+<tswitem>		
+<itemid>9184494</itemid>		
+<name>Signet of Hermes' Feet</name>		
+<iconpath>200004</iconpath>		
+<quality>7</quality>		
+		
+		
+<tooltip><![CDATA[		
+		
+<table width="100%"> 		
+	<tr> 	
+		<td align="left" class="tsw_tooltiptitle tsw_q;QL_VALUE;" colspan="2">Signet of Hermes' Feet</td> </tr>
+	<tr> 	
+		<td align="left" class="tsw_infolabel" colspan="2">Signet (QL 10)</td> </tr> 
+	<tr> 	
+		<td align="left" class="tsw_infolabel_slot" colspan="2">Tradeable</td> </tr>  
+	<tr> 	
+		<td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+		</tr> 
+	<tr>	
+		<td align="left" class="tsw_infolabel" colspan="2">
+      Effect: Whenever you activate a movement ability, your movement speed is increased by <span class="tsw_q3">5%</span>/<span class="tsw_q4">10%</span>/<span class="tsw_q5">15%</span> for <font color='#FF6600'>5</font> seconds. This Signet can be attached to Major Talismans.
+
+Combine 10 of these in the Assembly window to receive one Signet of increased power.
+	</td></tr>	
+		
+		
+		
+</table>		
+]]>		
+</tooltip></tswitem>		

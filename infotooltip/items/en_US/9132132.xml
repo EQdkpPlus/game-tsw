@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>		
+<tswitem>		
+<itemid>9132132</itemid>		
+<name>AE Convalescence Capacitor</name>		
+<iconpath>9132132</iconpath>		
+<quality>5</quality>		
+		
+		
+<tooltip><![CDATA[		
+		
+<table width="100%"> 		
+	<tr> 	
+		<td align="left" class="tsw_tooltiptitle tsw_q;QL_VALUE;" colspan="2">AE Convalescence Capacitor</td> </tr>
+	<tr> 	
+		<td align="left" class="tsw_infolabel" colspan="2">AEGIS Capacitor (QL 0-9 Epic)</td> </tr> 
+	<tr> 	
+		<td align="left" width="50%" class="tsw_infolabel_slot" colspan="2">Character Bound</td> </tr>  
+	<tr> 	<td colspan="2"> <hr class="tsw_tooltip_hr"> </td><tr>
+	<tr> 	<td align="left" class="tsw_infolabel">
+	QL0: <font color='#FFC600'>230 - 242</font> <br>
+	QL1: <font color='#FFC600'>247 - 259</font> <br>
+	QL2: <font color='#FFC600'>265 - 277</font> <br>
+	QL3: <font color='#FFC600'>282 - 294</font> <br>
+	QL4: <font color='#FFC600'>300 - 312</font> <br>
+	QL5: <font color='#FFC600'>335 - 347</font> <br>
+	QL6: <font color='#FFC600'>361 - 373</font> <br>
+	QL7: <font color='#FFC600'>387 - 399</font> <br>
+	QL8: <font color='#FFC600'>414 - 426</font> <br>
+	QL9: <font color='#FFC600'>440 - 452</font></td><td align="left" class="tsw_infolabel"> AEGIS restored when using a direct heal<br> ability. AEGIS healing only restores <br>the strength of shields which match <br>your currently active weapon controller type. </td> </tr>  
+		
+	<tr> 	<td colspan="2"> <hr class="tsw_tooltip_hr"> </td><tr>
+	<tr>	
+		<td align="left" class="tsw_infolabel" colspan="2">Requires an AEGIS Controller of equal or greater QL to equip this item.		
+	</td></tr>	
+
+</table>		
+]]>		
+</tooltip></tswitem>		

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>		
+<tswitem>		
+<itemid>9119399</itemid>		
+<name>Superior custom weapon upgrade toolkit</name>		
+<iconpath>7569516</iconpath>		
+<quality>5</quality>		
+		
+		
+<tooltip><![CDATA[		
+		
+<table width="100%"> 		
+	<tr> 	
+		<td align="left" class="tsw_tooltiptitle tsw_q;QL_VALUE;" colspan="2">Superior custom weapon upgrade toolkit</td> </tr>
+	<tr> 	
+		<td align="left" class="tsw_infolabel" colspan="2">Toolkit (QL 10 Epic)</td> </tr> 
+	<tr> 	
+		<td align="left" class="tsw_infolabel_slot" colspan="2">Character Bound</td> </tr>  
+	<tr> 	
+		<td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+		</tr> 
+	<tr>	
+		<td align="left" class="tsw_infolabel" colspan="2">Used to upgrade QL 10.5 and QL 10.6 custom weapons.
+		
+	</td></tr>	
+		
+		
+		
+</table>		
+]]>		
+</tooltip></tswitem>		

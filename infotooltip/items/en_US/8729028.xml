@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>		
+<tswitem>		
+<itemid>8729028</itemid>		
+<name>AE Rampart Capacitor</name>		
+<iconpath>8729028</iconpath>		
+<quality>5</quality>		
+		
+		
+<tooltip><![CDATA[		
+		
+<table width="100%"> 		
+	<tr> 	
+		<td align="left" class="tsw_tooltiptitle tsw_q;QL_VALUE;" colspan="2">AE Rampart Capacitor</td> </tr>
+	<tr> 	
+		<td align="left" class="tsw_infolabel" colspan="2">AEGIS Capacitor (QL 0 - 9 Epic)</td> </tr> 
+	<tr> 	
+		<td align="left" width="50%" class="tsw_infolabel_slot" colspan="2">Character Bound</td> </tr>  
+	<tr> 	<td colspan="2"> <hr class="tsw_tooltip_hr"> </td><tr>
+	<tr> 	<td align="left" class="tsw_infolabel">
+	QL0: <font color='#FFC600'>2400 - 2500</font> <br>
+	QL1: <font color='#FFC600'>2575 - 2675</font> <br>
+	QL2: <font color='#FFC600'>2750 - 2850</font> <br>
+	QL3: <font color='#FFC600'>3025 - 3125</font> <br>
+	QL4: <font color='#FFC600'>3300 - 3400</font> <br>
+	QL5: <font color='#FFC600'>3575 - 3675</font> <br>
+	QL6: <font color='#FFC600'>3850 - 3950</font> <br>
+	QL7: <font color='#FFC600'>4125 - 4225</font> <br>
+	QL8: <font color='#FFC600'>4400 - 4500</font> <br>
+	QL9: <font color='#FFC600'>4675 - 4775</font></td>
+	 <td align="left" width="50%" class="tsw_infolabel">AEGIS shield strength </td></tr>  
+		
+	<tr> 	<td colspan="2"> <hr class="tsw_tooltip_hr"> </td><tr>
+	<tr>	
+		<td align="left" class="tsw_infolabel" colspan="2">Requires an AEGIS Controller of equal or greater QL to equip this item.
+		
+	</td></tr>	
+</table>		
+]]>		
+</tooltip></tswitem>		

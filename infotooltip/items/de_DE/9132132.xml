@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>		
+<tswitem>		
+<itemid>9132132</itemid>		
+<name>AE-Konvaleszenzkondensator
+</name>		
+<iconpath>9132132</iconpath>		
+<quality>5</quality>		
+		
+		
+<tooltip><![CDATA[		
+		
+<table width="100%"> 		
+	<tr> 	
+		<td align="left" class="tsw_tooltiptitle tsw_q;QS_VALUE;"colspan="2">AE-Konvaleszenzkondensator
+</td> </tr>
+	<tr> 	
+		<td align="left" class="tsw_infolabel" colspan="2">AEGIS-Kondensator (QS 0 - 9 Episch)
+</td> </tr> 
+	<tr> 	
+		<td align="left" width="50%" class="tsw_infolabel_slot" colspan="2">Charaktergebunden</td> </tr>  
+	<tr> 	<td colspan="2"> <hr class="tsw_tooltip_hr"> </td><tr>
+	<tr> 	<td align="left" class="tsw_infolabel">
+	QS0: <font color='#FFC600'>230 - 242</font> <br>
+	QS1: <font color='#FFC600'>247 - 259</font> <br>
+	QS2: <font color='#FFC600'>265 - 277</font> <br>
+	QS3: <font color='#FFC600'>282 - 294</font> <br>
+	QS4: <font color='#FFC600'>300 - 312</font> <br>
+	QS5: <font color='#FFC600'>335 - 347</font> <br>
+	QS6: <font color='#FFC600'>361 - 373</font> <br>
+	QS7: <font color='#FFC600'>387 - 399</font> <br>
+	QS8: <font color='#FFC600'>414 - 426</font> <br>
+	QS9: <font color='#FFC600'>440 - 452</font></td><td align="left" class="tsw_infolabel">  AEGIS durch den Einsatz <br> einer direkten Heilkraft<br> wiederhergestellt AEGIS-Heilung <br>regeneriert nur die Stärke von <br> Schilden, die Ihrem derzeit aktiven <br> Waffencontroller-Typ entsprechen.</td> </tr>  
+		
+	<tr> 	<td colspan="2"> <hr class="tsw_tooltip_hr"> </td><tr>
+	<tr>	
+		<td align="left" class="tsw_infolabel" colspan="2">Für die Ausrüstung dieses Objektes wird ein AEGIS-Controller derselben oder einer besseren QS benötigt.
+
+	</td></tr>	
+
+</table>		
+]]>		
+</tooltip></tswitem>		
