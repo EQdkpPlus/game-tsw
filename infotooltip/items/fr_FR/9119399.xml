@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>		
+<tswitem>		
+<itemid>9119399</itemid>		
+<name>Outils d'amélioration supérieurs pour arme customisée</name>		
+<iconpath>7569516</iconpath>		
+<quality>5</quality>		
+		
+		
+<tooltip><![CDATA[		
+		
+<table width="100%"> 		
+	<tr> 	
+		<td align="left" class="tsw_tooltiptitle tsw_q;QL_VALUE;" colspan="2">Outils d'amélioration supérieurs pour arme customisée</td> </tr>
+	<tr> 	
+		<td align="left" class="tsw_infolabel" colspan="2">Outils (NQ 10 Épique)</td> </tr> 
+	<tr> 	
+		<td align="left" class="tsw_infolabel_slot" colspan="2">Lié au personnage</td> </tr>  
+	<tr> 	
+		<td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+		</tr> 
+	<tr>	
+		<td align="left" class="tsw_infolabel" colspan="2">Sert à améliorer les armes customisées de NQ 10.5 et NQ 10.6.
+		
+	</td></tr>	
+		
+		
+		
+</table>		
+]]>		
+</tooltip></tswitem>		

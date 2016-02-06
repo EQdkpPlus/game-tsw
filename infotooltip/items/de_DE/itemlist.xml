@@ -330,6 +330,13 @@
 <tswitem id="7569516" name="Upgrade-Werkzeugsatz für individuelle Waffen" quality="5"/>
 <tswitem id="7569537" name="Upgrade-Werkzeugsatz für individuelle Talismane" quality="5"/>
 <tswitem id="8391478" name="Albino-Welpe des Herrn der Draugs" quality="5"/>
+<tswitem id="9121903" name="Verbesserter Gegenschlag - Treffen" quality="5"/>
+<tswitem id="9121930" name="Verbesserter Gegenschlag - Block" quality="5"/>
+<tswitem id="9121976" name="Verbesserter Gegenschlag - Kritischer Treffer" quality="5"/>
+<tswitem id="9122009" name="Verbesserter Gegenschlag - Verteidigung" quality="5"/>
+<tswitem id="9122175" name="Verbesserter Gegenschlag - Ausweichen" quality="5"/>
+<tswitem id="9122199" name="Verbesserter Gegenschlag - Durchdringung" quality="5"/>
+
 <tswitem id="9121904" name="Verbesserter Gegenschlag - Treffen - Trefferwert" quality="5"/>
 <tswitem id="9121908" name="Verbesserter Gegenschlag - Treffen - Blockwert" quality="5"/>
 <tswitem id="9121911" name="Verbesserter Gegenschlag - Treffen - Kritscher Trefferwert" quality="5"/>
@@ -394,5 +401,158 @@
 <tswitem id="9122332" name="Rückenschild der unbefleckten Maschine - Panzerhandschuhe, weiß" quality="5"/>
 <tswitem id="9122334" name="Rückenschild der unbefleckten Maschine - Metallbeinschienen, weiß" quality="5"/>
 <tswitem id="9122339" name="Rückenschild der unbefleckten Maschine - Helm, weiß" quality="5"/>
+
+<tswitem id="9121762" name="Rückenschild der unbefleckten Maschine - Stiefel, schwarz" quality="5"/>
+<tswitem id="9121766" name="Rückenschild der unbefleckten Maschine - Brustpanzer, schwarz" quality="5"/>
+<tswitem id="9121770" name="Rückenschild der unbefleckten Maschine - Panzerhandschuhe, schwarz" quality="5"/>
+<tswitem id="9121774" name="Rückenschild der unbefleckten Maschine - Metallbeinschienen, schwarz" quality="5"/>
+<tswitem id="9121778" name="Rückenschild der unbefleckten Maschine - Helm, schwarz" quality="5"/>
+<tswitem id="9135291" name="Broadway-Brosche nm" quality="5"/>
+<tswitem id="9135292" name="U-Bahn-Münzen nm" quality="5"/>
+<tswitem id="9135293" name="NY-Schnalle nm" quality="5"/>
+<tswitem id="9141546" name="Gelbes Pigment von Leng" quality="5"/>
+<tswitem id="9141548" name="Joseph Curwens essentielle Salze" quality="5"/>
+<tswitem id="9141549" name="Sekret der äußeren Götter" quality="5"/>
+<tswitem id="9141635" name="Armschutz von Celephias" quality="5"/>
+<tswitem id="9141636" name="Ring von Dis" quality="5"/>
+<tswitem id="9141916" name="Architeuthis-Vitreous-Sekret" quality="5"/>
+<tswitem id="9141930" name="Brown Jenkins' Kragen" quality="5"/>
+<tswitem id="9141932" name="Amulett von Yuggoth" quality="5"/>
+<tswitem id="9142125" name="Staub des Schwarzen Pharaos" quality="5"/>
+<tswitem id="9142195" name="Keziah Masons Ring" quality="5"/>
+<tswitem id="9142485" name="Blut des Tiefenkönigs" quality="5"/>
+<tswitem id="9143879" name="Armschutz des Ghulkönigs" quality="5"/>
+<tswitem id="9133435" name="Glyphen-Werkzeugsatz der 11. Stunde" quality="5"/>
+<tswitem id="9130343" name="Überirdische Upgrades" quality="5"/>
+<tswitem id="9119399" name="Upgrade-Werkzeugsatz für überragende individuelle Waffen" quality="5"/>
+<tswitem id="9119170" name="Upgrade-Werkzeugsatz für überragende individuelle Talismane" quality="5"/>
+<tswitem id="8443586" name="AEGIS Firmware-Upgrade v3.0" quality="5"/>
+<tswitem id="8443141" name="Speichererweiterungsmodul V" quality="5"/>
+<tswitem id="9132860" name="Speichererweiterungsmodul VI" quality="5"/>
+<tswitem id="9132861" name="Speichererweiterungsmodul VII" quality="5"/>
+<tswitem id="9131971" name="AE-Kondensator" quality="5"/>
+<tswitem id="8729028" name="AE-Wallkondensator" quality="5"/>
+<tswitem id="9132132" name="AE-Konvaleszenzkondensator" quality="5"/>
+<tswitem id="9185369" name="Siegel des geteilten Leides" quality="7"/>
+<tswitem id="9167542" name="Siegel der Autonomie" quality="7"/>
+<tswitem id="9186106" name="Siegel der Verleumdung" quality="7"/>
+<tswitem id="9176311" name="Siegel der gesegneten Schritte" quality="7"/>
+<tswitem id="9185451" name="Siegel des Gnadenstoßes" quality="7"/>
+<tswitem id="9176843" name="Siegel der Todesnachricht" quality="7"/>
+<tswitem id="9186123" name="Siegel des Trotzes" quality="7"/>
+<tswitem id="9186086" name="Siegel der Ablenkung" quality="7"/>
+<tswitem id="9190781" name="Siegel der Verzweiflung" quality="7"/>
+<tswitem id="9186157" name="Siegel der Vertreibung" quality="7"/>
+<tswitem id="9176409" name="Siegel der göttlichen Inspiration" quality="7"/>
+<tswitem id="9176541" name="Siegel des eifrigen Heilers" quality="7"/>
+<tswitem id="9184494" name="Siegel der Füße des Hermes" quality="7"/>
+<tswitem id="9176612" name="Siegel von Houdinis List" quality="7"/>
+<tswitem id="9176579" name="Siegel der Versicherung" quality="7"/>
+<tswitem id="9176551" name="Siegel des Karmas" quality="7"/>
+<tswitem id="9184939" name="Siegel des Märtyrermirakels" quality="7"/>
+<tswitem id="9185332" name="Siegel von Nergals Zorn" quality="7"/>
+<tswitem id="9176928" name="Siegel der ständigen Bewegung" quality="7"/>
+<tswitem id="9185502" name="Siegel der beständigen Bosheit" quality="7"/>
+<tswitem id="9184549" name="Siegel des Beschützerzorns" quality="7"/>
+<tswitem id="9190691" name="Siegel der Erholung" quality="7"/>
+<tswitem id="9184909" name="Siegel der erneuerten Wache" quality="7"/>
+<tswitem id="9176752" name="Siegel der Entgegnung" quality="7"/>
+<tswitem id="9185323" name="Siegel des Seelenfressers" quality="7"/>
+<tswitem id="9185393" name="Siegel des Todesfluchs" quality="7"/>
+<tswitem id="9190757" name="Siegel des Arztes" quality="7"/>
+<tswitem id="9190726" name="Siegel der Geschützten" quality="7"/>
+<tswitem id="9176879" name="Siegel des Zeitendiebs" quality="7"/>
+<tswitem id="9190657" name="Siegel der Unablässigkeit" quality="7"/>
+<tswitem id="9185369" name="Lila Siegel des geteilten Leides" quality="5"/>
+<tswitem id="9167542" name="Lila Siegel der Autonomie" quality="5"/>
+<tswitem id="9186106" name="Lila Siegel der Verleumdung" quality="5"/>
+<tswitem id="9176311" name="Lila Siegel der gesegneten Schritte" quality="5"/>
+<tswitem id="9185451" name="Lila Siegel des Gnadenstoßes" quality="5"/>
+<tswitem id="9176843" name="Lila Siegel der Todesnachricht" quality="5"/>
+<tswitem id="9186123" name="Lila Siegel des Trotzes" quality="5"/>
+<tswitem id="9186086" name="Lila Siegel der Ablenkung" quality="5"/>
+<tswitem id="9190781" name="Lila Siegel der Verzweiflung" quality="5"/>
+<tswitem id="9186157" name="Lila Siegel der Vertreibung" quality="5"/>
+<tswitem id="9176409" name="Lila Siegel der göttlichen Inspiration" quality="5"/>
+<tswitem id="9176541" name="Lila Siegel des eifrigen Heilers" quality="5"/>
+<tswitem id="9184494" name="Lila Siegel der Füße des Hermes" quality="5"/>
+<tswitem id="9176612" name="Lila Siegel von Houdinis List" quality="5"/>
+<tswitem id="9176579" name="Lila Siegel der Versicherung" quality="5"/>
+<tswitem id="9176551" name="Lila Siegel des Karmas" quality="5"/>
+<tswitem id="9184939" name="Lila Siegel des Märtyrermirakels" quality="5"/>
+<tswitem id="9185332" name="Lila Siegel von Nergals Zorn" quality="5"/>
+<tswitem id="9176928" name="Lila Siegel der ständigen Bewegung" quality="5"/>
+<tswitem id="9185502" name="Lila Siegel der beständigen Bosheit" quality="5"/>
+<tswitem id="9184549" name="Lila Siegel des Beschützerzorns" quality="5"/>
+<tswitem id="9190691" name="Lila Siegel der Erholung" quality="5"/>
+<tswitem id="9184909" name="Lila Siegel der erneuerten Wache" quality="5"/>
+<tswitem id="9176752" name="Lila Siegel der Entgegnung" quality="5"/>
+<tswitem id="9185323" name="Lila Siegel des Seelenfressers" quality="5"/>
+<tswitem id="9185393" name="Lila Siegel des Todesfluchs" quality="5"/>
+<tswitem id="9190757" name="Lila Siegel des Arztes" quality="5"/>
+<tswitem id="9190726" name="Lila Siegel der Geschützten" quality="5"/>
+<tswitem id="9176879" name="Lila Siegel des Zeitendiebs" quality="5"/>
+<tswitem id="9190657" name="Lila Siegel der Unablässigkeit" quality="5"/>
+<tswitem id="9167542" name="Blaues Siegel der Autonomie" quality="4"/>
+<tswitem id="9186106" name="Blaues Siegel der Verleumdung" quality="4"/>
+<tswitem id="9176311" name="Blaues Siegel der gesegneten Schritte" quality="4"/>
+<tswitem id="9185451" name="Blaues Siegel des Gnadenstoßes" quality="4"/>
+<tswitem id="9176843" name="Blaues Siegel der Todesnachricht" quality="4"/>
+<tswitem id="9186123" name="Blaues Siegel des Trotzes" quality="4"/>
+<tswitem id="9186086" name="Blaues Siegel der Ablenkung" quality="4"/>
+<tswitem id="9190781" name="Blaues Siegel der Verzweiflung" quality="4"/>
+<tswitem id="9186157" name="Blaues Siegel der Vertreibung" quality="4"/>
+<tswitem id="9176409" name="Blaues Siegel der göttlichen Inspiration" quality="4"/>
+<tswitem id="9176541" name="Blaues Siegel des eifrigen Heilers" quality="4"/>
+<tswitem id="9184494" name="Blaues Siegel der Füße des Hermes" quality="4"/>
+<tswitem id="9176612" name="Blaues Siegel von Houdinis List" quality="4"/>
+<tswitem id="9176579" name="Blaues Siegel der Versicherung" quality="4"/>
+<tswitem id="9176551" name="Blaues Siegel des Karmas" quality="4"/>
+<tswitem id="9184939" name="Blaues Siegel des Märtyrermirakels" quality="4"/>
+<tswitem id="9185332" name="Blaues Siegel von Nergals Zorn" quality="4"/>
+<tswitem id="9176928" name="Blaues Siegel der ständigen Bewegung" quality="4"/>
+<tswitem id="9185502" name="Blaues Siegel der beständigen Bosheit" quality="4"/>
+<tswitem id="9184549" name="Blaues Siegel des Beschützerzorns" quality="4"/>
+<tswitem id="9190691" name="Blaues Siegel der Erholung" quality="4"/>
+<tswitem id="9184909" name="Blaues Siegel der erneuerten Wache" quality="4"/>
+<tswitem id="9176752" name="Blaues Siegel der Entgegnung" quality="4"/>
+<tswitem id="9185323" name="Blaues Siegel des Seelenfressers" quality="4"/>
+<tswitem id="9185393" name="Blaues Siegel des Todesfluchs" quality="4"/>
+<tswitem id="9190757" name="Blaues Siegel des Arztes" quality="4"/>
+<tswitem id="9190726" name="Blaues Siegel der Geschützten" quality="4"/>
+<tswitem id="9176879" name="Blaues Siegel des Zeitendiebs" quality="4"/>
+<tswitem id="9190657" name="Blaues Siegel der Unablässigkeit" quality="4"/>
+
+<tswitem id="9185369" name="Grünes Siegel des geteilten Leides" quality="3"/>
+<tswitem id="9167542" name="Grünes Siegel der Autonomie" quality="3"/>
+<tswitem id="9186106" name="Grünes Siegel der Verleumdung" quality="3"/>
+<tswitem id="9176311" name="Grünes Siegel der gesegneten Schritte" quality="3"/>
+<tswitem id="9185451" name="Grünes Siegel des Gnadenstoßes" quality="3"/>
+<tswitem id="9176843" name="Grünes Siegel der Todesnachricht" quality="3"/>
+<tswitem id="9186123" name="Grünes Siegel des Trotzes" quality="3"/>
+<tswitem id="9186086" name="Grünes Siegel der Ablenkung" quality="3"/>
+<tswitem id="9190781" name="Grünes Siegel der Verzweiflung" quality="3"/>
+<tswitem id="9186157" name="Grünes Siegel der Vertreibung" quality="3"/>
+<tswitem id="9176409" name="Grünes Siegel der göttlichen Inspiration" quality="3"/>
+<tswitem id="9176541" name="Grünes Siegel des eifrigen Heilers" quality="3"/>
+<tswitem id="9184494" name="Grünes Siegel der Füße des Hermes" quality="3"/>
+<tswitem id="9176612" name="Grünes Siegel von Houdinis List" quality="3"/>
+<tswitem id="9176579" name="Grünes Siegel der Versicherung" quality="3"/>
+<tswitem id="9176551" name="Grünes Siegel des Karmas" quality="3"/>
+<tswitem id="9184939" name="Grünes Siegel des Märtyrermirakels" quality="3"/>
+<tswitem id="9185332" name="Grünes Siegel von Nergals Zorn" quality="3"/>
+<tswitem id="9176928" name="Grünes Siegel der ständigen Bewegung" quality="3"/>
+<tswitem id="9185502" name="Grünes Siegel der beständigen Bosheit" quality="3"/>
+<tswitem id="9184549" name="Grünes Siegel des Beschützerzorns" quality="3"/>
+<tswitem id="9190691" name="Grünes Siegel der Erholung" quality="3"/>
+<tswitem id="9184909" name="Grünes Siegel der erneuerten Wache" quality="3"/>
+<tswitem id="9176752" name="Grünes Siegel der Entgegnung" quality="3"/>
+<tswitem id="9185323" name="Grünes Siegel des Seelenfressers" quality="3"/>
+<tswitem id="9185393" name="Grünes Siegel des Todesfluchs" quality="3"/>
+<tswitem id="9190757" name="Grünes Siegel des Arztes" quality="3"/>
+<tswitem id="9190726" name="Grünes Siegel der Geschützten" quality="3"/>
+<tswitem id="9176879" name="Grünes Siegel des Zeitendiebs" quality="3"/>
+<tswitem id="9190657" name="Grünes Siegel der Unablässigkeit" quality="3"/>
+
 
 </list>

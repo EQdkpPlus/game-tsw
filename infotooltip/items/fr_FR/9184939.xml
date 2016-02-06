@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>		
+<tswitem>		
+<itemid>9184939</itemid>		
+<name>Insigne de miracle du martyr</name>		
+<iconpath>200003</iconpath>		
+<quality>7</quality>		
+		
+		
+<tooltip><![CDATA[		
+		
+<table width="100%"> 		
+	<tr> 	
+		<td align="left" class="tsw_tooltiptitle tsw_q;QL_VALUE;" colspan="2">Insigne de miracle du martyr</td> </tr>
+	<tr> 	
+		<td align="left" class="tsw_infolabel" colspan="2">Insigne (NQ: 10)</td> </tr> 
+	<tr> 	
+		<td align="left" class="tsw_infolabel_slot" colspan="2">Échangeables</td> </tr>  
+	<tr> 	
+		<td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+		</tr> 
+	<tr>	
+		<td align="left" class="tsw_infolabel" colspan="2">
+      Effet : chaque fois que vous mourez, cela génère à l'endroit de votre mort une aura de guérison durant <font color='#FF6600'>10</font> secondes. Les alliés situés dans l'aire d'effet récupèrent <font color='#FF6600'>%0.0f</font> points de santé par seconde. Les soins prodigués augmentent en fonction de votre valeur de guérison. Cet insigne peut être lié aux talismans majeurs.
+	</td></tr>	
+		
+		
+		
+</table>		
+]]>		
+</tooltip></tswitem>		

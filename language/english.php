@@ -52,7 +52,7 @@ $english_array =  array(
 		
 		// Profile information
 		'uc_cat_misc'				=> 'miscellaneous',
-		'uc_pvp'					=> 'Fusang Battlegroup',
+		'uc_pvp'					=> 'PVP Battleground',
 		'uc_pvp_help'				=> 'Battlegroup is Serverbound',
 		'uc_RP'						=> 'Roleplayer',
 		'uc_RP_help'				=> '',
@@ -61,12 +61,14 @@ $english_array =  array(
 		'uc_unknown'				=> 'unknown',
 		'uc_ED'						=> 'Eldorado',
 		'uc_SH'						=> 'Stonehenge',
+		'uc_ShB'					=> 'Shambala',	
 		'uc_BG'						=> 'Battlegroup',
 		'uc_BG_A'					=> 'Fusang BG-A',
 		'uc_BG_B'					=> 'Fusang BG-B',
 		'uc_guild'					=> 'Cabal',
 		'uc_level'					=> 'Effusionrating',
 		'uc_testlive'				=> 'Access to Testlive',
+		'uc_18h_Raid_cooldown'		=> '18h Raid Cooldown',
 		'uc_wings'					=> 'Wing Colour',
 		'uc_blue'					=> 'Blue',
 		'uc_gold'					=> 'Golden',

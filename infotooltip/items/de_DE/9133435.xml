@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>		
+<tswitem>		
+<itemid>9133435</itemid>		
+<name>Glyphen-Werkzeugsatz der 11. Stunde</name>		
+<iconpath>9133435</iconpath>		
+<quality>5</quality>		
+		
+		
+<tooltip><![CDATA[		
+		
+<table width="100%"> 		
+	<tr> 	
+		<td align="left" class="tsw_tooltiptitle tsw_q;QL_VALUE;" colspan="2">Glyphen-Werkzeugsatz der 11. Stunde</td> </tr>
+	<tr> 	
+		<td align="left" class="tsw_infolabel" colspan="2">Werkzeugsatz (QS 11 Epic)</td> </tr> 
+	<tr> 	
+		<td align="left" class="tsw_infolabel_slot" colspan="2">Charaktergebunden</td> </tr>  
+	<tr> 	
+		<td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+		</tr> 
+	<tr>	
+		<td align="left" class="tsw_infolabel" colspan="2">Dient zur Fertigung von Offensiv- oder Defensivglyphen. Erfordert Runen.
+Benutzt Materialien von reiner Qualität
+	</td></tr>	
+		
+		
+		
+</table>		
+]]>		
+</tooltip></tswitem>		

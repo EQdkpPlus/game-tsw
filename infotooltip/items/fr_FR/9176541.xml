@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>		
+<tswitem>		
+<itemid>9176541</itemid>		
+<name>Insigne de zèle du guérisseur</name>		
+<iconpath>200006</iconpath>		
+<quality>7</quality>		
+		
+		
+<tooltip><![CDATA[		
+		
+<table width="100%"> 		
+	<tr> 	
+		<td align="left" class="tsw_tooltiptitle tsw_q;QL_VALUE;" colspan="2">Insigne de zèle du guérisseur</td> </tr>
+	<tr> 	
+		<td align="left" class="tsw_infolabel" colspan="2">Insigne (NQ: 10)</td> </tr> 
+	<tr> 	
+		<td align="left" class="tsw_infolabel_slot" colspan="2">Échangeables</td> </tr>  
+	<tr> 	
+		<td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+		</tr> 
+	<tr>	
+		<td align="left" class="tsw_infolabel" colspan="2">
+      Effet : chaque fois que vous soignez directement un allié à qui il reste moins de <font color='#FF6600'>50%</font> de sa santé maximale, vous avez <span class="tsw_q3">10%</span>/<span class="tsw_q4">20%</span>/<span class="tsw_q5">30%</span> de chances de gagner une ressource pour vos deux armes. Cet insigne peut être lié aux talismans de tête ou aux armes.
+	</td></tr>	
+		
+		
+		
+</table>		
+]]>		
+</tooltip></tswitem>		

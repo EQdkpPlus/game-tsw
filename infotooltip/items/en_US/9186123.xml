@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>		
+<tswitem>		
+<itemid>9186123</itemid>		
+<name>Signet of Defiance</name>		
+<iconpath>200011</iconpath>		
+<quality>7</quality>		
+		
+		
+<tooltip><![CDATA[		
+		
+<table width="100%"> 		
+	<tr> 	
+		<td align="left" class="tsw_tooltiptitle tsw_q;QL_VALUE;" colspan="2">Signet of Defiance</td> </tr>
+	<tr> 	
+		<td align="left" class="tsw_infolabel" colspan="2">Signet (QL 10)</td> </tr> 
+	<tr> 	
+		<td align="left" class="tsw_infolabel_slot" colspan="2">Tradeable</td> </tr>  
+	<tr> 	
+		<td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+		</tr> 
+	<tr>	
+		<td align="left" class="tsw_infolabel" colspan="2">
+      Effect: Whenever you receive damage greater than <font color='#FF6600'>10%</font> of your maximum health in a single hit, you gain a barrier which absorbs <font color='#FF6600'>100%</font> of incoming damage. The barrier's strength is equal to  <span class="tsw_q3">5%</span>/<span class="tsw_q4">10%</span>/<span class="tsw_q5">15%</span> of your maximum health. This effect cannot occur more than once every <font color='#FF6600'>20</font> seconds. This Signet can be attached to Minor Talismans.
+
+
+	</td></tr>	
+		
+		
+		
+</table>		
+]]>		
+</tooltip></tswitem>		

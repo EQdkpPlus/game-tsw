@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>		
+<tswitem>		
+<itemid>9185323</itemid>		
+<name>Signet of Soul Eating</name>		
+<iconpath>200022</iconpath>		
+<quality>7</quality>		
+		
+		
+<tooltip><![CDATA[		
+		
+<table width="100%"> 		
+	<tr> 	
+		<td align="left" class="tsw_tooltiptitle tsw_q;QL_VALUE;" colspan="2">Signet of Soul Eating</td> </tr>
+	<tr> 	
+		<td align="left" class="tsw_infolabel" colspan="2">Signet (QL 10)</td> </tr> 
+	<tr> 	
+		<td align="left" class="tsw_infolabel_slot" colspan="2">Tradeable</td> </tr>  
+	<tr> 	
+		<td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+		</tr> 
+	<tr>	
+		<td align="left" class="tsw_infolabel" colspan="2">
+      Effect: When you score the killing blow on an enemy player, you regain <span class="tsw_q3">20%</span>/<span class="tsw_q4">30%</span>/<span class="tsw_q5">60%</span> of your health. This Signet can be attached to Head Talismans.
+
+
+	</td></tr>	
+		
+		
+		
+</table>		
+]]>		
+</tooltip></tswitem>		

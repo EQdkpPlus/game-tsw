@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>		
+<tswitem>		
+<itemid>9131971</itemid>		
+<name>AE Capacitor</name>		
+<iconpath>9131971</iconpath>		
+<quality>5</quality>		
+		
+		
+<tooltip><![CDATA[		
+		
+<table width="100%"> 		
+	<tr> 	
+		<td align="left" class="tsw_tooltiptitle tsw_q;QL_VALUE;" colspan="2">AE Capacitor</td> </tr>
+	<tr> 	
+		<td align="left" class="tsw_infolabel" colspan="2">AEGIS Capacitor (QL 0 - 9 Epic)</td> </tr> 
+	<tr> 	
+		<td align="left" width="50%" class="tsw_infolabel_slot" colspan="2">Character Bound</td> </tr>  
+	<tr> 	<td colspan="2"> <hr class="tsw_tooltip_hr"> </td><tr>
+	<tr> 	<td align="left" class="tsw_infolabel">
+	QL0: <font color='#FFC600'>12,6% - 13,0%</font> <br>
+	QL1: <font color='#FFC600'>13,1% - 13,5%</font> <br>
+	QL2: <font color='#FFC600'>13,6% - 14,0%</font> <br>
+	QL3: <font color='#FFC600'>14,1% - 14,5%</font> <br>
+	QL4: <font color='#FFC600'>14,6% - 15,0%</font> <br>
+	QL5: <font color='#FFC600'>15,1% - 15,5%</font> <br>
+	QL6: <font color='#FFC600'>15,6% - 16,0%</font> <br>
+	QL7: <font color='#FFC600'>16,1% - 16,5%</font> <br>
+	QL8: <font color='#FFC600'>16,6% - 17,0%</font> <br>
+	QL9: <font color='#FFC600'>17,1% - 17,5%</font></td>
+	<td align="left" width="50%" class="tsw_infolabel">damage converted to <br>current AEGIS damage type </td> </tr>  
+		
+	<tr> 	<td colspan="2"> <hr class="tsw_tooltip_hr"> </td><tr>
+	<tr>	
+		<td align="left" class="tsw_infolabel" colspan="2">Requires an AEGIS Controller of equal or greater QL to equip this item.  
+		
+	</td></tr>	
+</table>		
+]]>		
+</tooltip></tswitem>		

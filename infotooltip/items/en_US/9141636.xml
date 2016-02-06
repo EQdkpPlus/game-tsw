@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tswitem>
+<itemid>9141636</itemid>
+<name>Band of Dis</name>
+<iconpath>9141636</iconpath>
+<quality>5</quality>
+
+
+<tooltip><![CDATA[
+
+<table width="100%"> 
+	<tr> 	
+<td align="left" class="tsw_tooltiptitle tsw_q;QL_VALUE;" colspan="2">Band of Dis</td> </tr>
+	<tr> 	
+<td align="left" class="tsw_infolabel" colspan="2">Finger Talisman (QL 10.9 Epic)</td> </tr> 
+	<tr> 	
+<td align="left" class="tsw_infolabel_slot" colspan="2">Character Bound</td> </tr>  
+	<tr> 	<td colspan="2"> <hr class="tsw_tooltip_hr"> </td><tr>
+	<tr> 	<td align="left" width="5%" class="tsw_infolabel_hl"><font color='#FFC600'>+972</font> </td><td align="left" class="tsw_infolabel">Heal Raiting </td> </tr>  
+
+	<tr> 	<td colspan="2"> <hr class="tsw_tooltip_hr"> </td><tr>
+	<tr>	
+<td align="left" class="tsw_infolabel" colspan="2">Whenever you critically heal, you gain a beneficial effect that increases your Crit Power by <font color='#FF6600'>25%</font> for <font color='#FF6600'>15</font> seconds. The duration of this effect is not refreshed when reapplied.
+
+	</td></tr>	
+	<tr> 	<td colspan="3"> <hr class="tsw_tooltip_hr"> </td><tr>
+	<tr>  	<td align="right" class="tsw_item_manastone"></td> 
+ <td align="left" class="tsw_infolabel_slot">Empty Glyph Slot </td></tr>  
+</table>
+]]>
+</tooltip></tswitem>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>		
+<tswitem>		
+<itemid>9176879</itemid>		
+<name>Siegel des Zeitendiebs</name>		
+<iconpath>200022</iconpath>		
+<quality>7</quality>		
+		
+		
+<tooltip><![CDATA[		
+		
+<table width="100%"> 		
+	<tr> 	
+		<td align="left" class="tsw_tooltiptitle tsw_q;QL_VALUE;" colspan="2">Siegel des Zeitendiebs</td> </tr>
+	<tr> 	
+		<td align="left" class="tsw_infolabel" colspan="2">Siegel (QS 10)</td> </tr> 
+	<tr> 	
+		<td align="left" class="tsw_infolabel_slot" colspan="2">Handelbar</td> </tr>  
+	<tr> 	
+		<td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+		</tr> 
+	<tr>	
+		<td align="left" class="tsw_infolabel" colspan="2">
+      Effekt: Wenn Sie einem feindlichen Spieler den Todesstoß versetzen, wird die Dauer Ihrer aktuell laufenden Aufladezeiten um <span class="tsw_q3">25%</span>/<span class="tsw_q4">50%</span>/<span class="tsw_q5">75%</span> verkürzt. Dieses Siegel kann an Kopftalismanen angebracht werden.
+
+    	
+	</td></tr>	
+		
+		
+		
+</table>		
+]]>		
+</tooltip></tswitem>		

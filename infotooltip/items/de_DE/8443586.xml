@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>		
+<tswitem>		
+<itemid>8443586</itemid>		
+<name>AEGIS Firmware-Upgrade v3.0</name>		
+<iconpath>8443586</iconpath>		
+<quality>5</quality>		
+		
+		
+<tooltip><![CDATA[		
+		
+<table width="100%"> 		
+	<tr> 	
+		<td align="left" class="tsw_tooltiptitle tsw_q;QL_VALUE;" colspan="2">AEGIS Firmware-Upgrade v3.0</td> </tr>
+	<tr> 	
+		<td align="left" class="tsw_infolabel" colspan="2">Werkzeugsatz (QS 10 Epic)</td> </tr> 
+	<tr> 	
+		<td align="left" class="tsw_infolabel_slot" colspan="2">Handelbar</td> </tr>  
+	<tr> 	
+		<td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+		</tr> 
+	<tr>	
+		<td align="left" class="tsw_infolabel" colspan="2">Aktualisiert die Firmware eines AEGIS-Controllers, um ein Upgrade auf die nächsthöhere Versionsstufe zu ermöglichen. Für den Einbau dieses Upgrades ist eine vollständige Analyse von Schmutzproben erforderlich.
+
+Dieses Firmware-Upgrade kann einen AEGIS-Controller lediglich von Version 2.9 auf Version 3.0 upgraden und wird bei diesem Prozess verbraucht.
+		
+	</td></tr>	
+		
+		
+		
+</table>		
+]]>		
+</tooltip></tswitem>		

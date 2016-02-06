@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>		
+<tswitem>		
+<itemid>9142195</itemid>		
+<name>Anneau de Keziah Mason</name>		
+<iconpath>9142195</iconpath>		
+<quality>5</quality>		
+		
+		
+<tooltip><![CDATA[		
+		
+<table width="100%"> 		
+	<tr> 	
+		<td align="left" class="tsw_tooltiptitle tsw_q;QL_VALUE;" colspan="2">Anneau de Keziah Mason</td> </tr>
+	<tr> 	
+		<td align="left" class="tsw_infolabel" colspan="2">Talisman de toigt (NQ 10.9 Épique)</td> </tr> 
+	<tr> 	
+		<td align="left" class="tsw_infolabel_slot" colspan="2">Lié au personnage</td> </tr>  
+	<tr> 	<td colspan="2"> <hr class="tsw_tooltip_hr"> </td><tr>
+	<tr> 	<td align="left" width="5%" class="tsw_infolabel_hl"><font color='#FFC600'>+972</font> </td><td align="left" class="tsw_infolabel">Valeur d'attaque </td> </tr>  
+		
+	<tr> 	<td colspan="2"> <hr class="tsw_tooltip_hr"> </td><tr>
+	<tr>	
+		<td align="left" class="tsw_infolabel" colspan="2">Chaque fois que vous réussissez un coup critique pénétrant les défenses adverses, la cible se retrouve <i>affligée</i> d'un effet de dégâts sur la durée causant <font color='#a2413d'>Combat Power/10.6</font>  points de dégâts physiques par seconde pendant <font color='#FF6600'>7</font> secondes. <br>
+Tant qu'elle est affligée par cet effet, la cible subit <font color='#FF6600'>5%</font> de dégâts en plus de toutes les sources. La durée de cet effet n'est pas rafraîchie quand il s'applique de nouveau."
+		
+	</td></tr>	
+	<tr> 	<td colspan="3"> <hr class="tsw_tooltip_hr"> </td><tr>
+	<tr>  	<td align="right" class="tsw_item_manastone"></td> 
+		 <td align="left" class="tsw_infolabel_slot">Emplacement de glyphe libre</td></tr>  
+</table>		
+]]>		
+</tooltip></tswitem>		

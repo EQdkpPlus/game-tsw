@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>		
+<tswitem>		
+<itemid>9122175</itemid>		
+<name>Contrecoup avancé - Évitement</name>		
+<iconpath>9122191</iconpath>		
+<quality>5</quality>		
+		
+		
+<tooltip><![CDATA[		
+		
+<table width="100%"> 		
+	<tr> 	
+		<td align="left" class="tsw_tooltiptitle tsw_q;QL_VALUE;" colspan="2">Contrecoup avancé - Évitement</td> </tr>
+	<tr> 	
+		<td align="left" class="tsw_infolabel" colspan="2">Gadget (NQ 10 Épique)</td> </tr> 
+	<tr> 	
+		<td align="left" class="tsw_infolabel_slot" colspan="2">Lié au personnage</td> </tr>  
+	<tr> 	
+		<td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+		</tr> 
+	<tr>	
+		<td align="left" class="tsw_infolabel" colspan="2"><font color='#FFC600'>Contrecoup :</font> pendant <font color='#FF6600'>20</font> secondes, chaque fois que vous évitez une attaque, vous gagnez <br> 1: <font color='#FF6600'>695</font> en valeur de toucher <br> 2: <font color='#FF6600'>695</font> en valeur de parade <br> 3: <font color='#FF6600'>785</font> en valeur de critique<br>4: <font color='#FF6600'>695</font> en valeur de puissance de critique<br>5: <font color='#FF6600'>695</font> en valeur de défense<br>6: <font color='#FF6600'>720</font> en valeur d'évitement<br>7: <font color='#FF6600'>450</font> en protection physique et magique<br>8: <font color='#FF6600'>695</font> en valeur de pénétration<br> pendant <font color='#FF6600'>4</font> secondes.
+
+Applique un cycle de <font color='#FF6600'>2</font> minutes à tous les contrecoups.		
+	</td></tr>	
+		
+		
+		
+</table>		
+]]>		
+</tooltip></tswitem>		

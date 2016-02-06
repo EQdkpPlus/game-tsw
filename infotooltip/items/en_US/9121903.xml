@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>		
+<tswitem>		
+<itemid>9121903</itemid>		
+<name>Advanced Kickback - Hit</name>		
+<iconpath>9121904</iconpath>		
+<quality>5</quality>		
+		
+		
+<tooltip><![CDATA[		
+		
+<table width="100%"> 		
+	<tr> 	
+		<td align="left" class="tsw_tooltiptitle tsw_q;QL_VALUE;" colspan="2">Advanced Kickback - Hit</td> </tr>
+	<tr> 	
+		<td align="left" class="tsw_infolabel" colspan="2">Gadget (QL 10 Epic)</td> </tr> 
+	<tr> 	
+		<td align="left" class="tsw_infolabel_slot" colspan="2">Character Bound</td> </tr>  
+	<tr> 	
+		<td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+		</tr> 
+	<tr>	
+		<td align="left" class="tsw_infolabel" colspan="2"><font color='#FFC600'>Kickback:</font> For <font color='#FF6600'>20</font> seconds, whenever you hit you have a <font color='#FF6600'>30%</font> chance to gain <br> 1: <font color='#FF6600'>464</font> Hit Rating <br> 2: <font color='#FF6600'>464</font> Block Rating <br> 3: <font color='#FF6600'>464</font> Critical Rating<br>4: <font color='#FF6600'>464</font> Critical Power Rating<br>5: <font color='#FF6600'>464</font> Defence Rating<br>6: <font color='#FF6600'>503</font> Evade Rating <br>7: <font color='#FF6600'>290</font> Physical and Magical Protection<br>8: <font color='#FF6600'>464</font> Penetration Rating<br>for <font color='#FF6600'>4</font> seconds.
+
+Applies a <font color='#FF6600'>2</font> minute cooldown to all Kickbacks.
+	</td></tr>	
+		
+		
+		
+</table>		
+]]>		
+</tooltip></tswitem>		

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>		
+<tswitem>		
+<itemid>9190726</itemid>		
+<name>Siegel der Geschützten</name>		
+<iconpath>200010</iconpath>		
+<quality>7</quality>		
+		
+		
+<tooltip><![CDATA[		
+		
+<table width="100%"> 		
+	<tr> 	
+		<td align="left" class="tsw_tooltiptitle tsw_q;QL_VALUE;" colspan="2">Siegel der Geschützten</td> </tr>
+	<tr> 	
+		<td align="left" class="tsw_infolabel" colspan="2">Siegel (QS 10)</td> </tr> 
+	<tr> 	
+		<td align="left" class="tsw_infolabel_slot" colspan="2">Handelbar</td> </tr>  
+	<tr> 	
+		<td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+		</tr> 
+	<tr>	
+		<td align="left" class="tsw_infolabel" colspan="2">
+      Belegen Sie einen Verbündeten, auf den bereits ein Barriere-Effekt wirkt, mit einem weiteren Barriere-Effekt, regenerieren Sie bei ihm <span class="tsw_q3">50</span>/<span class="tsw_q4">100</span>/<span class="tsw_q5">150</span> Gesundheit. Dieses Siegel kann an kleinen Talismanen angebracht werden.
+
+    
+	</td></tr>	
+		
+		
+		
+</table>		
+]]>		
+</tooltip></tswitem>		

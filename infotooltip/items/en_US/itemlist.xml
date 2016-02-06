@@ -41,8 +41,6 @@
 <tswitem id="8131223" name="Bauble of Baleful Wormfire" quality="5"/>
 <tswitem id="8131224" name="Mask of Chaos Crawling" quality="5"/>
 <tswitem id="7894446" name="Auxiliary upgrade toolkit" quality="5"/>
-
-
 <tswitem id="200001" name="Signet of Amelioration" quality="7"/>
 <tswitem id="200002" name="Signet of Violence" quality="7"/>
 <tswitem id="200003" name="Signet of Vigour" quality="7"/>
@@ -390,10 +388,172 @@
 <tswitem id="9121891" name="Advanced Stimulant - Hit" quality="5"/>
 <tswitem id="9121893" name="Advanced Stimulant - Protection" quality="5"/>
 <tswitem id="9121895" name="Advanced Stimulant - Penetration" quality="5"/>
+
+<tswitem id="9121903" name="Advanced Kickback - Hit" quality="5"/>
+<tswitem id="9121930" name="Advanced Kickback - Block" quality="5"/>
+<tswitem id="9121976" name="Advanced Kickback - Crit" quality="5"/>
+<tswitem id="9122009" name="Advanced Kickback - Defence" quality="5"/>
+<tswitem id="9122175" name="Advanced Kickback - Evade" quality="5"/>
+<tswitem id="9122199" name="Advanced Kickback - Penetrate" quality="5"/>
+
+
 <tswitem id="9122323" name="Carapace of the Immaculate Machine - Boots, white" quality="5"/>
 <tswitem id="9122325" name="Carapace of the Immaculate Machine - Chestguard white" quality="5"/>
 <tswitem id="9122332" name="Carapace of the Immaculate Machine - Gauntlets, white" quality="5"/>
 <tswitem id="9122334" name="Carapace of the Immaculate Machine - Plated leggings, white" quality="5"/>
 <tswitem id="9122339" name="Carapace of the Immaculate Machine - Helmet, white" quality="5"/>
+
+<tswitem id="9121762" name="Carapace of the Immaculate Machine - Boots, black" quality="5"/>
+<tswitem id="9121766" name="Carapace of the Immaculate Machine - Chestguard black" quality="5"/>
+<tswitem id="9121770" name="Carapace of the Immaculate Machine - Gauntlets black" quality="5"/>
+<tswitem id="9121774" name="Carapace of the Immaculate Machine - Plated leggings black" quality="5"/>
+<tswitem id="9121778" name="Carapace of the Immaculate Machine - Helmet black" quality="5"/>
+<tswitem id="9135291" name="Broadway Charm nm" quality="5"/>
+<tswitem id="9135292" name="Subway Tokens nm" quality="5"/>
+<tswitem id="9135293" name="NY Buckle nm" quality="5"/>
+<tswitem id="9141546" name="Yellow Pigment of Leng" quality="5"/>
+<tswitem id="9141548" name="Essential Saltes of Joseph Curwen" quality="5"/>
+<tswitem id="9141549" name="Ichor of the Outer Gods" quality="5"/>
+<tswitem id="9141635" name="Bracer of Celephias" quality="5"/>
+<tswitem id="9141636" name="Band of Dis" quality="5"/>
+<tswitem id="9141916" name="Architeuthis Vitreous Humor" quality="5"/>
+<tswitem id="9141930" name="Brown Jenkins's Collar" quality="5"/>
+<tswitem id="9141932" name="Amulet of Yuggoth" quality="5"/>
+<tswitem id="9142125" name="Dust of the Black Pharaoh" quality="5"/>
+<tswitem id="9142195" name="Keziah Mason's Ring" quality="5"/>
+<tswitem id="9142485" name="Blood of the Deep One King" quality="5"/>
+<tswitem id="9143879" name="Brace of the Ghoul King" quality="5"/>
+<tswitem id="9133435" name="11th Hour glyph toolkit" quality="5"/>
+<tswitem id="9130343" name="Supernal upgrade" quality="5"/>
+<tswitem id="9119399" name="Superior custom weapon upgrade toolkit" quality="5"/>
+<tswitem id="9119170" name="Superior custom talisman upgrade toolkit" quality="5"/>
+<tswitem id="8443586" name="AEGIS Firmware Upgrade v3.0" quality="5"/>
+<tswitem id="8443141" name="Memory Expansion Module Mk V" quality="5"/>
+<tswitem id="9132860" name="Memory Expansion Module Mk VI" quality="5"/>
+<tswitem id="9132861" name="Memory Expansion Module Mk VII" quality="5"/>
+<tswitem id="9131971" name="AE Capacitor" quality="5"/>
+<tswitem id="8729028" name="AE Rampart Capacitor" quality="5"/>
+<tswitem id="9132132" name="AE Convalescence Capacitor" quality="5"/>
+
+<tswitem id="9185369" name="Signet of Agony Shared" quality="7569516"/>
+<tswitem id="9167542" name="Signet of Autonomy" quality="7"/>
+<tswitem id="9186106" name="Signet of Backbite" quality="7"/>
+<tswitem id="9176311" name="Signet of Blessed Steps" quality="7"/>
+<tswitem id="9185451" name="Signet of Coup De Grâce" quality="7"/>
+<tswitem id="9176843" name="Signet of Death's Note" quality="7"/>
+<tswitem id="9186123" name="Signet of Defiance" quality="7"/>
+<tswitem id="9186086" name="Signet of Deflection" quality="7"/>
+<tswitem id="9190781" name="Signet of Desperation" quality="7"/>
+<tswitem id="9186157" name="Signet of Displacement" quality="7"/>
+<tswitem id="9176409" name="Signet of Divine Inspiration" quality="7"/>
+<tswitem id="9176541" name="Signet of Healer's Zeal" quality="7"/>
+<tswitem id="9184494" name="Signet of Hermes' Feet" quality="7"/>
+<tswitem id="9176612" name="Signet of Houdini's Guile" quality="7"/>
+<tswitem id="9176579" name="Signet of Insurance" quality="7"/>
+<tswitem id="9176551" name="Signet of Karma" quality="7"/>
+<tswitem id="9184939" name="Signet of Martyr's Miracle" quality="7"/>
+<tswitem id="9185332" name="Signet of Nergal's Ire" quality="7"/>
+<tswitem id="9176928" name="Signet of Perpetual Motion" quality="7"/>
+<tswitem id="9185502" name="Signet of Persistent Malice" quality="7"/>
+<tswitem id="9184549" name="Signet of Protector's Wrath" quality="7"/>
+<tswitem id="9190691" name="Signet of Recuperation" quality="7"/>
+<tswitem id="9184909" name="Signet of Renewed Vigil" quality="7"/>
+<tswitem id="9176752" name="Signet of Riposte" quality="7"/>
+<tswitem id="9185323" name="Signet of Soul Eating" quality="7"/>
+<tswitem id="9185393" name="Signet of the Death Curse" quality="7"/>
+<tswitem id="9190757" name="Signet of the Physician" quality="7"/>
+<tswitem id="9190726" name="Signet of the Protected" quality="7"/>
+<tswitem id="9176879" name="Signet of the Time Thief" quality="7"/>
+<tswitem id="9190657" name="Signet of Unceasing" quality="7"/>
+<tswitem id="9185369" name="Purple Signet of Agony Shared" quality="5"/>
+<tswitem id="9167542" name="Purple Signet of Autonomy" quality="5"/>
+<tswitem id="9186106" name="Purple Signet of Backbite" quality="5"/>
+<tswitem id="9176311" name="Purple Signet of Blessed Steps" quality="5"/>
+<tswitem id="9185451" name="Purple Signet of Coup De Grâce" quality="5"/>
+<tswitem id="9176843" name="Purple Signet of Death's Note" quality="5"/>
+<tswitem id="9186123" name="Purple Signet of Defiance" quality="5"/>
+<tswitem id="9186086" name="Purple Signet of Deflection" quality="5"/>
+<tswitem id="9190781" name="Purple Signet of Desperation" quality="5"/>
+<tswitem id="9186157" name="Purple Signet of Displacement" quality="5"/>
+<tswitem id="9176409" name="Purple Signet of Divine Inspiration" quality="5"/>
+<tswitem id="9176541" name="Purple Signet of Healer's Zeal" quality="5"/>
+<tswitem id="9184494" name="Purple Signet of Hermes' Feet" quality="5"/>
+<tswitem id="9176612" name="Purple Signet of Houdini's Guile" quality="5"/>
+<tswitem id="9176579" name="Purple Signet of Insurance" quality="5"/>
+<tswitem id="9176551" name="Purple Signet of Karma" quality="5"/>
+<tswitem id="9184939" name="Purple Signet of Martyr's Miracle" quality="5"/>
+<tswitem id="9185332" name="Purple Signet of Nergal's Ire" quality="5"/>
+<tswitem id="9176928" name="Purple Signet of Perpetual Motion" quality="5"/>
+<tswitem id="9185502" name="Purple Signet of Persistent Malice" quality="5"/>
+<tswitem id="9184549" name="Purple Signet of Protector's Wrath" quality="5"/>
+<tswitem id="9190691" name="Purple Signet of Recuperation" quality="5"/>
+<tswitem id="9184909" name="Purple Signet of Renewed Vigil" quality="5"/>
+<tswitem id="9176752" name="Purple Signet of Riposte" quality="5"/>
+<tswitem id="9185323" name="Purple Signet of Soul Eating" quality="5"/>
+<tswitem id="9185393" name="Purple Signet of the Death Curse" quality="5"/>
+<tswitem id="9190757" name="Purple Signet of the Physician" quality="5"/>
+<tswitem id="9190726" name="Purple Signet of the Protected" quality="5"/>
+<tswitem id="9176879" name="Purple Signet of the Time Thief" quality="5"/>
+<tswitem id="9190657" name="Purple Signet of Unceasing" quality="5"/>
+<tswitem id="9185369" name="Blue Signet of Agony Shared" quality="4"/>
+<tswitem id="9167542" name="Blue Signet of Autonomy" quality="4"/>
+<tswitem id="9186106" name="Blue Signet of Backbite" quality="4"/>
+<tswitem id="9176311" name="Blue Signet of Blessed Steps" quality="4"/>
+<tswitem id="9185451" name="Blue Signet of Coup De Grâce" quality="4"/>
+<tswitem id="9176843" name="Blue Signet of Death's Note" quality="4"/>
+<tswitem id="9186123" name="Blue Signet of Defiance" quality="4"/>
+<tswitem id="9186086" name="Blue Signet of Deflection" quality="4"/>
+<tswitem id="9190781" name="Blue Signet of Desperation" quality="4"/>
+<tswitem id="9186157" name="Blue Signet of Displacement" quality="4"/>
+<tswitem id="9176409" name="Blue Signet of Divine Inspiration" quality="4"/>
+<tswitem id="9176541" name="Blue Signet of Healer's Zeal" quality="4"/>
+<tswitem id="9184494" name="Blue Signet of Hermes' Feet" quality="4"/>
+<tswitem id="9176612" name="Blue Signet of Houdini's Guile" quality="4"/>
+<tswitem id="9176579" name="Blue Signet of Insurance" quality="4"/>
+<tswitem id="9176551" name="Blue Signet of Karma" quality="4"/>
+<tswitem id="9184939" name="Blue Signet of Martyr's Miracle" quality="4"/>
+<tswitem id="9185332" name="Blue Signet of Nergal's Ire" quality="4"/>
+<tswitem id="9176928" name="Blue Signet of Perpetual Motion" quality="4"/>
+<tswitem id="9185502" name="Blue Signet of Persistent Malice" quality="4"/>
+<tswitem id="9184549" name="Blue Signet of Protector's Wrath" quality="4"/>
+<tswitem id="9190691" name="Blue Signet of Recuperation" quality="4"/>
+<tswitem id="9184909" name="Blue Signet of Renewed Vigil" quality="4"/>
+<tswitem id="9176752" name="Blue Signet of Riposte" quality="4"/>
+<tswitem id="9185323" name="Blue Signet of Soul Eating" quality="4"/>
+<tswitem id="9185393" name="Blue Signet of the Death Curse" quality="4"/>
+<tswitem id="9190757" name="Blue Signet of the Physician" quality="4"/>
+<tswitem id="9190726" name="Blue Signet of the Protected" quality="4"/>
+<tswitem id="9176879" name="Blue Signet of the Time Thief" quality="4"/>
+<tswitem id="9190657" name="Blue Signet of Unceasing" quality="4"/>
+<tswitem id="9185369" name="Green Signet of Agony Shared" quality="3"/>
+<tswitem id="9167542" name="Green Signet of Autonomy" quality="3"/>
+<tswitem id="9186106" name="Green Signet of Backbite" quality="3"/>
+<tswitem id="9176311" name="Green Signet of Blessed Steps" quality="3"/>
+<tswitem id="9185451" name="Green Signet of Coup De Grâce" quality="3"/>
+<tswitem id="9176843" name="Green Signet of Death's Note" quality="3"/>
+<tswitem id="9186123" name="Green Signet of Defiance" quality="3"/>
+<tswitem id="9186086" name="Green Signet of Deflection" quality="3"/>
+<tswitem id="9190781" name="Green Signet of Desperation" quality="3"/>
+<tswitem id="9186157" name="Green Signet of Displacement" quality="3"/>
+<tswitem id="9176409" name="Green Signet of Divine Inspiration" quality="3"/>
+<tswitem id="9176541" name="Green Signet of Healer's Zeal" quality="3"/>
+<tswitem id="9184494" name="Green Signet of Hermes' Feet" quality="3"/>
+<tswitem id="9176612" name="Green Signet of Houdini's Guile" quality="3"/>
+<tswitem id="9176579" name="Green Signet of Insurance" quality="3"/>
+<tswitem id="9176551" name="Green Signet of Karma" quality="3"/>
+<tswitem id="9184939" name="Green Signet of Martyr's Miracle" quality="3"/>
+<tswitem id="9185332" name="Green Signet of Nergal's Ire" quality="3"/>
+<tswitem id="9176928" name="Green Signet of Perpetual Motion" quality="3"/>
+<tswitem id="9185502" name="Green Signet of Persistent Malice" quality="3"/>
+<tswitem id="9184549" name="Green Signet of Protector's Wrath" quality="3"/>
+<tswitem id="9190691" name="Green Signet of Recuperation" quality="3"/>
+<tswitem id="9184909" name="Green Signet of Renewed Vigil" quality="3"/>
+<tswitem id="9176752" name="Green Signet of Riposte" quality="3"/>
+<tswitem id="9185323" name="Green Signet of Soul Eating" quality="3"/>
+<tswitem id="9185393" name="Green Signet of the Death Curse" quality="3"/>
+<tswitem id="9190757" name="Green Signet of the Physician" quality="3"/>
+<tswitem id="9190726" name="Green Signet of the Protected" quality="3"/>
+<tswitem id="9176879" name="Green Signet of the Time Thief" quality="3"/>
+<tswitem id="9190657" name="Green Signet of Unceasing" quality="3"/>
 
 </list>

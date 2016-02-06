@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>		
+<tswitem>		
+<itemid>9176752</itemid>		
+<name>Insigne de riposte</name>		
+<iconpath>200005</iconpath>		
+<quality>7</quality>		
+		
+		
+<tooltip><![CDATA[		
+		
+<table width="100%"> 		
+	<tr> 	
+		<td align="left" class="tsw_tooltiptitle tsw_q;QL_VALUE;" colspan="2">Insigne de riposte</td> </tr>
+	<tr> 	
+		<td align="left" class="tsw_infolabel" colspan="2">Insigne (NQ: 10)</td> </tr> 
+	<tr> 	
+		<td align="left" class="tsw_infolabel_slot" colspan="2">Échangeables</td> </tr>  
+	<tr> 	
+		<td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+		</tr> 
+	<tr>	
+		<td align="left" class="tsw_infolabel" colspan="2">
+      Effet : quand vous parez ou évitez une attaque ou que vous êtes touché/e par un coup dévié, vous gagnez un effet bénéfique qui augmente vos chances de critique et vos chances de pénétration de <span class="tsw_q3">6%</span>/<span class="tsw_q4">12%</span>/<span class="tsw_q5">18%</span> pendant <font color='#FF6600'>2</font> secondes. Cet insigne peut être lié aux talismans de tête.
+
+
+	</td></tr>	
+		
+		
+		
+</table>		
+]]>		
+</tooltip></tswitem>		

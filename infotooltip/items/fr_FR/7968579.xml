@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>		
+<tswitem>		
+<itemid>7968579</itemid>		
+<name>Braclet de Brooklyn</name>		
+<iconpath>7968579</iconpath>		
+<quality>5</quality>		
+		
+		
+<tooltip><![CDATA[		
+		
+<table width="100%"> 		
+	<tr> 	
+		<td align="left" class="tsw_tooltiptitle tsw_q;QL_VALUE;" colspan="2">Braclet de Brooklyn</td> </tr>
+	<tr> 	
+		<td align="left" class="tsw_infolabel" colspan="2">Talisman de poignet (NQ 10.4 Épique)</td> </tr> 
+	<tr> 	
+		<td align="left" class="tsw_infolabel_slot" colspan="2">Lié au personnage</td> </tr>  
+	<tr> 	<td colspan="2"> <hr class="tsw_tooltip_hr"> </td><tr>
+	<tr> 	<td align="left" width="5%" class="tsw_infolabel_hl"><font color='#FFC600'>+2237</font></td><td align="left" class="tsw_infolabel">Santé </td> </tr>  
+		
+	<tr> 	<td colspan="2"> <hr class="tsw_tooltip_hr"> </td><tr>
+	<tr>	
+		<td align="left" class="tsw_infolabel" colspan="2">Quand on vous attaque, vous obtenez un incrément d'un effet bénéfique qui augmente vos chances d'évitement de <font color='#FF6600'>5%</font> par incrément. Cet effet se dissipe au premier évitement réussi.
+		
+	</td></tr>	
+	<tr> 	<td colspan="3"> <hr class="tsw_tooltip_hr"> </td><tr>
+	<tr>  	<td align="right" class="tsw_item_manastone"></td> 
+		 <td align="left" class="tsw_infolabel_slot">Emplacement de glyphe libre</td></tr>  
+</table>		
+]]>		
+</tooltip></tswitem>		

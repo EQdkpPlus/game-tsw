@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>		
+<tswitem>		
+<itemid>9176579</itemid>		
+<name>Siegel der Versicherung</name>		
+<iconpath>200021</iconpath>		
+<quality>7</quality>		
+		
+		
+<tooltip><![CDATA[		
+		
+<table width="100%"> 		
+	<tr> 	
+		<td align="left" class="tsw_tooltiptitle tsw_q;QL_VALUE;" colspan="2">Siegel der Versicherung</td> </tr>
+	<tr> 	
+		<td align="left" class="tsw_infolabel" colspan="2">Siegel (QS 10)</td> </tr> 
+	<tr> 	
+		<td align="left" class="tsw_infolabel_slot" colspan="2">Handelbar</td> </tr>  
+	<tr> 	
+		<td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+		</tr> 
+	<tr>	
+		<td align="left" class="tsw_infolabel" colspan="2">
+      Effekt: Wenn Sie ein Ziel treffen oder heilen, erhalten Sie einen positiven Effekt, der <font color='#FF6600'>10</font> Sekunden lang anhält. Dieser Effekt kann nur alle <font color='#FF6600'>15</font> Sekunden eintreten. Wird dieser Effekt aufgehoben, erhalten Sie einen positiven Effekt, der Ihre Ausweichchance und die Chance, dass Angriffe auf Sie in Streiftreffer umgewandelt werden, <font color='#FF6600'>10</font> Sekunden lang um <span class="tsw_q3">10%</span>/<span class="tsw_q4">20%</span>/<span class="tsw_q5">30%</span> erhöht. Dieser Effekt kann nicht aufgehoben werden. Dieses Siegel kann an Kopftalismanen oder Waffen angebracht werden.
+
+
+		
+	</td></tr>	
+		
+		
+		
+</table>		
+]]>		
+</tooltip></tswitem>		

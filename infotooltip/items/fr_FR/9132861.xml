@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>		
+<tswitem>		
+<itemid>9132861</itemid>		
+<name>Module d'extension de mémoire Mk VII</name>		
+<iconpath>8443141</iconpath>		
+<quality>5</quality>		
+		
+		
+<tooltip><![CDATA[		
+		
+<table width="100%"> 		
+	<tr> 	
+		<td align="left" class="tsw_tooltiptitle tsw_q;QL_VALUE;" colspan="2">Module d'extension de mémoire Mk VII</td> </tr>
+	<tr> 	
+		<td align="left" class="tsw_infolabel" colspan="2">Outils (NQ 10 Épique)</td> </tr> 
+	<tr> 	
+		<td align="left" class="tsw_infolabel_slot" colspan="2">Lié au personnage</td> </tr>  
+	<tr> 	
+		<td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+		</tr> 
+	<tr>	
+		<td align="left" class="tsw_infolabel" colspan="2">
+      Augmente la mémoire d'un contrôleur AEGIS, ce qui permet de le faire passer à la version suivante. L'analyse des échantillons de Souillure doit être terminée (100%) pour qu'il soit possible de finaliser cette mise à niveau.
+
+Ce module contient une extension de mémoire supplémentaire, permettant de perfectionner un AEGIS de version v3.6 ou mieux. Il ne peut l'améliorer que jusqu'à la version v3.9 et est consommé lors de la mise à niveau.
+	
+	</td></tr>	
+		
+		
+		
+</table>		
+]]>		
+</tooltip></tswitem>		

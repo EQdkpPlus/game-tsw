@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>		
+<tswitem>		
+<itemid>9131971</itemid>		
+<name>Condensateur AE</name>		
+<iconpath>9131971</iconpath>		
+<quality>5</quality>		
+		
+		
+<tooltip><![CDATA[		
+		
+<table width="100%"> 		
+	<tr> 	
+		<td align="left" class="tsw_tooltiptitle tsw_q;QL_VALUE;" colspan="2">Condensateur AE
+</td> </tr>
+	<tr> 	
+		<td align="left" class="tsw_infolabel" colspan="2">Condensateur AEGIS (NQ 0-9 Épique)
+</td> </tr> 
+	<tr> 	
+		<td align="left" width="50%" class="tsw_infolabel_slot" colspan="2">Lié au personnage</td> </tr>  
+	<tr> 	<td colspan="2"> <hr class="tsw_tooltip_hr"> </td><tr>
+	<tr> 	<td align="left" class="tsw_infolabel">
+	NQ0: <font color='#FFC600'>12,6% - 13,0%</font> <br>
+	NQ1: <font color='#FFC600'>13,1% - 13,5%</font> <br>
+	NQ2: <font color='#FFC600'>13,6% - 14,0%</font> <br>
+	NQ3: <font color='#FFC600'>14,1% - 14,5%</font> <br>
+	NQ4: <font color='#FFC600'>14,6% - 15,0%</font> <br>
+	NQ5: <font color='#FFC600'>15,1% - 15,5%</font> <br>
+	NQ6: <font color='#FFC600'>15,6% - 16,0%</font> <br>
+	NQ7: <font color='#FFC600'>16,1% - 16,5%</font> <br>
+	NQ8: <font color='#FFC600'>16,6% - 17,0%</font> <br>
+	NQ9: <font color='#FFC600'>17,1% - 17,5%</font></td>
+	<td align="left" width="50%" class="tsw_infolabel">des dégâts convertis en <br>dégâts du type de l'AEGIS actuel
+</td> </tr>  
+		
+	<tr> 	<td colspan="2"> <hr class="tsw_tooltip_hr"> </td><tr>
+	<tr>	
+		<td align="left" class="tsw_infolabel" colspan="2">Un contrôleur AEGIS de NQ égal ou supérieur est nécessaire pour pouvoir s'équiper de cet objet.
+
+		
+	</td></tr>	
+</table>		
+]]>		
+</tooltip></tswitem>		

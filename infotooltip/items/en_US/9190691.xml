@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>		
+<tswitem>		
+<itemid>9190691</itemid>		
+<name>Signet of Recuperation</name>		
+<iconpath>200010</iconpath>		
+<quality>7</quality>		
+		
+		
+<tooltip><![CDATA[		
+		
+<table width="100%"> 		
+	<tr> 	
+		<td align="left" class="tsw_tooltiptitle tsw_q;QL_VALUE;" colspan="2">Signet of Recuperation</td> </tr>
+	<tr> 	
+		<td align="left" class="tsw_infolabel" colspan="2">Signet (QL 10)</td> </tr> 
+	<tr> 	
+		<td align="left" class="tsw_infolabel_slot" colspan="2">Tradeable</td> </tr>  
+	<tr> 	
+		<td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+		</tr> 
+	<tr>	
+		<td align="left" class="tsw_infolabel" colspan="2">
+      Effect: Whenever you apply a heal over time effect to an ally, you have a <span class="tsw_q3">33%</span>/<span class="tsw_q4">66%</span>/<span class="tsw_q5">100%</span> chance to apply a beneficial effect to that ally which lasts for <font color='#FF6600'>4</font> seconds. When this effect expires, that ally regains health equal to <span class="tsw_q3">7,5%</span>/<span class="tsw_q4">15%</span>/<span class="tsw_q5">22,5%</span> of the damage they received while the effect was active. This effect cannot be applied more than once every <font color='#FF6600'>15</font> seconds. This Signet can be attached to Minor Talismans.
+
+
+	</td></tr>	
+		
+		
+		
+</table>		
+]]>		
+</tooltip></tswitem>		

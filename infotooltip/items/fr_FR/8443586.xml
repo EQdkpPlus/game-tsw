@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>		
+<tswitem>		
+<itemid>8443586</itemid>		
+<name>Mise à jour du microcode pour AEGIS v3.0</name>		
+<iconpath>8443586</iconpath>		
+<quality>5</quality>		
+		
+		
+<tooltip><![CDATA[		
+		
+<table width="100%"> 		
+	<tr> 	
+		<td align="left" class="tsw_tooltiptitle tsw_q;QL_VALUE;" colspan="2">Mise à jour du microcode pour AEGIS v3.0</td> </tr>
+	<tr> 	
+		<td align="left" class="tsw_infolabel" colspan="2">Outils (NQ 10 Épique)</td> </tr> 
+	<tr> 	
+		<td align="left" class="tsw_infolabel_slot" colspan="2">Échangeables</td> </tr>  
+	<tr> 	
+		<td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+		</tr> 
+	<tr>	
+		<td align="left" class="tsw_infolabel" colspan="2">Cette mise à jour du microcode permet au contrôleur AEGIS de passer à la version majeure suivante. L'analyse des échantillons de Souillure doit être terminée (100%) pour qu'il soit possible de la finaliser.
+
+Elle ne peut qu'améliorer un contrôleur AEGIS v2.9 pour le faire passer à la version v3.0 et est consommée lors de la mise à jour.
+	</td></tr>	
+		
+		
+		
+</table>		
+]]>		
+</tooltip></tswitem>		

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>		
+<tswitem>		
+<itemid>9130343</itemid>		
+<name>Überirdische Upgrades</name>		
+<iconpath>9130343</iconpath>		
+<quality>5</quality>		
+		
+		
+<tooltip><![CDATA[		
+		
+<table width="100%"> 		
+	<tr> 	
+		<td align="left" class="tsw_tooltiptitle tsw_q;QL_VALUE;" colspan="2">Überirdische Upgrades</td> </tr>
+	<tr> 	
+		<td align="left" class="tsw_infolabel" colspan="2">Fertigungkomponente (QS 10 Episch)</td> </tr> 
+	<tr> 	
+		<td align="left" class="tsw_infolabel_slot" colspan="2">Charaktergebunden</td> </tr>  
+	<tr> 	
+		<td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+		</tr> 
+	<tr>	
+		<td align="left" class="tsw_infolabel" colspan="2">Ermöglicht einem überirischen Upgrade-Werkzeugsatz für individuelle Waffen oder Talismane das Upgrade eines Objektes auf QS 11.		
+	</td></tr>	
+		
+		
+		
+</table>		
+]]>		
+</tooltip></tswitem>		

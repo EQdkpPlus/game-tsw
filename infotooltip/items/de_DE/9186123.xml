@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>		
+<tswitem>		
+<itemid>9186123</itemid>		
+<name>Siegel des Trotzes</name>		
+<iconpath>200011</iconpath>		
+<quality>7</quality>		
+		
+		
+<tooltip><![CDATA[		
+		
+<table width="100%"> 		
+	<tr> 	
+		<td align="left" class="tsw_tooltiptitle tsw_q;QL_VALUE;" colspan="2">Siegel des Trotzes</td> </tr>
+	<tr> 	
+		<td align="left" class="tsw_infolabel" colspan="2">Siegel (QS 10)</td> </tr> 
+	<tr> 	
+		<td align="left" class="tsw_infolabel_slot" colspan="2">Handelbar</td> </tr>  
+	<tr> 	
+		<td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+		</tr> 
+	<tr>	
+		<td align="left" class="tsw_infolabel" colspan="2">
+      Erleiden Sie durch einen einzigen Treffer einen Schaden, der <font color='#FF6600'>10 %</font> Ihrer Maximalgesundheit übersteigt, erhalten Sie eine Barriere, die <font color='#FF6600'>100 </font> des erlittenen Schadens absorbiert. Die Stärke der Barriere entspricht <span class="tsw_q3">5%</span>/<span class="tsw_q4">10%</span>/<span class="tsw_q5">15%</span> Ihrer Maximalgesundheit. Dieser Effekt kann nur alle <font color='#FF6600'>20</font> Sekunden aktiviert werden. Dieses Siegel kann an kleinen Talismanen angebracht werden.
+
+		
+	</td></tr>	
+		
+		
+		
+</table>		
+]]>		
+</tooltip></tswitem>		

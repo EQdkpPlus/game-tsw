@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>		
+<tswitem>		
+<itemid>9184939</itemid>		
+<name>Siegel des Märtyrermirakels</name>		
+<iconpath>200003</iconpath>		
+<quality>7</quality>		
+		
+		
+<tooltip><![CDATA[		
+		
+<table width="100%"> 		
+	<tr> 	
+		<td align="left" class="tsw_tooltiptitle tsw_q;QL_VALUE;" colspan="2">Siegel des Märtyrermirakels</td> </tr>
+	<tr> 	
+		<td align="left" class="tsw_infolabel" colspan="2">Siegel (QS 10)</td> </tr> 
+	<tr> 	
+		<td align="left" class="tsw_infolabel_slot" colspan="2">Handelbar</td> </tr>  
+	<tr> 	
+		<td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+		</tr> 
+	<tr>	
+		<td align="left" class="tsw_infolabel" colspan="2">
+      Wenn Sie sterben, erzeugen Sie an der Stelle Ihres Todes eine Heilzone, die <font color='#FF6600'>10</font> Sekunden bestehen bleibt. Verbündete in diesem Bereich regenerieren pro Sekunde <font color='#%x'>%0.0f</font> Gesundheit. Die gewährte Heilung steigt mit Ihrem Heilungswert. Dieses Siegel kann an großen Talismanen angebracht werden.
+
+
+		
+	</td></tr>	
+		
+		
+		
+</table>		
+]]>		
+</tooltip></tswitem>		

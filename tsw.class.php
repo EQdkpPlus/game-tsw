@@ -3,7 +3,7 @@
 * Package: The Secret World game package
 * Link: http://eqdkp-plus.eu
 *
-* Copyright (C) 2006-2015 EQdkp-Plus Developer Team
+* Copyright (C) 2006-2016 EQdkp-Plus Developer Team
 *
 * This program is free software: you can redistribute it and/or modify
 * it under the terms of the GNU Affero General Public License as published
@@ -26,7 +26,7 @@ if ( !defined('EQDKP_INC') ){
 if(!class_exists('tsw')) {
 	class tsw extends game_generic {
 		protected static $apiLevel	= 20;
-		public $version				= '2.1.8';
+		public $version				= '2.1.9';
 		protected $this_game		= 'tsw';
 		public $author				= "Inkraja";
 		public $types				= array('races', 'classes', 'classes_big', 'events', 'roles');
@@ -76,7 +76,7 @@ if(!class_exists('tsw')) {
 					'type'			=> 'multiselect',
 					'category'		=> 'misc',
 					'lang'			=> 'uc_pvp',
-					'options'		=> array('Eldorado' => 'uc_ED','Stonehenge' => 'uc_SH','Fusang Battlegroup A' => 'uc_BG_A', 'Fusang Battlegroup B' => 'uc_BG_B'),
+					'options'		=> array('Eldorado' => 'uc_ED','Stonehenge' => 'uc_SH','Shambala' => 'uc_ShB','Fusang Battlegroup A' => 'uc_BG_A', 'Fusang Battlegroup B' => 'uc_BG_B'),
 					'undeletable'	=> true,
 					'tolang'		=> true
 				),
@@ -103,6 +103,14 @@ if(!class_exists('tsw')) {
 					'min'			=> 1,
 					'undeletable'	=> true,
 					'sort'			=> 4
+				),
+				'18h_Raid_cooldown'	=> array(
+					'type'			=> 'radio',
+					'category'		=> 'misc',
+					'lang'			=> 'uc_18h_Raid_cooldown',
+					'options'		=> array(0 => 'uc_no', 1 => 'uc_yes'),
+					'undeletable'	=> true,
+					'tolang'		=> true
 				),
 				'testlive'	=> array(
 					'type'			=> 'radio',
@@ -200,7 +208,8 @@ if(!class_exists('tsw')) {
 	*/
 		public function calendar_membertooltip($memberid){
 			return array(
-				$this->game->glang('uc_wings').': '.$this->pdh->geth('member', 'profile_field', array($memberid, 'wings', true)),				
+				$this->game->glang('uc_wings').': '.$this->pdh->geth('member', 'profile_field', array($memberid, 'wings', true)),
+				$this->game->glang('uc_18h_Raid_cooldown').': '.$this->pdh->geth('member', 'profile_field', array($memberid, '18h_Raid_cooldown', true)),					
 				// Remove /**/ for active Tooltip 
 			
 				/*$this->game->glang('uc_pvp').': '.$this->pdh->geth('member', 'profile_field', array($memberid, 'pvp', true)),*/

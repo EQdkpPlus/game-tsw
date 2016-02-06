@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>		
+<tswitem>		
+<itemid>9186086</itemid>		
+<name>Insigne de détournement</name>		
+<iconpath>200011</iconpath>		
+<quality>7</quality>		
+		
+		
+<tooltip><![CDATA[		
+		
+<table width="100%"> 		
+	<tr> 	
+		<td align="left" class="tsw_tooltiptitle tsw_q;QL_VALUE;" colspan="2">Insigne de détournement</td> </tr>
+	<tr> 	
+		<td align="left" class="tsw_infolabel" colspan="2">Insigne (NQ: 10)</td> </tr> 
+	<tr> 	
+		<td align="left" class="tsw_infolabel_slot" colspan="2">Échangeables</td> </tr>  
+	<tr> 	
+		<td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+		</tr> 
+	<tr>	
+		<td align="left" class="tsw_infolabel" colspan="2">
+      Effet : chaque fois que vous êtes touché/e par une cible qui se trouve à plus de <font color='#FF6600'>12</font> mètres de vous, vous gagnez un effet bénéfique réduisant les dégâts que vous subissez de <span class="tsw_q3">3%</span>/<span class="tsw_q4">6%</span>/<span class="tsw_q5">9%</span> pendant <font color='#FF6600'>3</font> secondes. Cet insigne peut être lié aux talismans mineurs.
+	</td></tr>	
+		
+		
+		
+</table>		
+]]>		
+</tooltip></tswitem>		

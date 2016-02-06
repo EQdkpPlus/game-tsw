@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>		
+<tswitem>		
+<itemid>9185451</itemid>		
+<name>Signet of Coup De Grâce</name>		
+<iconpath>200002</iconpath>		
+<quality>3</quality>		
+		
+		
+<tooltip><![CDATA[		
+		
+<table width="100%"> 		
+	<tr> 	
+		<td align="left" class="tsw_tooltiptitle tsw_q;QL_VALUE;" colspan="2">Signet of Coup De Grâce</td> </tr>
+	<tr> 	
+		<td align="left" class="tsw_infolabel" colspan="2">Signet (QL 10)</td> </tr> 
+	<tr> 	
+		<td align="left" class="tsw_infolabel_slot" colspan="2">Tradeable</td> </tr>  
+	<tr> 	
+		<td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+		</tr> 
+	<tr>	
+		<td align="left" class="tsw_infolabel" colspan="2">
+      Effect: Whenever you hit a target who is below <font color='#FF6600'>35%</font> health, you have a <font color='#FF6600'>33%</font> chance to deal an additional <span class="tsw_q3">150-300</span>/<span class="tsw_q4">300-600</span>/<span class="tsw_q5">450-900</span> physical damage to that target. Damage dealt increases the closer the target gets to death. This Signet can be attached to Major Talismans.
+
+
+	</td></tr>	
+		
+		
+		
+</table>		
+]]>		
+</tooltip></tswitem>		

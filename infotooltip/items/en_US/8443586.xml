@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>		
+<tswitem>		
+<itemid>8443586</itemid>		
+<name>AEGIS Firmware Upgrade v3.0</name>		
+<iconpath>8443586</iconpath>		
+<quality>5</quality>		
+		
+		
+<tooltip><![CDATA[		
+		
+<table width="100%"> 		
+	<tr> 	
+		<td align="left" class="tsw_tooltiptitle tsw_q;QL_VALUE;" colspan="2">AEGIS Firmware Upgrade v3.0</td> </tr>
+	<tr> 	
+		<td align="left" class="tsw_infolabel" colspan="2">Toolkit (QL 10 Epic)</td> </tr> 
+	<tr> 	
+		<td align="left" class="tsw_infolabel_slot" colspan="2">Tradeable</td> </tr>  
+	<tr> 	
+		<td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+		</tr> 
+	<tr>	
+		<td align="left" class="tsw_infolabel" colspan="2">Upgrades the firmware of an AEGIS controller, allowing it to be upgraded to the next major version. Requires 100% completed analysis of filth samples to complete this upgrade.
+
+This firmware upgrade can only upgrade an AEGIS controller from v2.9 to v3.0 and is consumed in the upgrade process.
+		
+	</td></tr>	
+		
+		
+		
+</table>		
+]]>		
+</tooltip></tswitem>		

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>		
+<tswitem>		
+<itemid>9185451</itemid>		
+<name>Insigne de coup de grâce</name>		
+<iconpath>200002</iconpath>		
+<quality>7</quality>		
+		
+		
+<tooltip><![CDATA[		
+		
+<table width="100%"> 		
+	<tr> 	
+		<td align="left" class="tsw_tooltiptitle tsw_q;QL_VALUE;" colspan="2">Insigne de coup de grâce</td> </tr>
+	<tr> 	
+		<td align="left" class="tsw_infolabel" colspan="2">Insigne (NQ: 10)</td> </tr> 
+	<tr> 	
+		<td align="left" class="tsw_infolabel_slot" colspan="2">Échangeables</td> </tr>  
+	<tr> 	
+		<td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+		</tr> 
+	<tr>	
+		<td align="left" class="tsw_infolabel" colspan="2">
+      Effet : chaque fois que vous touchez une cible en dessous de <font color='#FF6600'>35%</font> de santé, vous avez <font color='#FF6600'>33%</font> de chances de lui infliger <span class="tsw_q3">150-300</span>/<span class="tsw_q4">300-600</span>/<span class="tsw_q5">450-900</span> points de dégâts physiques supplémentaires. Les dégâts causés augmentent au fur et à mesure que la cible se rapproche de la mort. Cet insigne peut être lié aux talismans majeurs.
+	</td></tr>	
+		
+		
+		
+</table>		
+]]>		
+</tooltip></tswitem>		

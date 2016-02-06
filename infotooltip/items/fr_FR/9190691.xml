@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>		
+<tswitem>		
+<itemid>9190691</itemid>		
+<name>Insigne de récupération</name>		
+<iconpath>200010</iconpath>		
+<quality>7</quality>		
+		
+		
+<tooltip><![CDATA[		
+		
+<table width="100%"> 		
+	<tr> 	
+		<td align="left" class="tsw_tooltiptitle tsw_q;QL_VALUE;" colspan="2">Insigne de récupération</td> </tr>
+	<tr> 	
+		<td align="left" class="tsw_infolabel" colspan="2">Insigne (NQ: 10)</td> </tr> 
+	<tr> 	
+		<td align="left" class="tsw_infolabel_slot" colspan="2">Échangeables</td> </tr>  
+	<tr> 	
+		<td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+		</tr> 
+	<tr>	
+		<td align="left" class="tsw_infolabel" colspan="2">
+      Effet : chaque fois que vous prodiguez un effet de soins sur la durée à un allié, vous avez <span class="tsw_q3">33%</span>/<span class="tsw_q4">66%</span>/<span class="tsw_q5">100%</span> de chances de lui appliquer également un autre effet bénéfique durant <font color='#FF6600'>4</font> secondes. À l'expiration de cet effet, votre allié récupère de la santé à hauteur de <span class="tsw_q3">7,5%</span>/<span class="tsw_q4">15%</span>/<span class="tsw_q5">22,5%</span> des dégâts qu'il a reçus tant que l'effet était actif. Cet effet ne peut pas être appliqué plus d'une fois toutes les <font color='#FF6600'>15</font> secondes. Cet insigne peut être lié aux talismans mineurs.
+
+	</td></tr>	
+		
+		
+		
+</table>		
+]]>		
+</tooltip></tswitem>		
