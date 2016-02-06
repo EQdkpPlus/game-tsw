@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>		
+<tswitem>		
+<itemid>9141930</itemid>		
+<name>Collier de Brown Jenkins</name>		
+<iconpath>9141930</iconpath>		
+<quality>5</quality>		
+		
+		
+<tooltip><![CDATA[		
+		
+<table width="100%"> 		
+	<tr> 	
+		<td align="left" class="tsw_tooltiptitle tsw_q;QL_VALUE;" colspan="2">Collier de Brown Jenkins</td> </tr>
+	<tr> 	
+		<td align="left" class="tsw_infolabel" colspan="2">Talisman de cou (NQ 10.9 Épique)</td> </tr> 
+	<tr> 	
+		<td align="left" class="tsw_infolabel_slot" colspan="2">Lié au personnage</td> </tr>  
+	<tr> 	<td colspan="2"> <hr class="tsw_tooltip_hr"> </td><tr>
+	<tr> 	<td align="left" width="5%" class="tsw_infolabel_hl"><font color='#FFC600'>+2728</font> </td><td align="left" class="tsw_infolabel">Santé </td> </tr>  
+		
+	<tr> 	<td colspan="2"> <hr class="tsw_tooltip_hr"> </td><tr>
+	<tr>	
+		<td align="left" class="tsw_infolabel" colspan="2">Chaque fois que vous évitez une attaque, vous gagnez un effet bénéfique qui augmente la chance de critique de vos attaques de <font color='#FF6600'>100%</font> pour <font color='#FF6600'>1.5</font> secondes. La durée de cet effet n'est pas rafraîchie quand il s'applique de nouveau.
+		
+	</td></tr>	
+	<tr> 	<td colspan="3"> <hr class="tsw_tooltip_hr"> </td><tr>
+	<tr>  	<td align="right" class="tsw_item_manastone"></td> 
+		 <td align="left" class="tsw_infolabel_slot">Emplacement de glyphe libre</td></tr>  
+</table>		
+]]>		
+</tooltip></tswitem>		

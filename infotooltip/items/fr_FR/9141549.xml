@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>		
+<tswitem>		
+<itemid>9141549</itemid>		
+<name>Mucus des Dieux Extérieurs</name>		
+<iconpath>9141549</iconpath>		
+<quality>5</quality>		
+		
+		
+<tooltip><![CDATA[		
+		
+<table width="100%"> 		
+	<tr> 	
+		<td align="left" class="tsw_tooltiptitle tsw_q;QL_VALUE;" colspan="2">Mucus des Dieux Extérieurs</td> </tr>
+	<tr> 	
+		<td align="left" class="tsw_infolabel" colspan="2">Talisman de tête (NQ 10.9 Épique)</td> </tr> 
+	<tr> 	
+		<td align="left" class="tsw_infolabel_slot" colspan="2">Lié au personnage</td> </tr>  
+	<tr> 	<td colspan="2"> <hr class="tsw_tooltip_hr"> </td><tr>
+	<tr> 	<td align="left" width="5%" class="tsw_infolabel_hl"><font color='#FFC600'>+1077</font> </td><td align="left" class="tsw_infolabel">Valeur de guérison </td> </tr>  
+		
+	<tr> 	<td colspan="2"> <hr class="tsw_tooltip_hr"> </td><tr>
+	<tr>	
+		<td align="left" class="tsw_infolabel" colspan="2">Quand vous prodiguez un effet de soins à un allié, il y a <font color='#FF6600'>10%</font> de chances que vous rendiez en outre à la cible <font color='#FF6600'>3%</font> de son maximum de santé. Ceci ne peut se produire qu'une fois toutes les <font color='#FF6600'>5</font> secondes.
+		
+	</td></tr>	
+	<tr> 	<td colspan="3"> <hr class="tsw_tooltip_hr"> </td><tr>
+	<tr>  	<td align="right" class="tsw_item_manastone"></td> 
+		 <td align="left" class="tsw_infolabel_slot">Emplacement de glyphe libre</td></tr>  
+</table>		
+]]>		
+</tooltip></tswitem>		

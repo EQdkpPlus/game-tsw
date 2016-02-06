@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>		
 <tswitem>		
 <itemid>9131971</itemid>		
-<name>AE-Kondensator
-</name>		
+<name>AE-Kondensator</name>		
 <iconpath>9131971</iconpath>		
 <quality>5</quality>		
 		
@@ -11,8 +10,7 @@
 		
 <table width="100%"> 		
 	<tr> 	
-		<td align="left" class="tsw_tooltiptitle tsw_q;QS_VALUE;" colspan="2">AE-Kondensator
-</td> </tr>
+		<td align="left" class="tsw_tooltiptitle tsw_q;QL_VALUE;" colspan="2">AE-Kondensator</td> </tr>
 	<tr> 	
 		<td align="left" class="tsw_infolabel" colspan="2">AEGIS-Kondensator (QS 0 - 9 Episch)
 </td> </tr> 

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>		
+<tswitem>		
+<itemid>9176579</itemid>		
+<name>Insigne d'assurance</name>		
+<iconpath>200021</iconpath>		
+<quality>7</quality>		
+		
+		
+<tooltip><![CDATA[		
+		
+<table width="100%"> 		
+	<tr> 	
+		<td align="left" class="tsw_tooltiptitle tsw_q;QL_VALUE;" colspan="2">Insigne d'assurance</td> </tr>
+	<tr> 	
+		<td align="left" class="tsw_infolabel" colspan="2">Insigne (NQ: 10)</td> </tr> 
+	<tr> 	
+		<td align="left" class="tsw_infolabel_slot" colspan="2">Échangeables</td> </tr>  
+	<tr> 	
+		<td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+		</tr> 
+	<tr>	
+		<td align="left" class="tsw_infolabel" colspan="2">
+      Effet : chaque fois que vous touchez ou que vous prodiguez des soins, vous gagnez un effet bénéfique durant <font color='#FF6600'>10</font> secondes. Cet effet ne peut être obtenu qu'une fois toutes les <font color='#FF6600'>15</font> secondes. S'il est purgé, vous gagnez un autre effet bénéfique qui augmente vos chances d'évitement, ainsi que les chances que les coups que vous recevez soient déviés de <span class="tsw_q3">10%</span>/<span class="tsw_q4">20%</span>/<span class="tsw_q5">30%</span> pendant <font color='#FF6600'>10</font> secondes. Cet effet ne peut pas être purgé. Cet insigne peut être lié aux talismans de tête ou aux armes.
+
+
+	</td></tr>	
+		
+		
+		
+</table>		
+]]>		
+</tooltip></tswitem>		
