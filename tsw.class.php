@@ -35,6 +35,10 @@ if(!class_exists('tsw')) {
 		protected $filters			= array();
 		public $langs				= array('english', 'german', 'french');
 
+		public $game_settings		= array(
+			'calendar_hide_emptyroles'	=> true,
+		);
+
 		protected $class_dependencies = array(
 			array(
 				'name'		=> 'race',
@@ -48,7 +52,7 @@ if(!class_exists('tsw')) {
 				'recruitment' => true,
 
 			),
-			
+
 			array(
 				'name'		=> 'class',
 				'type'		=> 'classes',
@@ -129,7 +133,7 @@ if(!class_exists('tsw')) {
 					'undeletable'	=> true,
 					'tolang'		=> true
 				),
-				
+
 			);
 			return $xml_fields;
 		}
@@ -163,7 +167,7 @@ if(!class_exists('tsw')) {
 				}
 			}
 		}
-		
+
 		######################################################################
 		##																	##
 		##							EXTRA FUNCTIONS							##
@@ -209,11 +213,11 @@ if(!class_exists('tsw')) {
 		public function calendar_membertooltip($memberid){
 			return array(
 				$this->game->glang('uc_wings').': '.$this->pdh->geth('member', 'profile_field', array($memberid, 'wings', true)),
-				$this->game->glang('uc_18h_Raid_cooldown').': '.$this->pdh->geth('member', 'profile_field', array($memberid, '18h_Raid_cooldown', true)),					
-				// Remove /**/ for active Tooltip 
-			
+				$this->game->glang('uc_18h_Raid_cooldown').': '.$this->pdh->geth('member', 'profile_field', array($memberid, '18h_Raid_cooldown', true)),
+				// Remove /**/ for active Tooltip
+
 				/*$this->game->glang('uc_pvp').': '.$this->pdh->geth('member', 'profile_field', array($memberid, 'pvp', true)),*/
-			
+
 
 			);
 		}
@@ -241,7 +245,7 @@ if(!class_exists('tsw')) {
 		}
 		public function guildbank_itemtype(){
 			return array(
-			1 => $this->game->glang('Signets'),			
+			1 => $this->game->glang('Signets'),
 			2 => $this->game->glang('Augments'),
 			3 => $this->game->glang('Material'),
 			4 => $this->game->glang('Clothes'),
