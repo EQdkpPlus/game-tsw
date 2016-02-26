@@ -39,11 +39,18 @@ $german_array = array(
 	),
 	
 	'roles' => array(
-		1	=> 'Heiler',
-		2	=> 'Tank',
-		3	=> 'Damage Dealer',
-		4	=> 'Add Controller',
-		5	=> 'Podder',
+		0	=> 'Anyrole',
+		1	=> 'Faust-Heiler',
+		2	=> 'Blut-Heiler',
+		3	=> 'Leech/Sutrmgewehr Heilung',
+		4	=> 'Tank',
+		5	=> 'Buff-Tank',
+		6 	=> 'Heal-Tank',
+		7 	=> 'Leech-Tank',
+		8 	=> 'DA/BS-DPS',
+		9 	=> 'Full-DPS',
+		10 	=> 'SF-DPS',
+		11 	=> 'Melee',			
 		),
 	
 	'lang' => array(

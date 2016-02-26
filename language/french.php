@@ -39,11 +39,18 @@ $french_array = array(
 	),
 	
 	'roles' => array(
-		1	=> 'Healer',
-		2	=> 'Tank',
-		3	=> 'Damage Dealer',
-		4	=> 'Add Controller',
-		5	=> 'Podder',
+		0	=> 'Anyrole',
+		1	=> 'Fist-healer',
+		2	=> 'Blood-healer',
+		3	=> 'Leech/Riffle Heal',
+		4	=> 'Tank',
+		5	=> 'Buff-Tank',
+		6 	=> 'Heal-Tank',
+		7 	=> 'Leech-Tank',
+		8 	=> 'DA/BS-DPS',
+		9 	=> 'Full-DPS',
+		10 	=> 'SF-DPS',
+		11 	=> 'Melee',			
 		),
 	'lang' => array(
 		'tsw'							=> 'The Secret World',
