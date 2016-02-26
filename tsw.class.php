@@ -26,7 +26,7 @@ if ( !defined('EQDKP_INC') ){
 if(!class_exists('tsw')) {
 	class tsw extends game_generic {
 		protected static $apiLevel	= 20;
-		public $version				= '2.1.9';
+		public $version				= '2.2.0';
 		protected $this_game		= 'tsw';
 		public $author				= "Inkraja";
 		public $types				= array('races', 'classes', 'classes_big', 'events', 'roles');
@@ -36,7 +36,7 @@ if(!class_exists('tsw')) {
 		public $langs				= array('english', 'german', 'french');
 
 		public $game_settings		= array(
-			'calendar_hide_emptyroles'	=> true,
+			'calendar_hide_emptyroles'	=> true,    /*Calendar Hide Roles if zero*/
 		);
 
 		protected $class_dependencies = array(
@@ -67,11 +67,22 @@ if(!class_exists('tsw')) {
 		);
 
 	public $default_roles = array(
-			1 	=> array(0,1,2,3,4,5),			# healer
-			2 	=> array(0,1,2,3,4,5),			# tank
-			3 	=> array(0,1,2,3,4,5),			# DD
-			4 	=> array(0,1,2,3,4,5),			# Add Controll
-			5 	=> array(0,1,2,3,4,5),			# Podder
+
+			0	=> array(0,1,2,3,4,5),			# Anyrole
+			1 	=> array(0,1,2,3,4,5),			# Fist-healer
+			2 	=> array(0,1,2,3,4,5),			# Blood-healer
+			3	=> array(0,1,2,3,4,5),			# Leech/Riffle Heal
+			4 	=> array(0,1,2,3,4,5),			# Tank
+			5 	=> array(0,1,2,3,4,5),			# Buff-Tank
+			6 	=> array(0,1,2,3,4,5),			# Heal-Tank
+			7 	=> array(0,1,2,3,4,5),			# Leech-Tank
+			8 	=> array(0,1,2,3,4,5),			# DA/BS-DPS
+			9 	=> array(0,1,2,3,4,5),			# Full-DPS
+			10 	=> array(0,1,2,3,4,5),			# SF-DPS
+			11 	=> array(0,1,2,3,4,5),			# Melee
+			
+			
+			
 		);
 
 	public function profilefields(){
@@ -138,6 +149,7 @@ if(!class_exists('tsw')) {
 			return $xml_fields;
 		}
 		protected $class_colors = array(
+			0	=> '#D6F312', 	# Anyrole
 			1	=> '#32D6E5', 	# Tank
 			2	=> '#5B933D',	# Healer
 			3	=> '#800000',	# DD "maroon
