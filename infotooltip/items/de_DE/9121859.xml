@@ -19,9 +19,9 @@
 		<td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
 		</tr> 
 	<tr>	
-		<td align="left" class="tsw_infolabel" colspan="2"><font color='#FFC600'>Stimulant:</font> Grants <font color='#FF6600'>111</font> Critical Power Rating for <font color='#FF6600'>20</font> seconds.
+		<td align="left" class="tsw_infolabel" colspan="2"><font color='#FFC600'>Stimulans:</font> Gewährt <font color='#FF6600'>20</font> Sekunden lang <font color='#FF6600'>600</font> Heilungswert.
 
-Applies a <font color='#FF6600'>2</font> minute cooldown to all Stimulants.
+Belegt alle Stimulanzien mit <font color='#FF6600'>2</font> Minuten Abklingzeit.
 		
 	</td></tr>	
 		
