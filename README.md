@@ -1,6 +1,7 @@
 # The Secret World Game
 
-See also the [Wiki Entry](https://eqdkp-plus.eu/wiki/The_Secret_World "EQDKP-Plus Wiki")
+
+See also the [Wiki Entry](https://eqdkp-plus.eu/wiki/The_Secret_World "EQDKPPlus Wiki")
 
 # Changelog
 ##2.2.0
