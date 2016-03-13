@@ -20,7 +20,7 @@
 		</tr> 
 	<tr>	
 		<td align="left" class="tsw_infolabel" colspan="2">
-      Wenn Sie sterben, erzeugen Sie an der Stelle Ihres Todes eine Heilzone, die <font color='#FF6600'>10</font> Sekunden bestehen bleibt. Verbündete in diesem Bereich regenerieren pro Sekunde <font color='#%x'>%0.0f</font> Gesundheit. Die gewährte Heilung steigt mit Ihrem Heilungswert. Dieses Siegel kann an großen Talismanen angebracht werden.
+      Wenn Sie sterben, erzeugen Sie an der Stelle Ihres Todes eine Heilzone, die <font color='#FF6600'>10</font> Sekunden bestehen bleibt. Verbündete in diesem Bereich regenerieren pro Sekunde <span class="tsw_q3">32</span>/<span class="tsw_q4">64</span>/<span class="tsw_q5">96</span> Gesundheit. Die gewährte Heilung steigt mit Ihrem Heilungswert. Dieses Siegel kann an großen Talismanen angebracht werden.
 
 
 		

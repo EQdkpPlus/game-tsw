@@ -20,7 +20,7 @@
 		</tr> 
 	<tr>	
 		<td align="left" class="tsw_infolabel" colspan="2">
-      Effect: Whenever you die, you create a healing area near where you died which lasts <font color='#FF6600'>10</font> seconds. Allies standing in the area are healed for <font color='#FF6600'>%0.0f</font> every second. The amount healed increases with your heal rating. This Signet can be attached to Major Talismans.
+      Effect: Whenever you die, you create a healing area near where you died which lasts <font color='#FF6600'>10</font> seconds. Allies standing in the area are healed for <span class="tsw_q3">32</span>/<span class="tsw_q4">64</span>/<span class="tsw_q5">96</span> every second. The amount healed increases with your heal rating. This Signet can be attached to Major Talismans.
 
 
 	</td></tr>	

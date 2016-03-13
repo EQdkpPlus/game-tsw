@@ -20,7 +20,7 @@
 		</tr> 
 	<tr>	
 		<td align="left" class="tsw_infolabel" colspan="2">
-      Effet : chaque fois que vous mourez, cela génère à l'endroit de votre mort une aura de guérison durant <font color='#FF6600'>10</font> secondes. Les alliés situés dans l'aire d'effet récupèrent <font color='#FF6600'>%0.0f</font> points de santé par seconde. Les soins prodigués augmentent en fonction de votre valeur de guérison. Cet insigne peut être lié aux talismans majeurs.
+      Effet : chaque fois que vous mourez, cela génère à l'endroit de votre mort une aura de guérison durant <font color='#FF6600'>10</font> secondes. Les alliés situés dans l'aire d'effet récupèrent <span class="tsw_q3">32</span>/<span class="tsw_q4">64</span>/<span class="tsw_q5">96</span> points de santé par seconde. Les soins prodigués augmentent en fonction de votre valeur de guérison. Cet insigne peut être lié aux talismans majeurs.
 	</td></tr>	
 		
 		
