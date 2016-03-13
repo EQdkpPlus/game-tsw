@@ -45,10 +45,10 @@ $english_array =  array(
 		4	=> 'Tank',
 		5	=> 'Buff-Tank',
 		6 	=> 'Heal-Tank',
-		7 	=>'Leech-Tank',
-		8 	=> 'DA/BS-DPS',
+		7 	=> 'Leech-Tank',
+		8 	=> 'DA/BS-Buffs',
 		9 	=> 'Full-DPS',
-		10 	=> 'SF-DPS',
+		10 	=> 'SF-Buff',
 		11 	=> 'Melee',			
 		),
 	'lang' => array(
