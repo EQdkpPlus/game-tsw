@@ -20,7 +20,7 @@
 		</tr> 
 	<tr>	
 		<td align="left" class="tsw_infolabel" colspan="2">
-      Effect: Whenever your health drops below <font color='#FF6600'>10%</font> you are silenced and unable to be defeated for <font color='#FF6600'>3</font> seconds. When this effect expires, you are defeated and you deal <span class="tsw_q3">1000</span>/<span class="tsw_q4">2000</span>/<span class="tsw_q5">3000</span> physical damage to enemies near you. This Signet can be attached to Major Talismans.
+      Effect: Whenever your health drops below <font color='#FF6600'>10%</font> you are silenced and unable to be defeated for <font color='#FF6600'>3</font> seconds. When this effect expires, you are defeated and you deal <span class="tsw_q3">1000</span>/<span class="tsw_q4">2000</span>/<span class="tsw_q5">3000</span> physical damage to enemies near you. Being defeated in this manner causes damage to your equipped weapons and talismans. This Signet can be attached to Major Talismans.
 
 
 	</td></tr>	
