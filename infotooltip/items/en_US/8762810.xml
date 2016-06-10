@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>		
+<tswitem>		
+<itemid>8762810</itemid>		
+<name>Destructive Blast Module</name>		
+<iconpath>8439338</iconpath>		
+<quality>4</quality>		
+		
+		
+<tooltip><![CDATA[		
+		
+<table width="100%"> 		
+	<tr> 	
+		<td align="left" class="tsw_tooltiptitle tsw_q;QL_VALUE;" colspan="2">Destructive Blast Module</td> </tr>
+	<tr> 	
+		<td align="left" class="tsw_infolabel" colspan="2">AEGIS-Module (QL 2)</td> </tr> 
+	<tr> 	
+		<td align="left" class="tsw_infolabel_slot" colspan="2"></td> </tr> 
+	<tr> 	
+		<td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+		</tr> 
+	<tr>	
+		<td align="left" class="tsw_infolabel" colspan="2">
+   Whenever your AEGIS shield is depleted, you deal <span class="tsw_q4">354</span> / <span class="tsw_q5">531</span> AEGIS damage to up to <font color='#FF6600'>5</font> enemies within a <font color='#FF6600'>5</font> meter radius around you.
+
+
+  </td></tr>
+		
+		
+		
+</table>		
+]]>		
+</tooltip></tswitem>		

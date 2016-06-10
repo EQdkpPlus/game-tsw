@@ -28,7 +28,7 @@
 <tswitem id="8130848" name="Ring of the Mollusk Gods" quality="5"/>
 <tswitem id="8130849" name="Medallion of Tentacular Skies" quality="5"/>
 <tswitem id="8130850" name="Manacles of the Threshold Lurker" quality="5"/>
-<tswitem id="8130980" name="Cuttlefish Ink" quality="5"/>	
+<tswitem id="8130980" name="Cuttlefish Ink" quality="5"/>
 <tswitem id="8130981" name="Bioluminescent Algae" quality="5"/>
 <tswitem id="8130982" name="Bilious Ichor" quality="5"/>
 <tswitem id="8130984" name="Event Horizon Cannon" quality="5"/>
@@ -555,5 +555,62 @@
 <tswitem id="9190726" name="Green Signet of the Protected" quality="3"/>
 <tswitem id="9176879" name="Green Signet of the Time Thief" quality="3"/>
 <tswitem id="9190657" name="Green Signet of Unceasing" quality="3"/>
+<tswitem id="8439338" name="Penetrating Bypass Module v3" quality="5"/>
+<tswitem id="8439341" name="Critical Bypass Module v3" quality="5"/>
+<tswitem id="8439344" name="Enhanced Feedback Loop Module v3" quality="5"/>
+<tswitem id="8439347" name="Feedback Loop Module v3" quality="5"/>
+<tswitem id="8439350" name="Redirected Rejuvenation Module v3" quality="5"/>
+<tswitem id="8439353" name="Weakening Bypass Module v3" quality="5"/>
+<tswitem id="8439356" name="Displaced Alacrity Module v3" quality="5"/>
+<tswitem id="8439359" name="Displaced Bypass Module v3" quality="5"/>
+<tswitem id="8439362" name="Hijacked Alacrity Module v3" quality="5"/>
+<tswitem id="8439365" name="Hindering Bypass Module v3" quality="5"/>
+<tswitem id="8439368" name="Destructive Restoration Module v3" quality="5"/>
+<tswitem id="8439371" name="Shattering Alacrity Module v3" quality="5"/>
+<tswitem id="8439374" name="Destructive Overload Module v3" quality="5"/>
+<tswitem id="8439377" name="Destructive Override Module v3" quality="5"/>
+<tswitem id="8439380" name="Target Antagonism Module v3" quality="5"/>
+<tswitem id="8439383" name="Alacrity Leech Module v3" quality="5"/>
+<tswitem id="8439386" name="Enhanced Bypass Module v3" quality="5"/>
+<tswitem id="8439389" name="Direct Bypass Module v3" quality="5"/>
+<tswitem id="8762810" name="Destructive Blast Module v3" quality="5"/>
+<tswitem id="8762828" name="Enhanced Override Module v3" quality="5"/>
+<tswitem id="8762985" name="Reactive Feedback Loop Module v3" quality="5"/>
+<tswitem id="8763058" name="Reactive Disruption Module v3" quality="5"/>
+<tswitem id="8763229" name="Evasive Restoration Module v3" quality="5"/>
+<tswitem id="8763332" name="Additive Restoration Module v3" quality="5"/>
+<tswitem id="8763716" name="Enhanced Restoration Module v3" quality="5"/>
+<tswitem id="8763885" name="Critical Restoration Loop Module v3" quality="5"/>
+<tswitem id="8764441" name="Critical Ablation Module v3" quality="5"/>
+<tswitem id="8764980" name="Hastened Restoration Module v3" quality="5"/>
+<tswitem id="8439338" name="Penetrating Bypass Module v2" quality="4"/>
+<tswitem id="8439341" name="Critical Bypass Module v2" quality="4"/>
+<tswitem id="8439344" name="Enhanced Feedback Loop Module v2" quality="4"/>
+<tswitem id="8439347" name="Feedback Loop Module v2" quality="4"/>
+<tswitem id="8439350" name="Redirected Rejuvenation Module v2" quality="4"/>
+<tswitem id="8439353" name="Weakening Bypass Module v2" quality="4"/>
+<tswitem id="8439356" name="Displaced Alacrity Module v2" quality="4"/>
+<tswitem id="8439359" name="Displaced Bypass Module v2" quality="4"/>
+<tswitem id="8439362" name="Hijacked Alacrity Module v2" quality="4"/>
+<tswitem id="8439365" name="Hindering Bypass Module v2" quality="4"/>
+<tswitem id="8439368" name="Destructive Restoration Module v2" quality="4"/>
+<tswitem id="8439371" name="Shattering Alacrity Module v2" quality="4"/>
+<tswitem id="8439374" name="Destructive Overload Module v2" quality="4"/>
+<tswitem id="8439377" name="Destructive Override Module v2" quality="4"/>
+<tswitem id="8439380" name="Target Antagonism Module v2" quality="4"/>
+<tswitem id="8439383" name="Alacrity Leech Module v2" quality="4"/>
+<tswitem id="8439386" name="Enhanced Bypass Module v2" quality="4"/>
+<tswitem id="8439389" name="Direct Bypass Module v2" quality="4"/>
+<tswitem id="8762810" name="Destructive Blast Module v2" quality="4"/>
+<tswitem id="8762828" name="Enhanced Override Module v2" quality="4"/>
+<tswitem id="8762985" name="Reactive Feedback Loop Module v2" quality="4"/>
+<tswitem id="8763058" name="Reactive Disruption Module v2" quality="4"/>
+<tswitem id="8763229" name="Evasive Restoration Module v2" quality="4"/>
+<tswitem id="8763332" name="Additive Restoration Module v2" quality="4"/>
+<tswitem id="8763716" name="Enhanced Restoration Module v2" quality="4"/>
+<tswitem id="8763885" name="Critical Restoration Loop Module v2" quality="4"/>
+<tswitem id="8764441" name="Critical Ablation Module v2" quality="4"/>
+<tswitem id="8764980" name="Hastened Restoration Module v2" quality="4"/>
+
 
 </list>

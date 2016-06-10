@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>		
+<tswitem>		
+<itemid>8439353</itemid>		
+<name>Module de dérivation affaiblissante</name>		
+<iconpath>8439338</iconpath>		
+<quality>4</quality>		
+		
+		
+<tooltip><![CDATA[		
+		
+<table width="100%"> 		
+	<tr> 	
+		<td align="left" class="tsw_tooltiptitle tsw_q;QL_VALUE;" colspan="2">Module de dérivation affaiblissante</td> </tr>
+	<tr> 	
+		<td align="left" class="tsw_infolabel" colspan="2">Module AEGIS (NQ: 2 )</td> </tr> 
+	<tr> 	
+		<td align="left" class="tsw_infolabel_slot" colspan="2">Lié quand équipé</td> </tr> 
+	<tr> 	
+		<td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+		</tr> 
+	<tr>	
+		<td align="left" class="tsw_infolabel" colspan="2">
+Chaque fois que vous affaiblissez une cible dont l'AEGIS actif correspond au type de dégâts de votre AEGIS actuel, vous lui infligez <span class="tsw_q4">66</span> / <span class="tsw_q5">99</span> points de dégâts d'AEGIS de votre type d'AEGIS actuel.
+
+
+</td></tr>
+		
+		
+		
+</table>		
+]]>		
+</tooltip></tswitem>		

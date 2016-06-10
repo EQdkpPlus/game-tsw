@@ -31,7 +31,7 @@
 <tswitem id="8130980" name="Encre de seiche" quality="5"/>
 <tswitem id="8130981" name="Algues bioluminescentes" quality="5"/>
 <tswitem id="8130982" name="Fluide bilieux" quality="5"/>
-<tswitem id="8130984" name="Canon à singularités" quality="5"/>	
+<tswitem id="8130984" name="Canon à singularités" quality="5"/>
 <tswitem id="8130985" name="Faucheuses inconcevables" quality="5"/>
 <tswitem id="8130986" name="Pluie des Dieux Extérieurs" quality="5"/>
 <tswitem id="8131219" name="Fustigateur de la Nuit Ancienne" quality="5"/>
@@ -567,5 +567,63 @@
 <tswitem id="9190726" name="vert Insigne des protégés" quality="3"/>
 <tswitem id="9176879" name="vert Insigne du voleur de temps" quality="3"/>
 <tswitem id="9190657" name="vert Insigne de pérennisation" quality="3"/>
+
+<tswitem id="8439338" name="Module de dérivation pénétrante v3" quality="5"/>
+<tswitem id="8439341" name="Module de dérivation critique v3" quality="5"/>
+<tswitem id="8439344" name="Module de boucle de feedback améliorée v3" quality="5"/>
+<tswitem id="8439347" name="Module de boucle de feedback v3" quality="5"/>
+<tswitem id="8439350" name="Module de rajeunissement redirigé v3" quality="5"/>
+<tswitem id="8439353" name="Module de dérivation affaiblissante v3" quality="5"/>
+<tswitem id="8439356" name="Module d'empressement transposé v3" quality="5"/>
+<tswitem id="8439359" name="Module de dérivation transposée v3" quality="5"/>
+<tswitem id="8439362" name="Module d'empressement piraté v3" quality="5"/>
+<tswitem id="8439365" name="Module de dérivation entravante v3" quality="5"/>
+<tswitem id="8439368" name="Module de restauration destructrice v3" quality="5"/>
+<tswitem id="8439371" name="Module d'empressement fracassant v3" quality="5"/>
+<tswitem id="8439374" name="Module de surcharge destructrice v3" quality="5"/>
+<tswitem id="8439377" name="Module de contournement destructeur v3" quality="5"/>
+<tswitem id="8439380" name="Module d'antagonisme de la cible v3" quality="5"/>
+<tswitem id="8439383" name="Module de ponction d'empressement v3" quality="5"/>
+<tswitem id="8439386" name="Module de dérivation améliorée v3" quality="5"/>
+<tswitem id="8439389" name="Module de dérivation directe v3" quality="5"/>
+<tswitem id="8762810" name="Module de souffle destructeur v3" quality="5"/>
+<tswitem id="8762828" name="Module de contournement amélioré v3" quality="5"/>
+<tswitem id="8762985" name="Module de boucle de feedback réactive v3" quality="5"/>
+<tswitem id="8763058" name="Module de disruption réactive v3" quality="5"/>
+<tswitem id="8763229" name="Module de restauration fuyante v3" quality="5"/>
+<tswitem id="8763332" name="Module de restauration addictive v3" quality="5"/>
+<tswitem id="8763716" name="Module de restauration améliorée v3" quality="5"/>
+<tswitem id="8763885" name="Module de boucle de restauration critique v3" quality="5"/>
+<tswitem id="8764441" name="Module d'ablation critique v3" quality="5"/>
+<tswitem id="8764980" name="Module de restauration accélérée v3" quality="5"/>
+<tswitem id="8439338" name="Module de dérivation pénétrante v2" quality="4"/>
+<tswitem id="8439341" name="Module de dérivation critique v2" quality="4"/>
+<tswitem id="8439344" name="Module de boucle de feedback améliorée v2" quality="4"/>
+<tswitem id="8439347" name="Module de boucle de feedback v2" quality="4"/>
+<tswitem id="8439350" name="Module de rajeunissement redirigé v2" quality="4"/>
+<tswitem id="8439353" name="Module de dérivation affaiblissante v2" quality="4"/>
+<tswitem id="8439356" name="Module d'empressement transposé v2" quality="4"/>
+<tswitem id="8439359" name="Module de dérivation transposée v2" quality="4"/>
+<tswitem id="8439362" name="Module d'empressement piraté v2" quality="4"/>
+<tswitem id="8439365" name="Module de dérivation entravante v2" quality="4"/>
+<tswitem id="8439368" name="Module de restauration destructrice v2" quality="4"/>
+<tswitem id="8439371" name="Module d'empressement fracassant v2" quality="4"/>
+<tswitem id="8439374" name="Module de surcharge destructrice v2" quality="4"/>
+<tswitem id="8439377" name="Module de contournement destructeur v2" quality="4"/>
+<tswitem id="8439380" name="Module d'antagonisme de la cible v2" quality="4"/>
+<tswitem id="8439383" name="Module de ponction d'empressement v2" quality="4"/>
+<tswitem id="8439386" name="Module de dérivation améliorée v2" quality="4"/>
+<tswitem id="8439389" name="Module de dérivation directe v2" quality="4"/>
+<tswitem id="8762810" name="Module de souffle destructeur v2" quality="4"/>
+<tswitem id="8762828" name="Module de contournement amélioré v2" quality="4"/>
+<tswitem id="8762985" name="Module de boucle de feedback réactive v2" quality="4"/>
+<tswitem id="8763058" name="Module de disruption réactive v2" quality="4"/>
+<tswitem id="8763229" name="Module de restauration fuyante v2" quality="4"/>
+<tswitem id="8763332" name="Module de restauration addictive v2" quality="4"/>
+<tswitem id="8763716" name="Module de restauration améliorée v2" quality="4"/>
+<tswitem id="8763885" name="Module de boucle de restauration critique v2" quality="4"/>
+<tswitem id="8764441" name="Module d'ablation critique v2" quality="4"/>
+<tswitem id="8764980" name="Module de restauration accélérée v2" quality="4"/>
+
 
 </list>

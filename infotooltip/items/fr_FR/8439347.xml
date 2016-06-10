@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>		
+<tswitem>		
+<itemid>8439347</itemid>		
+<name>Module de boucle de feedback</name>		
+<iconpath>8439338</iconpath>		
+<quality>4</quality>		
+		
+		
+<tooltip><![CDATA[		
+		
+<table width="100%"> 		
+	<tr> 	
+		<td align="left" class="tsw_tooltiptitle tsw_q;QL_VALUE;" colspan="2">Module de boucle de feedback</td> </tr>
+	<tr> 	
+		<td align="left" class="tsw_infolabel" colspan="2">Module AEGIS (NQ: 2 )</td> </tr> 
+	<tr> 	
+		<td align="left" class="tsw_infolabel_slot" colspan="2">Lié quand équipé</td> </tr> 
+	<tr> 	
+		<td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+		</tr> 
+	<tr>	
+		<td align="left" class="tsw_infolabel" colspan="2">
+Chaque fois que vous affligez une cible dont l'AEGIS actif correspond au type de dégâts de votre AEGIS actuel, vous lui appliquez un effet néfaste infligeant <span class="tsw_q4">20</span> / <span class="tsw_q5">30</span> points de dégâts d'AEGIS de votre type d'AEGIS actuel par seconde pendant <font color='#FF6600'>4</font> secondes.
+
+<font color='#A2A2A2'>Un contrôleur AEGIS de NQ égal ou supérieur est nécessaire po</td></tr>
+		
+		
+		
+</table>		
+]]>		
+</tooltip></tswitem>		

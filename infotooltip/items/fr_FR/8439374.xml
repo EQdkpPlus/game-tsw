@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>		
+<tswitem>		
+<itemid>8439374</itemid>		
+<name>Module de surcharge destructrice</name>		
+<iconpath>8439338</iconpath>		
+<quality>4</quality>		
+		
+		
+<tooltip><![CDATA[		
+		
+<table width="100%"> 		
+	<tr> 	
+		<td align="left" class="tsw_tooltiptitle tsw_q;QL_VALUE;" colspan="2">Module de surcharge destructrice</td> </tr>
+	<tr> 	
+		<td align="left" class="tsw_infolabel" colspan="2">Module AEGIS (NQ: 2 )</td> </tr> 
+	<tr> 	
+		<td align="left" class="tsw_infolabel_slot" colspan="2">Lié quand équipé</td> </tr> 
+	<tr> 	
+		<td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+		</tr> 
+	<tr>	
+		<td align="left" class="tsw_infolabel" colspan="2">
+Chaque fois que vous détruisez l'AEGIS de votre cible, celle-ci se retrouve entravée et incapable de se déplacer pendant <span class="tsw_q4">3</span> / <span class="tsw_q5">4,5</span> secondes.
+
+
+</td></tr>
+		
+		
+		
+</table>		
+]]>		
+</tooltip></tswitem>		

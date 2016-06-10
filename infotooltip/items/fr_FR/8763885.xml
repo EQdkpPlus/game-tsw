@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>		
+<tswitem>		
+<itemid>8763885</itemid>		
+<name>Module de boucle de restauration critique</name>		
+<iconpath>8439338</iconpath>		
+<quality>4</quality>		
+		
+		
+<tooltip><![CDATA[		
+		
+<table width="100%"> 		
+	<tr> 	
+		<td align="left" class="tsw_tooltiptitle tsw_q;QL_VALUE;" colspan="2">Module de boucle de restauration critique</td> </tr>
+	<tr> 	
+		<td align="left" class="tsw_infolabel" colspan="2">Module AEGIS (NQ: 2 )</td> </tr> 
+	<tr> 	
+		<td align="left" class="tsw_infolabel_slot" colspan="2">Lié quand équipé</td> </tr> 
+	<tr> 	
+		<td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+		</tr> 
+	<tr>	
+		<td align="left" class="tsw_infolabel" colspan="2">
+Chaque fois que vous réussissez un soin critique sur un allié dont le bouclier AEGIS est de même type que votre arme AEGIS, vous lui appliquez un effet bénéfique, à lui et à un maximum de <font color='#FF6600'>4</font> autres alliés proches, qui recharge leur bouclier AEGIS de <span class="tsw_q4">12</span> / <span class="tsw_q5">18</span> points par seconde pendant <font color='#FF6600'>4</font> secondes.</td></tr>
+		
+		
+		
+</table>		
+]]>		
+</tooltip></tswitem>		

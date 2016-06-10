@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>		
+<tswitem>		
+<itemid>8439386</itemid>		
+<name>Verbessertes Überbrückungsmodul</name>		
+<iconpath>8439338</iconpath>		
+<quality>4</quality>		
+		
+		
+<tooltip><![CDATA[		
+		
+<table width="100%"> 		
+	<tr> 	
+		<td align="left" class="tsw_tooltiptitle tsw_q;QL_VALUE;" colspan="2">Verbessertes Überbrückungsmodul</td> </tr>
+	<tr> 	
+		<td align="left" class="tsw_infolabel" colspan="2">AEGIS-Modul (QS 2 )</td> </tr> 
+	<tr> 	
+		<td align="left" class="tsw_infolabel_slot" colspan="2">Wird durch Ausrüsten gebunden </td> </tr>  
+	<tr> 	
+		<td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+		</tr> 
+	<tr>	
+		<td align="left" class="tsw_infolabel" colspan="2">
+Jedes Mal, wenn Sie ein Ziel treffen und sein AEGIS beschädigen, haben Sie eine <font color='#FF6600'>20 %</font>-Chance, allen Gegnern innerhalb eines Radius' von <font color='#FF6600'>5</font> Metern um das Ziel <span class="tsw_q4">221</span> / <span class="tsw_q5">332</span> AEGIS-Schaden Ihres aktuellen AEGIS-Typs zuzufügen.
+
+
+		
+	</td></tr>	
+		
+		
+		
+</table>		
+]]>		
+</tooltip></tswitem>		
