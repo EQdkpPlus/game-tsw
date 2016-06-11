@@ -20,7 +20,7 @@
 		</tr> 
 	<tr>	
 		<td align="left" class="tsw_infolabel" colspan="2">
-   Whenever you critically heal an ally whose AEGIS shield type matches your AEGIS weapon type, you have a <font color='#FF6600'>20%</font> chance to apply a beneficial effect to that ally which reduces all incoming AEGIS damage by <span class="tsw_q4">0,2</span> / <span class="tsw_q5">0,3</span> for <font color='#FF6600'>4</font> seconds.
+   Whenever you critically heal an ally whose AEGIS shield type matches your AEGIS weapon type, you have a <font color='#FF6600'>20%</font> chance to apply a beneficial effect to that ally which reduces all incoming AEGIS damage by <span class="tsw_q4">20%</span> / <span class="tsw_q5">30%</span> for <font color='#FF6600'>4</font> seconds.
 
 
   </td></tr>

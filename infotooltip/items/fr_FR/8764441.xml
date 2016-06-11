@@ -20,7 +20,7 @@
 		</tr> 
 	<tr>	
 		<td align="left" class="tsw_infolabel" colspan="2">
-Chaque fois que vous réussissez un soin critique sur un allié dont le bouclier AEGIS est de même type que votre arme AEGIS, vous avez <font color='#FF6600'>20%</font> de chances de lui appliquer un effet bénéfique réduisant tous les dégâts AEGIS qu'il reçoit de <span class="tsw_q4">0,2</span> / <span class="tsw_q5">0,3</span> pendant <font color='#FF6600'>4</font> secondes.
+Chaque fois que vous réussissez un soin critique sur un allié dont le bouclier AEGIS est de même type que votre arme AEGIS, vous avez <font color='#FF6600'>20%</font> de chances de lui appliquer un effet bénéfique réduisant tous les dégâts AEGIS qu'il reçoit de <span class="tsw_q4">20%</span> / <span class="tsw_q5">30%</span> pendant <font color='#FF6600'>4</font> secondes.
 </td></tr>
 		
 		
