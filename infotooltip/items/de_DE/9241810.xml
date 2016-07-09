@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tswitem>
+<itemid>9241810</itemid>
+<name>Kondensierte Anima-Energie</name>
+<iconpath>9241810</iconpath>
+<quality>6</quality>
+
+
+<tooltip><![CDATA[
+
+<table width="100%"> 
+	<tr> 
+		<td align="left" class="tsw_tooltiptitle tsw_q;QL_VALUE;" colspan="2">Kondensierte Anima-Energie</td> </tr>
+	<tr> 
+		</tr> 
+	<tr> 
+		<td align="left" class="tsw_infolabel_slot" colspan="2">Handelbar</td> </tr>  
+	<tr> 
+		<td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+		</tr> 
+		<tr>
+		<td align="left" class="tsw_infolabel" colspan="2">
+      Eine wertvolle okkulte Trophäe aus dem Feldeinsatz, durchaus von Wert, aber viele würden sagen, dass sie in ein Museum gehört. 
+
+
+	</td></tr>
+
+	
+
+</table>
+]]>
+</tooltip></tswitem>

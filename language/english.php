@@ -49,7 +49,10 @@ $english_array =  array(
 		8 	=> 'DA/BS-Buffs',
 		9 	=> 'Full-DPS',
 		10 	=> 'SF-Buff',
-		11 	=> 'Melee',			
+		11 	=> 'Melee',
+		12 	=> 'MeleeVul',		
+		13 	=> 'RangedVul',		
+		14 	=> 'MagicVul',			
 		),
 	'lang' => array(
 		'tsw'						=> 'The Secret World',

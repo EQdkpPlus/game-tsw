@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tswitem>
+<itemid>9241810</itemid>
+<name>Condensed Anima Energy</name>
+<iconpath>9241810</iconpath>
+<quality>5</quality>
+
+
+<tooltip><![CDATA[
+
+<table width="100%"> 
+	<tr> 
+		<td align="left" class="tsw_tooltiptitle tsw_q;QL_VALUE;" colspan="2">Condensed Anima Energy</td> </tr>
+	<tr> 
+		</tr> 
+	<tr> 
+		<td align="left" class="tsw_infolabel_slot" colspan="2">Tradeable</td> </tr>  
+	<tr> 
+		<td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+		</tr> 
+		<tr>
+		<td align="left" class="tsw_infolabel" colspan="2">A valuable occult trophy taken from the field, worth a tidy sum, to be sure, but there are those who would say it belongs in a museum. 
+
+
+	</td></tr>
+
+	
+
+</table>
+]]>
+</tooltip></tswitem>

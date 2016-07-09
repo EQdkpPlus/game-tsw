@@ -80,6 +80,9 @@ if(!class_exists('tsw')) {
 			9 	=> array(0,1,2,3,4,5),			# Full-DPS
 			10 	=> array(0,1,2,3,4,5),			# SF-DPS
 			11 	=> array(0,1,2,3,4,5),			# Melee
+			12	=> array(0,1,2,3,4,5),			# Melee Vulnerability
+			13	=> array(0,1,2,3,4,5),			# Ranged Vulnerability
+			14	=> array(0,1,2,3,4,5),			# Magic Vulnerability
 			
 			
 			

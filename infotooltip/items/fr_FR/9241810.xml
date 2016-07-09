@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tswitem>
+<itemid>9241810</itemid>
+<name>Énergie d'anima condensée</name>
+<iconpath>9241810</iconpath>
+<quality>5</quality>
+
+
+<tooltip><![CDATA[
+
+<table width="100%"> 
+	<tr> 
+		<td align="left" class="tsw_tooltiptitle tsw_q;QL_VALUE;" colspan="2">Énergie d'anima condensée</td> </tr>
+	<tr> 
+		</tr> 
+	<tr> 
+		<td align="left" class="tsw_infolabel_slot" colspan="2">Échangeables</td> </tr>  
+	<tr> 
+		<td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+		</tr> 
+		<tr>
+		<td align="left" class="tsw_infolabel" colspan="2">Trophée occulte de valeur trouvé sur le terrain. Nul doute qu'il doit valoir une belle somme, mais d'aucuns diraient que sa place est dans un musée.
+	</td></tr>
+
+	
+
+</table>
+]]>
+</tooltip></tswitem>

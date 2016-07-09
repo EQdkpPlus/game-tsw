@@ -14,7 +14,7 @@
 	<tr> 	
 		<td align="left" class="tsw_infolabel" colspan="2">AEGIS-Module (QL 2)</td> </tr> 
 	<tr> 	
-		<td align="left" class="tsw_infolabel_slot" colspan="2"></td> </tr> 
+		<td align="left" class="tsw_infolabel_slot" colspan="2">Bind when pickup</td> </tr> 
 	<tr> 	
 		<td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
 		</tr> 
