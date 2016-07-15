@@ -8,10 +8,15 @@ See also the [Wiki Entry](https://eqdkp-plus.eu/wiki/The_Secret_World "EQDKPPlus
 ####Requires EQdkp 2.3
 
 + new function for hide roles in the calendar 
-+ new roles and icons
++ new roles and icons (and source to create own)
 + fix for some items
++ add modules item
++ add Muesum drop from NYR elite
++ add itempictures from Eidolon nm
++ add 2 new Event Icons
 
 **load default roles in Roles Managment** 
+**Purge Item Cache** 
 
 ##2.1.9
 
