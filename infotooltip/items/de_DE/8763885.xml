@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>		
+<tswitem>		
+<itemid>8763885</itemid>		
+<name>Kritisches Wiederherstellungsmodul</name>		
+<iconpath>8439338</iconpath>		
+<quality>4</quality>		
+		
+		
+<tooltip><![CDATA[		
+		
+<table width="100%"> 		
+	<tr> 	
+		<td align="left" class="tsw_tooltiptitle tsw_q;QL_VALUE;" colspan="2">Kritisches Wiederherstellungsmodul</td> </tr>
+	<tr> 	
+		<td align="left" class="tsw_infolabel" colspan="2">AEGIS-Modul (QS 2 )</td> </tr> 
+	<tr> 	
+		<td align="left" class="tsw_infolabel_slot" colspan="2">Wird durch Ausrüsten gebunden </td> </tr>  
+	<tr> 	
+		<td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+		</tr> 
+	<tr>	
+		<td align="left" class="tsw_infolabel" colspan="2">
+Jedes Mal, wenn Sie einen Verbündeten kritisch heilen, dessen AEGIS-Schild dem Typ Ihrer AEGIS-Waffe entspricht, belegen Sie das Ziel und bis zu <font color='#FF6600'>4</font> andere Verbündete mit einem positiven Effekt, der <font color='#FF6600'>4</font> Sekunden lang <span class="tsw_q4">12</span> / <span class="tsw_q5">18</span> AEGIS-Stärke pro Sekunde regeneriert.
+
+
+		
+	</td></tr>	
+		
+		
+		
+</table>		
+]]>		
+</tooltip></tswitem>		

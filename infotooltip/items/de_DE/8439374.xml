@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>		
+<tswitem>		
+<itemid>8439374</itemid>		
+<name>Destruktives Überladungsmodul</name>		
+<iconpath>8439338</iconpath>		
+<quality>4</quality>		
+		
+		
+<tooltip><![CDATA[		
+		
+<table width="100%"> 		
+	<tr> 	
+		<td align="left" class="tsw_tooltiptitle tsw_q;QL_VALUE;" colspan="2">Destruktives Überladungsmodul</td> </tr>
+	<tr> 	
+		<td align="left" class="tsw_infolabel" colspan="2">AEGIS-Modul (QS 2 )</td> </tr> 
+	<tr> 	
+		<td align="left" class="tsw_infolabel_slot" colspan="2">Wird durch Ausrüsten gebunden </td> </tr>  
+	<tr> 	
+		<td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+		</tr> 
+	<tr>	
+		<td align="left" class="tsw_infolabel" colspan="2">
+Jedes Mal, wenn Sie das AEGIS eines Ziels zerstören, erhält es den Status "Beeinträchtigt" und kann sich <span class="tsw_q4">3</span> / <span class="tsw_q5">4,5</span> Sekunden lang nicht bewegen.
+
+
+		
+	</td></tr>	
+		
+		
+		
+</table>		
+]]>		
+</tooltip></tswitem>		

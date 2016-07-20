@@ -46,7 +46,7 @@ if ( !class_exists( 'parseyourself' ) ) {
         /**
          * @var string
          */
-        public $default_icon = '100000';
+        public $default_icon = '100000.png';
         /**
          * @var string
          */
@@ -76,6 +76,7 @@ if ( !class_exists( 'parseyourself' ) ) {
         public function __construct() {
 
             $this->mygame = registry::register( 'config' )->get( 'default_game' );
+			$this->default_icon = $this->env->buildlink().'games/' . $this->mygame . '/infotooltip/items/images/100000.png';
         }
 
         /**

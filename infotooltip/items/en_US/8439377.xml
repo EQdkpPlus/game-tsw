@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>		
+<tswitem>		
+<itemid>8439377</itemid>		
+<name>Destructive Override Module</name>		
+<iconpath>8439338</iconpath>		
+<quality>4</quality>		
+		
+		
+<tooltip><![CDATA[		
+		
+<table width="100%"> 		
+	<tr> 	
+		<td align="left" class="tsw_tooltiptitle tsw_q;QL_VALUE;" colspan="2">Destructive Override Module</td> </tr>
+	<tr> 	
+		<td align="left" class="tsw_infolabel" colspan="2">AEGIS-Module (QL 2)</td> </tr> 
+	<tr> 	
+		<td align="left" class="tsw_infolabel_slot" colspan="2">Bind when pickup</td> </tr> 
+	<tr> 	
+		<td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+		</tr> 
+	<tr>	
+		<td align="left" class="tsw_infolabel" colspan="2">
+   Whenever you destroy a target's AEGIS, that target becomes Impaired and unable to act for <span class="tsw_q4">2</span> / <span class="tsw_q5">3</span> seconds.
+
+
+  </td></tr>
+		
+		
+		
+</table>		
+]]>		
+</tooltip></tswitem>		

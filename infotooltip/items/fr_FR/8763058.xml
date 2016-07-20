@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>		
+<tswitem>		
+<itemid>8763058</itemid>		
+<name>Module de disruption réactive</name>		
+<iconpath>8439338</iconpath>		
+<quality>4</quality>		
+		
+		
+<tooltip><![CDATA[		
+		
+<table width="100%"> 		
+	<tr> 	
+		<td align="left" class="tsw_tooltiptitle tsw_q;QL_VALUE;" colspan="2">Module de disruption réactive</td> </tr>
+	<tr> 	
+		<td align="left" class="tsw_infolabel" colspan="2">Module AEGIS (NQ: 2 )</td> </tr> 
+	<tr> 	
+		<td align="left" class="tsw_infolabel_slot" colspan="2">Lié quand équipé</td> </tr> 
+	<tr> 	
+		<td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+		</tr> 
+	<tr>	
+		<td align="left" class="tsw_infolabel" colspan="2">
+Chaque fois que vous êtes #name{m: touché|f: touchée} par un coup dévié tandis que votre bouclier AEGIS est actif, vous infligez <span class="tsw_q4">198</span> / <span class="tsw_q5">297</span> points de dégâts AEGIS de votre type d'AEGIS actuel à l'attaquant.
+
+</td></tr>
+		
+		
+		
+</table>		
+]]>		
+</tooltip></tswitem>		

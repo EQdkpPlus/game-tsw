@@ -20,7 +20,7 @@
 		</tr> 
 	<tr>	
 		<td align="left" class="tsw_infolabel" colspan="2">
-      Effet : chaque fois que votre santé tombe en dessous de <font color='#FF6600'>10%</font>, vous êtesréduit/e au silence mais ne pouvez pas être vaincu/e pendant <font color='#FF6600'>3</font> secondes. Quand cet effet expire, vous êtes vaincu/e mais vous infligez <span class="tsw_q3">1000</span>/<span class="tsw_q4">2000</span>/<span class="tsw_q5">3000</span> points de dégâts physiques aux ennemis proches de vous. Cet insigne peut être lié aux talismans majeurs.
+      Effet : chaque fois que votre santé tombe en dessous de <font color='#FF6600'>10%</font>, vous êtesréduit/e au silence mais ne pouvez pas être vaincu/e pendant <font color='#FF6600'>3</font> secondes. Quand cet effet expire, vous êtes vaincu/e mais vous infligez <span class="tsw_q3">1000</span>/<span class="tsw_q4">2000</span>/<span class="tsw_q5">3000</span> points de dégâts physiques aux ennemis proches de vous. Vous faire vaincre de cette manière inflige des dégâts aux armes et talismans dont vous êtes équipé/e. Cet insigne peut être lié aux talismans majeurs.
 
 
 		

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>		
+<tswitem>		
+<itemid>8439383</itemid>		
+<name>Alacrity Leech Module</name>		
+<iconpath>8439338</iconpath>		
+<quality>4</quality>		
+		
+		
+<tooltip><![CDATA[		
+		
+<table width="100%"> 		
+	<tr> 	
+		<td align="left" class="tsw_tooltiptitle tsw_q;QL_VALUE;" colspan="2">Alacrity Leech Module</td> </tr>
+	<tr> 	
+		<td align="left" class="tsw_infolabel" colspan="2">AEGIS-Module (QL 2)</td> </tr> 
+	<tr> 	
+		<td align="left" class="tsw_infolabel_slot" colspan="2">Bind when pickup</td> </tr> 
+	<tr> 	
+		<td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+		</tr> 
+	<tr>	
+		<td align="left" class="tsw_infolabel" colspan="2">
+   Whenever you hit a target and damage their AEGIS, you have a <font color='#FF6600'>20%</font> chance to gain a beneficial effect which increases your movement speed by <span class="tsw_q4">8%</span> / <span class="tsw_q5">12%</span> for <font color='#FF6600'>5</font> seconds.
+
+
+  </td></tr>
+		
+		
+		
+</table>		
+]]>		
+</tooltip></tswitem>		

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>		
+<tswitem>		
+<itemid>8762828</itemid>		
+<name>Enhanced Override Module</name>		
+<iconpath>8439338</iconpath>		
+<quality>4</quality>		
+		
+		
+<tooltip><![CDATA[		
+		
+<table width="100%"> 		
+	<tr> 	
+		<td align="left" class="tsw_tooltiptitle tsw_q;QL_VALUE;" colspan="2">Enhanced Override Module</td> </tr>
+	<tr> 	
+		<td align="left" class="tsw_infolabel" colspan="2">AEGIS-Module (QL 2)</td> </tr> 
+	<tr> 	
+		<td align="left" class="tsw_infolabel_slot" colspan="2">Bind when pickup</td> </tr> 
+	<tr> 	
+		<td colspan="2"> <hr class="tsw_tooltip_hr"> </td>
+		</tr> 
+	<tr>	
+		<td align="left" class="tsw_infolabel" colspan="2">
+   Whenever your AEGIS shield is depleted, up to <font color='#FF6600'>5</font> enemies within a <font color='#FF6600'>5</font> meter radius around you become Impaired and unable to act for <span class="tsw_q4">2</span> / <span class="tsw_q5">3</span> seconds.
+
+
+  </td></tr>
+		
+		
+		
+</table>		
+]]>		
+</tooltip></tswitem>		

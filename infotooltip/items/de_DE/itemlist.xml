@@ -28,7 +28,7 @@
 <tswitem id="8130848" name="Ring der Molluskengötter" quality="5"/>
 <tswitem id="8130849" name="Medaillon der Tentakelhimmel" quality="5"/>
 <tswitem id="8130850" name="Fessel des Grenzlauerers" quality="5"/>
-<tswitem id="8130980" name="Sepiatinte" quality="5"/>	
+<tswitem id="8130980" name="Sepiatinte" quality="5"/>
 <tswitem id="8130981" name="Biolumineszierende Alge" quality="5"/>
 <tswitem id="8130982" name="Widerliches Sekret" quality="5"/>
 <tswitem id="8130984" name="Ereignishorizontkanon" quality="5"/>
@@ -553,6 +553,63 @@
 <tswitem id="9190726" name="Grünes Siegel der Geschützten" quality="3"/>
 <tswitem id="9176879" name="Grünes Siegel des Zeitendiebs" quality="3"/>
 <tswitem id="9190657" name="Grünes Siegel der Unablässigkeit" quality="3"/>
+<tswitem id="8439338" name="Durchdringendes Überbrückungsmodul v3" quality="5"/>
+<tswitem id="8439341" name="Kritischer-Treffer-Überbrückungsmodul v3" quality="5"/>
+<tswitem id="8439344" name="Verbessertes Feedbackschleife-Modul v3" quality="5"/>
+<tswitem id="8439347" name="Feedbackschleife-Modul v3" quality="5"/>
+<tswitem id="8439350" name="Verjüngungsumkehr-Modul v3" quality="5"/>
+<tswitem id="8439353" name="Schwächendes Überbrückungsmodul v3" quality="5"/>
+<tswitem id="8439356" name="Disloziertes Tempomodul v3" quality="5"/>
+<tswitem id="8439359" name="Disloziertes Überbrückungsmodul v3" quality="5"/>
+<tswitem id="8439362" name="Gekapertes Tempomodul v3" quality="5"/>
+<tswitem id="8439365" name="Beeinträchtigendes Überbrückungsmodul v3" quality="5"/>
+<tswitem id="8439368" name="Destruktives Wiederherstellungsmodul v3" quality="5"/>
+<tswitem id="8439371" name="Zerstörendes Tempomodul v3" quality="5"/>
+<tswitem id="8439374" name="Destruktives Überladungsmodul v3" quality="5"/>
+<tswitem id="8439377" name="Destruktives Aufhebungsmodul v3" quality="5"/>
+<tswitem id="8439380" name="Ziel-Antagonismusmodul v3" quality="5"/>
+<tswitem id="8439383" name="Tempo-Entzugsmodul v3" quality="5"/>
+<tswitem id="8439386" name="Verbessertes Überbrückungsmodul v3" quality="5"/>
+<tswitem id="8439389" name="Direktes Überbrückungsmodul v3" quality="5"/>
+<tswitem id="8762810" name="Destruktives Explosionsmodul v3" quality="5"/>
+<tswitem id="8762828" name="Verbessertes Aufhebungsmodul v3" quality="5"/>
+<tswitem id="8762985" name="Reaktives Feedbackschleife-Modul v3" quality="5"/>
+<tswitem id="8763058" name="Reaktives Störungsmodul v3" quality="5"/>
+<tswitem id="8763229" name="Evasives Wiederherstellungsmodul v3" quality="5"/>
+<tswitem id="8763332" name="Additives Wiederherstellungsmodul v3" quality="5"/>
+<tswitem id="8763716" name="Verbessertes Wiederherstellungsmodul v3" quality="5"/>
+<tswitem id="8763885" name="Kritisches Wiederherstellungsmodul v3" quality="5"/>
+<tswitem id="8764441" name="Kritisches Ablationsmodul v3" quality="5"/>
+<tswitem id="8764980" name="Schnellwiederherstellungsmodul v3" quality="5"/>
+<tswitem id="8439338" name="Durchdringendes Überbrückungsmodul v2" quality="4"/>
+<tswitem id="8439341" name="Kritischer-Treffer-Überbrückungsmodul v2" quality="4"/>
+<tswitem id="8439344" name="Verbessertes Feedbackschleife-Modul v2" quality="4"/>
+<tswitem id="8439347" name="Feedbackschleife-Modul v2" quality="4"/>
+<tswitem id="8439350" name="Verjüngungsumkehr-Modul v2" quality="4"/>
+<tswitem id="8439353" name="Schwächendes Überbrückungsmodul v2" quality="4"/>
+<tswitem id="8439356" name="Disloziertes Tempomodul v2" quality="4"/>
+<tswitem id="8439359" name="Disloziertes Überbrückungsmodul v2" quality="4"/>
+<tswitem id="8439362" name="Gekapertes Tempomodul v2" quality="4"/>
+<tswitem id="8439365" name="Beeinträchtigendes Überbrückungsmodul v2" quality="4"/>
+<tswitem id="8439368" name="Destruktives Wiederherstellungsmodul v2" quality="4"/>
+<tswitem id="8439371" name="Zerstörendes Tempomodul v2" quality="4"/>
+<tswitem id="8439374" name="Destruktives Überladungsmodul v2" quality="4"/>
+<tswitem id="8439377" name="Destruktives Aufhebungsmodul v2" quality="4"/>
+<tswitem id="8439380" name="Ziel-Antagonismusmodul v2" quality="4"/>
+<tswitem id="8439383" name="Tempo-Entzugsmodul v2" quality="4"/>
+<tswitem id="8439386" name="Verbessertes Überbrückungsmodul v2" quality="4"/>
+<tswitem id="8439389" name="Direktes Überbrückungsmodul v2" quality="4"/>
+<tswitem id="8762810" name="Destruktives Explosionsmodul v2" quality="4"/>
+<tswitem id="8762828" name="Verbessertes Aufhebungsmodul v2" quality="4"/>
+<tswitem id="8762985" name="Reaktives Feedbackschleife-Modul v2" quality="4"/>
+<tswitem id="8763058" name="Reaktives Störungsmodul v2" quality="4"/>
+<tswitem id="8763229" name="Evasives Wiederherstellungsmodul v2" quality="4"/>
+<tswitem id="8763332" name="Additives Wiederherstellungsmodul v2" quality="4"/>
+<tswitem id="8763716" name="Verbessertes Wiederherstellungsmodul v2" quality="4"/>
+<tswitem id="8763885" name="Kritisches Wiederherstellungsmodul v2" quality="4"/>
+<tswitem id="8764441" name="Kritisches Ablationsmodul v2" quality="4"/>
+<tswitem id="8764980" name="Schnellwiederherstellungsmodul v2" quality="4"/>
+<tswitem id="9241810" name="Kondensierte Anima-Energie" quality="5"/>
 
 
 </list>
