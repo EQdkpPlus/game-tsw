@@ -2,6 +2,7 @@
 
 
 See also the [Wiki Entry](https://eqdkp-plus.eu/wiki/The_Secret_World "EQDKPPlus Wiki")
+Contact me ingame RedEyeEagle
 
 # Changelog
 ##2.2.0
@@ -13,9 +14,11 @@ See also the [Wiki Entry](https://eqdkp-plus.eu/wiki/The_Secret_World "EQDKPPlus
 + add modules item
 + add Muesum drop from NYR elite
 + add itempictures from Eidolon nm
-+ add 2 new Event Icons
++ add new Event Icons
++ add and adjust new events/Itempools and the MultiDKP Pool
 
 **load default roles in Roles Managment** 
+
 **Purge Item Cache** 
 
 ##2.1.9

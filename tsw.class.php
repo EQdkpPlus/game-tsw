@@ -196,13 +196,19 @@ if(!class_exists('tsw')) {
 		public function install($install=false){
 			$this->game->resetEvents();
 			$arrEventIDs = array();
-			$arrEventIDs[] = $this->game->addEvent($this->glang('ny_raid'), 0, "86.png");
-			$arrEventIDs[] = $this->game->addEvent($this->glang('eidolon'), 0, "87.png");
-			$arrEventIDs[] = $this->game->addEvent($this->glang('flappy'), 0, "98.png");
+			$arrEventIDs[1] = $this->game->addEvent($this->glang('ny_raid_elite'), 0, "86.png");
+			$arrEventIDs[2] = $this->game->addEvent($this->glang('eidolon_elite'), 0, "87.png");
+			$arrEventIDs[3] = $this->game->addEvent($this->glang('flappy_elite'), 0, "98.png");
+			$arrEventIDs[4] = $this->game->addEvent($this->glang('nyr_nm'), 0, "103.png");
+			$arrEventIDs[5] = $this->game->addEvent($this->glang('flappy_nm'), 0, "104.png");
+			$arrEventIDs[6] = $this->game->addEvent($this->glang('eidolon_nm'), 0, "105.png");
+			
+			$arrItemPools = array();
+			$arrItemPools[] = $this->game->addItempool('Elite', 'TSW Elite Itempool');
+			$arrItemPools[] = $this->game->addItempool('Nightmare', 'TSW Nightmare Itempool');
 
-			$intItempoolID = $this->game->addItempool("TSW", "TSW Itempool");
-
-			$this->game->addMultiDKPPool("TSW", "TSW MultiDKPPool", $arrEventIDs, array($intItempoolID));
+			$this->game->addMultiDKPPool('Elite', 'TSW Elite', [1,2,3], [$arrItemPools[0]]);
+			$this->game->addMultiDKPPool('NM', 'TSW NM', [4,5,6], [$arrItemPools[1]]);
 
 			//Links
 			$this->game->addLink('TSW Forum', 'http://forums.thesecretworld.com/');

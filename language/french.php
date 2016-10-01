@@ -87,9 +87,12 @@ $french_array = array(
 		'uc_nowings'				=> 'aucun',
 		
 		//Event
-		'eidolon'					=> 'Eidolon',
-		'ny_raid'					=> 'New York',
-		'flappy'					=> 'Flappy',
+		'eidolon_elite'					=> 'Eidolon Elite',
+		'ny_raid_elite'					=> 'New York Elite',
+		'flappy_nm'						=> 'Flappy NM',
+		'eidolon_nm'					=> 'Eidolon NM',
+		'nyr_nm'						=> 'New York NM',
+		'flappy_elite'					=> 'Flappy Elite',
 		
 		// Admin Settings
 		'core_sett_fs_gamesettings'		=> 'The Secret World paramètres',
